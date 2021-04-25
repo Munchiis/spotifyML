@@ -1,51 +1,101 @@
-genre,name,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,key,tempo
-jazz,When Sunny Gets Blue,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,2,60.484
-jazz,Infant Eyes - Remastered1998/Rudy Van Gelder Edition,0.34,0.0837,-12.072,0.042,0.985,0.761,0.0945,0.119,3,138.689
-jazz,Blue Bossa - Remastered,0.531,0.366,-11.697,0.0496,0.911,0.88,0.0916,0.785,5,81.867
-jazz,Mirrors - Remastered 2004,0.406,0.208,-13.767,0.0413,0.962,0.929,0.181,0.291,1,102.778
-jazz,The Shadow of Your Smile,0.556,0.0352,-20.86,0.0419,0.942,0.167,0.082,0.196,7,110.646
-jazz,St. Thomas,0.541,0.607,-8.435,0.0438,0.727,0.442,0.0997,0.754,0,104.96
-jazz,My Foolish Heart,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,9,114.521
-jazz,Sandu,0.562,0.447,-9.363,0.0636,0.633,0.125,0.0884,0.471,8,68.957
-jazz,Poinciana,0.553,0.0902,-21.491,0.043,0.984,0.91,0.1,0.289,2,89.369
-jazz,Polka Dots And Moonbeams - Remastered,0.558,0.0891,-17.633,0.0643,0.946,0.924,0.0966,0.13,2,100.523
-jazz,"Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)",0.576,0.542,-10.167,0.0344,0.683,0.827,0.0513,0.565,6,124.019
-jazz,"Mercy, Mercy, Mercy",0.568,0.261,-16.72,0.0292,0.73,0.182,0.977,0.405,10,84.463
-jazz,Song For My Father,0.742,0.671,-8.142,0.0407,0.794,0.00441,0.122,0.591,5,127.359
-jazz,Moanin' - Remastered,0.602,0.283,-16.768,0.0505,0.79,0.148,0.136,0.462,5,130.667
-jazz,Stolen Moments,0.575,0.187,-13.081,0.0513,0.927,0.876,0.166,0.342,0,107.469
-jazz,It Never Entered My Mind,0.476,0.217,-10.75,0.0308,0.892,6.09e-05,0.0966,0.121,8,116.079
-jazz,I Remember Clifford - Rudy Van Gelder Edition; 2007 Digital Remaster,0.376,0.278,-8.597,0.0416,0.912,0.886,0.0728,0.199,0,62.055
-jazz,'Round Midnight,0.542,0.32,-9.975,0.0387,0.907,0.649,0.0609,0.206,8,116.648
-jazz,On The Sunny Side Of The Street,0.671,0.352,-11.511,0.0556,0.532,0.000141,0.11,0.396,0,120.235
-jazz,Remember - Remastered,0.539,0.403,-9.168,0.0531,0.794,0.000613,0.278,0.699,8,165.301
-jazz,Summertime,0.339,0.342,-7.596,0.0313,0.962,0.319,0.162,0.393,7,132.599
-jazz,Softly As In A Morning Sunrise,0.634,0.327,-9.703,0.0551,0.709,0.0131,0.158,0.498,0,80.825
-jazz,Blue Skies - 2000 Remastered Version,0.548,0.151,-15.243,0.0501,0.991,0.888,0.103,0.608,1,87.964
-jazz,Alone Together - Rudy Van Gelder Remaster,0.336,0.0619,-20.494,0.0363,0.985,0.891,0.11,0.197,5,60.705
-jazz,I Remember You,0.564,0.305,-14.224,0.063,0.794,0.0983,0.152,0.571,10,115.739
-jazz,Bye Bye Blackbird,0.557,0.236,-18.582,0.0363,0.531,0.783,0.0868,0.328,7,139.573
-jazz,Strasbourg / St. Denis,0.701,0.445,-10.583,0.0834,0.149,0.59,0.0963,0.405,1,103.004
-jazz,There Will Never Be Another You,0.588,0.0387,-17.944,0.06,0.978,0.823,0.116,0.342,0,83.4
-jazz,I Got It Bad And That Ain't Good,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,5,49.689
-jazz,Dolphin Dance,0.378,0.232,-18.05,0.0303,0.87,0.948,0.1,0.155,0,148.531
-jazz,Goodbye Pork Pie Hat,0.356,0.0937,-16.64,0.0353,0.957,0.096,0.209,0.278,8,86.669
-jazz,Say It (Over And Over Again),0.488,0.124,-13.038,0.0404,0.963,0.333,0.246,0.205,3,66.105
-jazz,Almost Like Being In Love,0.561,0.346,-12.596,0.0409,0.873,0.399,0.104,0.697,0,93.689
-jazz,Where or When,0.331,0.0491,-17.538,0.0403,0.99,0.905,0.334,0.331,4,124.657
-jazz,A Day In The Life,0.483,0.364,-10.78,0.0265,0.564,0.299,0.0542,0.349,9,98.445
-jazz,Skating In Central Park,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,0,124.308
-jazz,When Your Lover Has Gone - Instrumental,0.488,0.0871,-14.736,0.0406,0.975,0.634,0.0925,0.181,7,106.581
-jazz,Au Privave,0.49,0.476,-13.224,0.0365,0.696,0.00953,0.148,0.778,7,134.826
-jazz,"No Problem - Pt. 1 / BOF ""Les liaisons dangereuses""",0.376,0.66,-9.617,0.0551,0.719,0.0354,0.21,0.575,5,186.144
-jazz,Misty - Remastered 2020,0.327,0.145,-20.443,0.0397,0.945,0.884,0.091,0.136,5,178.966
-jazz,Southbound,0.408,0.43,-10.266,0.0645,0.232,0.431,0.074,0.259,2,82.533
-jazz,Cocktails For Two,0.591,0.125,-14.429,0.0469,0.917,0.344,0.0956,0.403,0,83.624
-jazz,Angel Eyes - Studio,0.487,0.145,-18.67,0.0522,0.876,0.822,0.149,0.142,5,110.134
-jazz,Cool Struttin',0.58,0.48,-7.682,0.0339,0.837,0.00432,0.171,0.48,7,108.892
-jazz,Sunday,0.645,0.309,-16.798,0.0416,0.686,5.62e-06,0.243,0.824,0,104.792
-jazz,Stella By Starlight,0.581,0.163,-16.612,0.0547,0.926,0.861,0.116,0.448,0,88.101
-jazz,You Go to My Head - 2007 Remastered Version,0.585,0.149,-13.139,0.0695,0.921,0.0809,0.0931,0.195,3,67.572
-jazz,Take Five,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,8,174.322
-jazz,Maybe Tomorrow,0.52,0.165,-15.827,0.0429,0.958,0.904,0.226,0.115,6,113.999
-jazz,Chitlins Con Carne,0.803,0.335,-13.331,0.0451,0.579,0.0128,0.0849,0.786,8,132.682
+genre,name,artist,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,key,tempo
+jazz,When Sunny Gets Blue,McCoy Tyner,427,114,-22,50,843,863,96,114,2,60
+jazz,Infant Eyes - Remastered1998/Rudy Van Gelder Edition,Wayne Shorter,340,83,-12,42,985,761,94,119,3,138
+jazz,Blue Bossa - Remastered,Joe Henderson,531,366,-11,49,911,880,91,785,5,81
+jazz,Mirrors - Remastered 2004,Freddie Hubbard,406,208,-13,41,962,929,181,291,1,102
+jazz,The Shadow of Your Smile,Dexter Gordon,556,35,-20,41,942,167,82,196,7,110
+jazz,St. Thomas,Sonny Rollins,541,607,-8,43,727,442,99,754,0,104
+jazz,My Foolish Heart,Bill Evans Trio,395,121,-23,32,935,397,697,139,9,114
+jazz,Sandu,Clifford Brown,562,447,-9,63,633,125,88,471,8,68
+jazz,Poinciana,Ahmad Jamal,553,90,-21,43,984,910,100,289,2,89
+jazz,Polka Dots And Moonbeams - Remastered,Bud Powell,558,89,-17,64,946,924,96,130,2,100
+jazz,"Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)",Joshua Redman,576,542,-10,34,683,827,51,565,6,124
+jazz,"Mercy, Mercy, Mercy",Cannonball Adderley,568,261,-16,29,730,182,977,405,10,84
+jazz,Song For My Father,Horace Silver,742,671,-8,40,794,4,122,591,5,127
+jazz,Moanin' - Remastered,Art Blakey & The Jazz Messengers,602,283,-16,50,790,148,136,462,5,130
+jazz,Stolen Moments,Oliver Nelson,575,187,-13,51,927,876,166,342,0,107
+jazz,It Never Entered My Mind,Miles Davis Quintet,476,217,-10,30,892,0,96,121,8,116
+jazz,I Remember Clifford - Rudy Van Gelder Edition; 2007 Digital Remaster,Lee Morgan,376,278,-8,41,912,886,72,199,0,62
+jazz,'Round Midnight,Thelonious Monk,542,320,-9,38,907,649,60,206,8,116
+jazz,On The Sunny Side Of The Street,Dizzy Gillespie,671,352,-11,55,532,0,110,396,0,120
+jazz,Remember - Remastered,Hank Mobley,539,403,-9,53,794,0,278,699,8,165
+jazz,Summertime,Charlie Parker,339,342,-7,31,962,319,162,393,7,132
+jazz,Softly As In A Morning Sunrise,The Modern Jazz Quartet,634,327,-9,55,709,13,158,498,0,80
+jazz,Blue Skies - 2000 Remastered Version,Art Tatum,548,151,-15,50,991,888,103,608,1,87
+jazz,Alone Together - Rudy Van Gelder Remaster,Kenny Dorham,336,61,-20,36,985,891,110,197,5,60
+jazz,I Remember You,Lee Konitz,564,305,-14,63,794,98,152,571,10,115
+jazz,Bye Bye Blackbird,Ron Carter,557,236,-18,36,531,783,86,328,7,139
+jazz,Strasbourg / St. Denis,Roy Hargrove,701,445,-10,83,149,590,96,405,1,103
+jazz,There Will Never Be Another You,Lester Young,588,38,-17,60,978,823,116,342,0,83
+jazz,I Got It Bad And That Ain't Good,Oscar Peterson Trio,488,52,-27,47,971,911,88,193,5,49
+jazz,Dolphin Dance,Ahmad Jamal Trio,378,232,-18,30,870,948,100,155,0,148
+jazz,Goodbye Pork Pie Hat,Charles Mingus,356,93,-16,35,957,96,209,278,8,86
+jazz,Say It (Over And Over Again),John Coltrane Quartet,488,124,-13,40,963,333,246,205,3,66
+jazz,Almost Like Being In Love,Red Garland,561,346,-12,40,873,399,104,697,0,93
+jazz,Where or When,Wynton Marsalis,331,49,-17,40,990,905,334,331,4,124
+jazz,A Day In The Life,Wes Montgomery,483,364,-10,26,564,299,54,349,9,98
+jazz,Skating In Central Park,Bill Evans,478,29,-25,45,993,948,105,148,0,124
+jazz,When Your Lover Has Gone - Instrumental,Art Farmer,488,87,-14,40,975,634,92,181,7,106
+jazz,Au Privave,Sonny Stitt,490,476,-13,36,696,9,148,778,7,134
+jazz,"No Problem - Pt. 1 / BOF ""Les liaisons dangereuses""",Art Blakey,376,660,-9,55,719,35,210,575,5,186
+jazz,Misty - Remastered 2020,Erroll Garner,327,145,-20,39,945,884,91,136,5,178
+jazz,Southbound,Chris Potter,408,430,-10,64,232,431,74,259,2,82
+jazz,Cocktails For Two,Coleman Hawkins,591,125,-14,46,917,344,95,403,0,83
+jazz,Angel Eyes - Studio,Tommy Flanagan,487,145,-18,52,876,822,149,142,5,110
+jazz,Cool Struttin',Sonny Clark,580,480,-7,33,837,4,171,480,7,108
+jazz,Sunday,Ben Webster,645,309,-16,41,686,0,243,824,0,104
+jazz,Stella By Starlight,Joe Lovano,581,163,-16,54,926,861,116,448,0,88
+jazz,You Go to My Head - 2007 Remastered Version,Art Pepper,585,149,-13,69,921,80,93,195,3,67
+jazz,Take Five,The Dave Brubeck Quartet,454,260,-13,40,539,0,67,598,8,174
+jazz,Maybe Tomorrow,Grant Green,520,165,-15,42,958,904,226,115,6,113
+jazz,Chitlins Con Carne,Kenny Burrell,803,335,-13,45,579,12,84,786,8,132
+jazz,Stormy Weather,Oscar Peterson,600,177,-16,56,989,869,149,560,7,120
+jazz,Bags' Groove,Milt Jackson,500,251,-12,47,885,1,248,697,0,174
+jazz,Blame It on My Youth,Brad Mehldau,420,98,-19,33,910,657,85,206,5,102
+jazz,Work Song - Remastered,The Cannonball Adderley Quintet,502,312,-12,122,724,4,83,544,1,169
+jazz,A Taste of Honey - Live,Paul Desmond,492,151,-18,42,918,3,110,215,5,124
+jazz,My One And Only Love,John Coltrane,466,71,-17,37,984,0,107,196,0,121
+jazz,Stardust,Gerry Mulligan,540,67,-18,39,966,779,101,316,1,84
+jazz,Before It's Time to Say Goodbye,Kenny Garrett,364,114,-16,33,857,635,83,57,1,117
+jazz,"Monk's Mood - Live At Carnegie Hall, New York/1957",Thelonious Monk Quartet,334,162,-17,43,981,686,422,104,5,68
+jazz,Stardust,Bobby Hutcherson,349,33,-22,35,967,693,272,230,3,64
+jazz,My Romance - Rudy Van Gelder Remaster,Gene Ammons,464,5,-22,60,945,904,139,297,1,95
+jazz,Lonely Woman,Ornette Coleman,474,376,-10,28,315,0,147,253,9,81
+jazz,Splanky,Count Basie,583,376,-10,43,725,251,64,614,6,120
+jazz,Midnight Special - Rudy Van Gelder Digital Remaster/2007,Jimmy Smith,704,277,-11,35,814,756,84,322,0,90
+jazz,You've Changed,Kurt Rosenwinkel,486,125,-19,35,988,804,115,207,0,112
+jazz,Yams,Jackie McLean,571,293,-11,38,828,179,112,230,0,82
+jazz,Sister Rosa,Christian McBride,446,468,-11,34,759,86,130,392,3,126
+jazz,Young One for Debra,Jim Hall,338,13,-28,49,996,953,110,144,2,79
+jazz,The People In Nassau,Blue Mitchell,688,552,-9,35,689,194,85,892,7,110
+jazz,Going Home,Charlie Haden,406,22,-28,46,958,923,105,196,0,90
+jazz,How Can I Tell You - Live,Charles Lloyd,385,300,-12,36,975,374,769,253,3,90
+jazz,Someday My Prince Will Come,Wynton Kelly,558,327,-17,39,562,0,83,252,10,114
+jazz,Love Theme From Spartacus - Remastered,Yusef Lateef,522,379,-14,28,635,925,114,454,4,133
+jazz,From Dream to Dream,Benny Golson,300,97,-20,39,967,969,116,138,7,169
+jazz,Eleanor,Hank Jones,450,43,-29,37,971,880,94,98,10,63
+jazz,Journey Into The Melody,Stanley Turrentine,432,29,-20,41,971,265,167,190,5,98
+jazz,Lonesome Lover,Max Roach,360,429,-13,39,472,0,137,429,9,113
+jazz,Crystal Silence,Chick Corea,203,18,-24,40,985,377,72,48,9,76
+jazz,Seymour Reads the Constitution,Brad Mehldau Trio,586,284,-15,36,760,783,102,391,6,93
+jazz,Cantaloupe Island - Remastered,Herbie Hancock,515,583,-8,28,749,0,123,414,0,116
+jazz,Hat And Beard,Eric Dolphy,465,644,-7,106,496,179,176,355,8,81
+jazz,Oriental Flower,Elvin Jones,475,272,-16,41,690,63,115,171,7,127
+jazz,In A Sentimental Mood,Duke Ellington,464,305,-12,31,936,84,208,282,3,108
+jazz,Passion Flower - Instrumental,Kenny Barron,451,231,-18,42,856,907,367,76,8,103
+jazz,Senor Mouse,Gary Burton,456,205,-19,45,952,889,101,310,11,111
+jazz,You've Changed,Keith Jarrett Trio,421,129,-26,46,886,852,132,185,8,107
+jazz,Blue Haze,Miles Davis Quartet,596,230,-15,46,447,0,83,249,0,71
+jazz,Blue in Green (feat. John Coltrane & Bill Evans),Miles Davis,421,16,-25,38,808,2,97,154,2,110
+jazz,Senor Blues - Alternate 45 Take/Rudy Van Gelder Edition/2000 Digital Remaster/24-Bit Mastering,Horace Silver Quintet,516,374,-10,34,915,803,111,769,10,145
+jazz,I Fall In Love Too Easily - Vocal Version,Chet Baker,532,65,-19,40,940,4,94,292,0,128
+jazz,The Nearness Of You,Michael Brecker,517,152,-15,30,925,1,82,173,10,98
+jazz,Besame Mucho,Dave Brubeck,637,257,-17,54,881,706,975,304,10,126
+jazz,Crazy Rhythm,Benny Carter,632,647,-8,55,278,165,122,835,7,118
+jazz,Donna,Miles Davis Sextet,584,440,-9,32,713,0,141,737,5,81
+jazz,Sunset,McCoy Tyner Trio,413,84,-23,36,967,815,108,87,2,131
+jazz,Cristo Redentor - Remastered,Donald Byrd,260,203,-12,35,990,944,134,64,7,173
+jazz,Over The Rainbow,Lou Donaldson,371,82,-20,35,963,490,83,78,3,106
+jazz,Evening In Paris,Zoot Sims,564,162,-12,33,984,358,125,570,6,62
+jazz,Goin' home,Archie Shepp,491,36,-16,44,971,804,200,235,3,114
+jazz,What Is This Thing Called Love,J.J. Johnson,517,458,-13,40,727,44,752,709,5,119

@@ -1,51 +1,101 @@
-genre,name,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,key,tempo
-country,Meet In the Middle,0.746,0.443,-11.305,0.0359,0.663,0,0.223,0.554,4,91.11
-country,Amazed,0.561,0.543,-8.498,0.0324,0.26,0,0.124,0.243,1,139.803
-country,She Won't Be Lonely Long,0.635,0.758,-5.772,0.0243,0.00643,0,0.229,0.322,7,113.002
-country,She's In Love With The Boy - Single Version,0.783,0.698,-8.268,0.0323,0.522,2.52e-06,0.0754,0.758,3,124.996
-country,Neon Moon,0.698,0.632,-6.508,0.0247,0.554,0,0.118,0.458,9,102.408
-country,Bye-Bye,0.644,0.868,-3.98,0.0464,0.183,0,0.322,0.642,10,134.38
-country,"Forever and Ever, Amen",0.677,0.724,-8.992,0.0245,0.143,0.000101,0.158,0.697,2,90.392
-country,Sold (The Grundy County Auction Incident),0.771,0.848,-7.365,0.035,0.108,0,0.35,0.803,2,115.642
-country,Bubba Shot The Jukebox,0.544,0.648,-8.454,0.0549,0.307,0,0.0843,0.866,7,165.484
-country,It's A Great Day To Be Alive,0.595,0.653,-4.935,0.0265,0.246,0,0.264,0.542,7,128.93
-country,John Deere Green,0.703,0.834,-5.054,0.0277,0.11,0,0.0664,0.722,7,130.391
-country,Watermelon Crawl,0.759,0.723,-9.315,0.028,0.173,0,0.179,0.962,0,136.746
-country,Time Marches On,0.856,0.517,-9.232,0.0293,0.563,0.000164,0.144,0.479,6,118.399
-country,You're Gonna Miss This,0.507,0.665,-7.157,0.0349,0.0237,6.34e-05,0.0994,0.323,8,154.928
-country,"Love, Me",0.6,0.242,-12.63,0.031,0.697,0,0.128,0.3,0,106.616
-country,She Don't Know She's Beautiful,0.764,0.646,-9.424,0.0302,0.367,0,0.0849,0.877,9,116.141
-country,Fancy,0.674,0.517,-11.225,0.0726,0.226,0,0.0697,0.482,11,94.98
-country,Killin' Time,0.711,0.491,-10.323,0.0295,0.381,9.12e-06,0.249,0.671,7,121.294
-country,Redneck Yacht Club,0.49,0.817,-5.405,0.0355,0.455,0,0.0885,0.808,8,168.115
-country,Your Man,0.744,0.637,-4.483,0.0241,0.337,0.000222,0.0696,0.785,6,100.511
-country,Independence Day,0.712,0.63,-6.202,0.0299,0.257,6.65e-05,0.0999,0.768,9,118.378
-country,Redneck Woman,0.499,0.825,-5.146,0.177,0.13,0,0.306,0.753,6,185.069
-country,Caught Up In The Country,0.603,0.852,-5.166,0.0463,0.0137,0,0.513,0.655,7,124.091
-country,A Little Bit Stronger,0.536,0.65,-5.603,0.0337,0.282,1.16e-06,0.0876,0.288,2,147.93
-country,Better Things To Do,0.569,0.782,-5.868,0.0491,0.105,0,0.13,0.595,10,150.631
-country,Save a Horse (Ride a Cowboy),0.7,0.896,-2.276,0.191,0.108,0,0.453,0.817,2,102.065
-country,Tequila Makes Her Clothes Fall Off,0.664,0.706,-7.045,0.027,0.129,1.06e-06,0.0857,0.681,2,93.968
-country,What Kinda Gone,0.494,0.861,-5.236,0.0365,0.257,0,0.103,0.668,5,172.052
-country,Song of the South,0.486,0.633,-8.414,0.0365,0.176,0,0.312,0.669,9,162.158
-country,Undivided,0.583,0.814,-4.747,0.0295,0.13,0,0.205,0.41,10,90.01
-country,Check Yes Or No,0.708,0.524,-12.644,0.0352,0.0551,3.21e-06,0.0371,0.69,5,111.482
-country,Some Girls Do,0.64,0.852,-6.406,0.028,0.0907,0,0.151,0.903,2,139.949
-country,Good Directions,0.716,0.72,-2.183,0.0319,0.307,0,0.135,0.464,5,122.512
-country,Every Storm (Runs Out Of Rain),0.525,0.693,-6.972,0.0327,0.046,9.55e-06,0.247,0.363,0,107.012
-country,Two Dozen Roses,0.687,0.648,-9.137,0.027,0.314,1.37e-06,0.289,0.6,4,121.341
-country,This Kiss,0.398,0.804,-5.559,0.0451,0.175,0,0.181,0.709,11,186.752
-country,Just Another Day In Paradise,0.596,0.706,-5.562,0.0262,0.351,0,0.36,0.704,2,146.088
-country,19 Somethin' - Greatest Hits Version,0.58,0.816,-5.165,0.0726,0.132,0,0.0776,0.814,4,89.938
-country,Life is a Highway,0.582,0.952,-3.848,0.0731,0.00324,0,0.223,0.655,5,103.027
-country,Where I Come From,0.62,0.852,-4.203,0.0308,0.0108,4.94e-06,0.279,0.479,1,90.038
-country,Whiskey Lullaby (feat. Alison Krauss),0.52,0.333,-11.508,0.0302,0.816,0,0.188,0.198,2,74.165
-country,I Hope You Dance,0.385,0.443,-9.627,0.0295,0.0632,0,0.0898,0.275,7,151.278
-country,Don't Let Our Love Start Slippin' Away,0.736,0.719,-9.311,0.0313,0.42,0.000851,0.35,0.657,3,113.228
-country,Billy's Got His Beer Goggles On - Remastered Version,0.715,0.775,-6.613,0.0433,0.354,0,0.144,0.803,0,106.013
-country,One Too Many,0.697,0.535,-6.504,0.068,0.247,0,0.569,0.594,4,82.959
-country,You've Got to Stand for Something,0.533,0.585,-9.789,0.0337,0.199,0,0.11,0.472,4,83.403
-country,Straight Tequila Night,0.64,0.639,-10.11,0.0331,0.134,0,0.178,0.593,9,109.263
-country,Grandpa (Tell Me 'Bout The Good Old Days),0.56,0.239,-16.732,0.0347,0.473,1.37e-05,0.0565,0.601,4,201.672
-country,"Wine, Beer, Whiskey",0.727,0.914,-5.85,0.0743,0.617,0,0.596,0.784,7,106.021
-country,Should've Been A Cowboy,0.585,0.793,-3.713,0.0322,0.351,0,0.3,0.732,7,133.839
+genre,name,artist,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,key,tempo
+country,Meet In the Middle,Diamond Rio,746,443,-11,35,663,0,223,554,4,91
+country,Amazed,Lonestar,561,543,-8,32,260,0,124,243,1,139
+country,She Won't Be Lonely Long,Clay Walker,635,758,-5,24,6,0,229,322,7,113
+country,She's In Love With The Boy - Single Version,Trisha Yearwood,783,698,-8,32,522,0,75,758,3,124
+country,Neon Moon,Brooks & Dunn,698,632,-6,24,554,0,118,458,9,102
+country,Bye-Bye,Jo Dee Messina,644,868,-3,46,183,0,322,642,10,134
+country,"Forever and Ever, Amen",Randy Travis,677,724,-8,24,143,0,158,697,2,90
+country,Sold (The Grundy County Auction Incident),John Michael Montgomery,771,848,-7,35,108,0,350,803,2,115
+country,Bubba Shot The Jukebox,Mark Chesnutt,544,648,-8,54,307,0,84,866,7,165
+country,It's A Great Day To Be Alive,Travis Tritt,595,653,-4,26,246,0,264,542,7,128
+country,John Deere Green,Joe Diffie,703,834,-5,27,110,0,66,722,7,130
+country,Watermelon Crawl,Tracy Byrd,759,723,-9,28,173,0,179,962,0,136
+country,Time Marches On,Tracy Lawrence,856,517,-9,29,563,0,144,479,6,118
+country,You're Gonna Miss This,Trace Adkins,507,665,-7,34,23,0,99,323,8,154
+country,"Love, Me",Collin Raye,600,242,-12,31,697,0,128,300,0,106
+country,She Don't Know She's Beautiful,Sammy Kershaw,764,646,-9,30,367,0,84,877,9,116
+country,Fancy,Reba McEntire,674,517,-11,72,226,0,69,482,11,94
+country,Killin' Time,Clint Black,711,491,-10,29,381,0,249,671,7,121
+country,Redneck Yacht Club,Craig Morgan,490,817,-5,35,455,0,88,808,8,168
+country,Your Man,Josh Turner,744,637,-4,24,337,0,69,785,6,100
+country,Independence Day,Martina McBride,712,630,-6,29,257,0,99,768,9,118
+country,Redneck Woman,Gretchen Wilson,499,825,-5,177,130,0,306,753,6,185
+country,Caught Up In The Country,Rodney Atkins,603,852,-5,46,13,0,513,655,7,124
+country,A Little Bit Stronger,Sara Evans,536,650,-5,33,282,0,87,288,2,147
+country,Better Things To Do,Terri Clark,569,782,-5,49,105,0,130,595,10,150
+country,Save a Horse (Ride a Cowboy),Big & Rich,700,896,-2,191,108,0,453,817,2,102
+country,Tequila Makes Her Clothes Fall Off,Joe Nichols,664,706,-7,27,129,0,85,681,2,93
+country,What Kinda Gone,Chris Cagle,494,861,-5,36,257,0,103,668,5,172
+country,Song of the South,Alabama,486,633,-8,36,176,0,312,669,9,162
+country,Undivided,Tim McGraw,583,814,-4,29,130,0,205,410,10,90
+country,Check Yes Or No,George Strait,708,524,-12,35,55,0,37,690,5,111
+country,Some Girls Do,Sawyer Brown,640,852,-6,28,90,0,151,903,2,139
+country,Good Directions,Billy Currington,716,720,-2,31,307,0,135,464,5,122
+country,Every Storm (Runs Out Of Rain),Gary Allan,525,693,-6,32,46,0,247,363,0,107
+country,Two Dozen Roses,Shenandoah,687,648,-9,27,314,0,289,600,4,121
+country,This Kiss,Faith Hill,398,804,-5,45,175,0,181,709,11,186
+country,Just Another Day In Paradise,Phil Vassar,596,706,-5,26,351,0,360,704,2,146
+country,19 Somethin' - Greatest Hits Version,Mark Wills,580,816,-5,72,132,0,77,814,4,89
+country,Life is a Highway,Rascal Flatts,582,952,-3,73,3,0,223,655,5,103
+country,Where I Come From,Montgomery Gentry,620,852,-4,30,10,0,279,479,1,90
+country,Whiskey Lullaby (feat. Alison Krauss),Brad Paisley,520,333,-11,30,816,0,188,198,2,74
+country,I Hope You Dance,Lee Ann Womack,385,443,-9,29,63,0,89,275,7,151
+country,Don't Let Our Love Start Slippin' Away,Vince Gill,736,719,-9,31,420,0,350,657,3,113
+country,Billy's Got His Beer Goggles On - Remastered Version,Neal McCoy,715,775,-6,43,354,0,144,803,0,106
+country,One Too Many,Keith Urban,697,535,-6,68,247,0,569,594,4,82
+country,You've Got to Stand for Something,Aaron Tippin,533,585,-9,33,199,0,110,472,4,83
+country,Straight Tequila Night,John Anderson,640,639,-10,33,134,0,178,593,9,109
+country,Grandpa (Tell Me 'Bout The Good Old Days),The Judds,560,239,-16,34,473,0,56,601,4,201
+country,"Wine, Beer, Whiskey",Little Big Town,727,914,-5,74,617,0,596,784,7,106
+country,Should've Been A Cowboy,Toby Keith,585,793,-3,32,351,0,300,732,7,133
+country,Maybe It Was Memphis,Pam Tillis,495,695,-6,31,437,0,73,496,9,73
+country,Gone,Dierks Bentley,521,746,-6,35,9,0,74,473,6,149
+country,American Kids,Kenny Chesney,733,589,-7,100,47,0,36,867,7,170
+country,God Blessed Texas,Little Texas,648,766,-8,32,232,0,121,971,9,128
+country,Livin' Our Love Song,Jason Michael Carroll,488,855,-3,39,287,0,132,799,7,148
+country,It's Five O'Clock Somewhere,Alan Jackson,713,768,-6,36,220,0,177,878,2,125
+country,God's Country,Blake Shelton,536,754,-5,39,59,0,118,212,10,139
+country,Settling Down,Miranda Lambert,643,756,-5,30,21,0,101,934,6,90
+country,Delta Dawn,Tanya Tucker,619,507,-7,33,710,0,258,694,5,77
+country,Have You Forgotten?,Darryl Worley,478,625,-5,34,51,0,116,343,7,160
+country,Dust On The Bottle,David Lee Murphy,736,614,-11,38,23,0,292,858,11,99
+country,Stuck Like Glue,Sugarland,702,795,-4,56,329,0,50,836,1,83
+country,Strawberry Wine,Deana Carter,572,449,-6,26,314,0,30,207,1,122
+country,Except for Monday,Lorrie Morgan,658,600,-11,32,81,0,63,886,7,170
+country,Goodbye Says It All,BlackHawk,646,479,-9,26,56,0,51,674,8,137
+country,How Country Feels,Randy Houser,678,839,-3,39,37,0,74,772,7,104
+country,Don't Close Your Eyes,Keith Whitley,605,228,-16,26,703,1,93,285,7,78
+country,Wagon Wheel,Darius Rucker,537,660,-7,29,455,0,135,574,9,148
+country,Too Much Fun,Daryle Singletary,681,888,-4,65,124,0,573,797,7,151
+country,This Cowboy's Hat,Chris LeDoux,493,297,-14,48,403,0,145,436,6,90
+country,Made For You,Jake Owen,581,441,-6,26,770,0,111,337,1,82
+country,Famous Friends,Chris Young,533,855,-2,35,55,0,335,640,6,102
+country,Need You Now,Lady A,581,717,-4,31,29,0,243,316,4,107
+country,I Try to Think About Elvis,Patty Loveless,620,697,-7,49,31,0,164,711,11,160
+country,Trashy Women - Remastered Version,Confederate Railroad,639,795,-6,34,45,0,121,864,9,142
+country,Pickin' Wildflowers,Keith Anderson,561,716,-3,29,35,0,122,667,8,152
+country,Hell Of A View,Eric Church,689,582,-6,23,119,4,101,883,5,99
+country,Why Didn't I Think Of That,Doug Stone,758,596,-7,28,440,0,132,859,2,121
+country,Just Got Paid,Emerson Drive,608,798,-5,51,85,0,79,672,10,172
+country,Keep It Between The Lines,Ricky Van Shelton,662,282,-11,24,651,0,94,377,5,89
+country,Louisiana Saturday Night,Mel McDaniel,686,622,-7,85,532,0,51,982,2,163
+country,All Over The Road,Easton Corbin,491,841,-3,42,47,0,88,721,5,199
+country,Holes In The Floor Of Heaven,Steve Wariner,660,340,-10,27,540,0,80,384,1,108
+country,Best Days of Your Life,Kellie Pickler,650,862,-5,56,23,0,72,541,9,127
+country,Outskirts of Heaven,Craig Campbell,497,434,-5,29,333,0,108,266,0,115
+country,Nothin' To Lose,Josh Gracin,607,876,-4,38,371,0,519,886,7,121
+country,Meet Me In Montana,Dan Seals,661,389,-12,30,393,0,90,515,10,124
+country,When She Cries,Restless Heart,666,521,-10,29,114,0,60,361,9,105
+country,Why We Drink,Justin Moore,624,903,-3,34,8,0,309,724,6,116
+country,If I Die Young,The Band Perry,606,497,-6,27,348,0,275,362,4,130
+country,You Won't Ever Be Lonely,Andy Griggs,471,617,-8,38,52,0,229,491,8,182
+country,Smoky Mountain Rain,Ronnie Milsap,554,577,-8,28,16,0,71,479,7,140
+country,What Mattered Most,Ty Herndon,529,509,-8,25,415,0,171,270,0,142
+country,In Color,Jamey Johnson,544,404,-8,35,391,0,157,251,3,129
+country,Holding Her and Loving You,Earl Thomas Conley,640,317,-14,30,605,0,118,300,7,125
+country,No One Else On Earth,Wynonna,775,861,-7,29,188,0,199,964,0,98
+country,You Make It Easy,Jason Aldean,375,574,-5,31,143,0,110,406,7,132
+country,Drink to That All Night,Jerrod Niemann,639,846,-6,43,32,0,116,475,9,115
+country,Pour Me,Trick Pony,484,905,-3,135,93,0,286,767,10,182
+country,One Wing In The Fire,Trent Tomlinson,613,526,-7,30,373,0,137,412,3,142

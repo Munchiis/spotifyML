@@ -1,51 +1,101 @@
-genre,name,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,key,tempo
-rock,Baila Conmigo (with Rauw Alejandro),0.823,0.544,-7.132,0.0715,0.0215,0.00315,0.0966,0.664,5,149.903
-rock,Met Him Last Night (feat. Ariana Grande),0.538,0.512,-4.548,0.0262,0.22,0,0.101,0.12,4,144.978
-rock,Scars To Your Beautiful,0.573,0.739,-5.74,0.129,0.0285,0,0.111,0.451,0,97.085
-rock,Dusk Till Dawn (feat. Sia) - Radio Edit,0.259,0.437,-6.589,0.0386,0.102,1.32e-06,0.106,0.0951,11,180.042
-rock,Havana (feat. Young Thug),0.765,0.523,-4.333,0.03,0.184,3.56e-05,0.132,0.394,2,104.988
-rock,"Let Me Go (with Alesso, Florida Georgia Line & watt)",0.664,0.708,-4.154,0.0474,0.0337,0,0.0841,0.742,8,103.07
-rock,Work from Home (feat. Ty Dolla $ign),0.803,0.585,-5.861,0.0432,0.103,3.94e-06,0.0644,0.593,8,105.017
-rock,Issues,0.728,0.415,-6.852,0.0639,0.401,0,0.0616,0.455,8,114.145
-rock,"Love Me Like You Do - From ""Fifty Shades Of Grey""",0.262,0.606,-6.646,0.0484,0.247,0,0.125,0.275,8,189.857
-rock,Without Me,0.752,0.488,-7.05,0.0705,0.297,9.11e-06,0.0936,0.533,6,136.041
-rock,Lush Life,0.694,0.712,-3.923,0.046,0.133,0,0.211,0.799,7,98.022
-rock,Big (feat. Gunna),0.781,0.843,-3.445,0.0349,0.0672,1.27e-06,0.0637,0.616,7,111.992
-rock,Sucker,0.842,0.734,-5.065,0.0588,0.0427,0,0.106,0.952,1,137.958
-rock,Meant to Be (feat. Florida Georgia Line),0.642,0.772,-6.61,0.0848,0.0476,0,0.0646,0.589,10,153.995
-rock,Strawberries & Cigarettes,0.578,0.537,-8.676,0.0832,0.162,0,0.076,0.25,9,83.909
-rock,Spaceman,0.548,0.601,-7.366,0.235,0.324,0,0.107,0.358,5,155.554
-rock,Selfish,0.375,0.461,-6.202,0.0279,0.627,0,0.386,0.233,9,75.217
-rock,hate u love u,0.407,0.416,-8.915,0.174,0.656,0,0.0981,0.246,6,176.947
-rock,feel something,0.74,0.415,-8.914,0.0707,0.242,0.000156,0.319,0.156,0,136.029
-rock,Bang Bang,0.706,0.783,-3.441,0.1,0.315,0,0.373,0.739,0,150.045
-rock,Somebody To You,0.526,0.818,-5.952,0.0358,0.0587,0,0.333,0.896,3,171.96
-rock,Cake By The Ocean,0.774,0.753,-5.446,0.0517,0.152,0,0.0371,0.896,4,119.002
-rock,Habits (Stay High),0.729,0.65,-3.539,0.0313,0.0702,6.69e-05,0.0829,0.347,5,110.02
-rock,2002,0.697,0.683,-2.881,0.117,0.0372,0,0.137,0.603,1,96.133
-rock,Sweet Melody,0.448,0.824,-4.249,0.057,0.0739,0,0.113,0.419,5,119.965
-rock,Teeth,0.749,0.461,-2.961,0.0416,0.0516,6.24e-06,0.0738,0.42,10,139.02
-rock,Black And White,0.443,0.582,-6.02,0.0482,0.0301,0,0.127,0.239,2,147.589
-rock,The Middle,0.753,0.657,-3.061,0.0449,0.171,0,0.112,0.437,7,107.01
-rock,Love You Like A Love Song,0.858,0.678,-3.87,0.0469,0.0761,0,0.0741,0.922,1,117.009
-rock,July,0.708,0.186,-8.953,0.042,0.868,0,0.0779,0.322,9,72.541
-rock,Like I'm Gonna Lose You (feat. John Legend),0.63,0.53,-7.259,0.0434,0.4,0,0.177,0.417,0,108.038
-rock,I.F.L.Y.,0.812,0.519,-4.823,0.0385,0.379,0,0.13,0.554,2,104.954
-rock,TiK ToK,0.755,0.837,-2.718,0.142,0.0991,0,0.289,0.714,2,120.028
-rock,Prisoner (feat. Dua Lipa),0.781,0.67,-3.912,0.0452,0.0103,0,0.0761,0.595,3,127.99
-rock,Skin,0.557,0.457,-5.372,0.0335,0.428,0,0.0567,0.328,7,105.918
-rock,I Like Me Better,0.752,0.505,-7.621,0.253,0.535,2.55e-06,0.104,0.419,9,91.97
-rock,Strip That Down (feat. Quavo),0.873,0.495,-5.446,0.0518,0.199,0,0.0805,0.546,6,106.033
-rock,you broke me first,0.667,0.373,-9.389,0.05,0.785,0,0.0906,0.0823,4,124.148
-rock,Tick Tock (feat. 24kGoldn),0.779,0.705,-3.895,0.0344,0.369,7.91e-06,0.124,0.946,0,101.022
-rock,Señorita,0.759,0.548,-6.049,0.029,0.0392,0,0.0828,0.749,9,116.967
-rock,Bitter,0.724,0.594,-7.126,0.102,0.393,0.00116,0.0889,0.413,6,136.002
-rock,We Don't Talk Anymore (feat. Selena Gomez),0.728,0.563,-8.053,0.134,0.621,0,0.179,0.352,1,100.017
-rock,Hurts So Good,0.672,0.625,-5.068,0.0468,0.0774,0,0.0934,0.423,7,120.038
-rock,Painkiller,0.683,0.42,-6.51,0.0542,0.0875,0,0.225,0.469,5,128.621
-rock,Fallin’ (Adrenaline),0.606,0.9,-4.504,0.119,0.0101,0,0.075,0.233,0,133.963
-rock,Dancing With Your Ghost,0.629,0.327,-8.285,0.029,0.761,2.96e-05,0.103,0.381,11,74.953
-rock,Don't Call Me Up,0.674,0.881,-2.853,0.147,0.296,3.01e-06,0.0793,0.234,9,98.994
-rock,Because of You,0.587,0.583,-5.284,0.0313,0.248,0,0.124,0.15,5,139.92
-rock,Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album,0.696,0.686,-6.113,0.0309,0.262,0,0.174,0.7,5,115.982
-rock,Last Friday Night (T.G.I.F.),0.652,0.812,-3.797,0.0409,0.00125,3.01e-05,0.667,0.72,3,126.023
+genre,name,artist,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,key,tempo
+rock,Baba O'Riley,The Who,489,724,-8,35,313,185,287,150,5,117
+rock,Jump - 2015 Remaster,Van Halen,572,835,-6,31,171,0,70,795,0,129
+rock,Sweet Home Alabama,Lynyrd Skynyrd,596,605,-12,25,181,0,86,886,7,97
+rock,More Than a Feeling,Boston,377,682,-8,29,0,2,50,288,7,108
+rock,American Girl,Tom Petty and the Heartbreakers,550,824,-5,33,448,0,366,777,2,114
+rock,The Joker,Steve Miller Band,596,448,-9,39,365,0,206,796,5,83
+rock,Sunshine Of Your Love,Cream,684,481,-12,38,475,0,118,784,2,115
+rock,Drive - 2017 Remaster,The Cars,261,703,-7,41,115,0,102,405,6,83
+rock,Stairway to Heaven - Remaster,Led Zeppelin,338,340,-12,33,580,3,116,197,9,82
+rock,I Want You to Want Me,Cheap Trick,806,462,-12,29,780,13,150,736,2,92
+rock,Hard To Handle,The Black Crowes,599,790,-3,43,2,1,312,961,4,103
+rock,La Grange - 2005 Remaster,ZZ Top,545,640,-9,224,2,30,196,606,4,80
+rock,(Don't Fear) The Reaper,Blue Ã–yster Cult,333,927,-8,73,2,0,297,385,9,141
+rock,Poison,Alice Cooper,280,908,-5,109,32,0,180,260,2,118
+rock,Smoke On The Water - Remastered 2012,Deep Purple,598,676,-9,27,130,225,112,805,0,114
+rock,The Boys Are Back In Town,Thin Lizzy,445,706,-9,46,234,0,205,768,8,80
+rock,She Sells Sanctuary,The Cult,550,765,-8,28,0,873,132,419,7,139
+rock,Barracuda,Heart,547,691,-13,36,15,105,144,667,4,137
+rock,All Along the Watchtower,Jimi Hendrix,438,805,-6,62,2,0,84,564,8,113
+rock,Black Hole Sun,Soundgarden,361,728,-8,36,0,0,70,155,6,105
+rock,Seven Nation Army,The White Stripes,726,463,-7,79,8,447,255,321,0,123
+rock,Crazy Train,Ozzy Osbourne,454,913,-4,107,408,0,248,521,9,137
+rock,Feel like Makin' Love - 2015 Remaster,Bad Company,543,529,-9,30,326,2,709,746,7,85
+rock,Free Fallin',Tom Petty,623,449,-13,25,212,0,61,572,5,84
+rock,Paranoid,Black Sabbath,429,631,-11,76,0,4,175,376,4,162
+rock,Tom Sawyer,Rush,536,901,-7,37,1,18,60,666,9,87
+rock,Interstate Love Song - 2019 Remaster,Stone Temple Pilots,215,927,-7,45,0,6,126,490,9,170
+rock,Stranglehold,Ted Nugent,484,711,-7,33,18,173,94,490,2,148
+rock,Life's Been Good,Joe Walsh,505,476,-12,71,250,9,113,542,2,99
+rock,You Ain't Seen Nothing Yet,Bachman-Turner Overdrive,475,439,-15,42,0,0,223,760,11,118
+rock,You Really Got Me - Mono Mix,The Kinks,573,939,-6,80,493,0,99,963,8,137
+rock,Song 2 - 2012 Remaster,Blur,674,789,-6,67,1,7,75,918,8,129
+rock,Listen to the Music,The Doobie Brothers,645,598,-13,33,221,0,72,913,1,105
+rock,"Steady, as She Goes",The Raconteurs,530,603,-4,115,12,19,83,549,9,123
+rock,No One Knows,Queens of the Stone Age,509,584,-4,57,36,0,384,685,0,170
+rock,Losing My Religion,R.E.M.,666,855,-5,29,179,0,98,803,9,125
+rock,"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",Aerosmith,390,649,-5,34,172,0,216,144,2,121
+rock,Rebel Yell,Billy Idol,530,864,-4,61,0,0,354,484,4,166
+rock,Since You Been Gone,Rainbow,733,726,-6,37,379,0,471,915,7,120
+rock,Midnight Rider,Allman Brothers Band,585,532,-9,26,209,7,227,680,7,94
+rock,I Want to Know What Love Is - 1999 Remaster,Foreigner,477,471,-10,27,193,0,131,423,6,81
+rock,Jack & Diane,John Mellencamp,811,410,-8,39,36,0,79,626,9,103
+rock,Here I Go Again - 2018 Remaster,Whitesnake,292,823,-6,40,11,0,155,244,7,89
+rock,The Stroke - Remastered,Billy Squier,670,591,-6,64,620,0,373,800,7,91
+rock,Every Breath You Take,The Police,820,452,-9,34,543,2,71,740,1,117
+rock,Some Kind Of Wonderful - Remastered 1999,Grand Funk Railroad,855,691,-6,51,144,0,360,647,2,121
+rock,Slither,Velvet Revolver,478,974,-3,102,0,98,73,268,7,141
+rock,Centerfold,The J. Geils Band,653,677,-12,39,249,0,403,888,0,114
+rock,My Sweet Lord - Remastered 2014,George Harrison,537,701,-8,33,97,0,83,583,1,120
+rock,Ooh La La,Faces,601,574,-8,30,579,0,216,800,2,147
+rock,Like a Stone,Audioslave,614,568,-5,27,7,0,99,516,7,107
+rock,Big Log - 2006 Remaster,Robert Plant,554,639,-7,27,359,2,205,644,9,180
+rock,Bad To The Bone,George Thorogood & The Destroyers,459,727,-11,30,6,65,384,955,0,149
+rock,I'll Stand by You,Pretenders,438,606,-6,30,300,0,75,266,7,133
+rock,Born To Be Wild,Steppenwolf,438,710,-12,91,262,537,221,530,2,145
+rock,Should I Stay or Should I Go - Remastered,The Clash,743,836,-6,116,80,0,384,820,2,113
+rock,Show Me The Way,Peter Frampton,700,726,-7,32,434,0,96,641,2,130
+rock,Heavy Metal,Sammy Hagar,276,639,-11,47,17,0,292,643,2,186
+rock,Renegade,Styx,492,552,-12,34,15,0,72,655,7,105
+rock,Man in the Box,Alice In Chains,355,791,-7,45,0,0,96,758,8,106
+rock,Cum on Feel the Noize,Quiet Riot,409,920,-5,120,7,1,82,370,11,145
+rock,18 and Life,Skid Row,466,648,-11,28,2,0,112,305,1,90
+rock,Jane Says,Jane's Addiction,402,597,-9,32,38,0,109,496,2,81
+rock,I Was Made For Lovin' You,KISS,768,852,-6,38,214,0,72,867,4,128
+rock,Take Me Home Tonight,Eddie Money,608,768,-9,36,101,0,94,748,1,132
+rock,"Paint It, Black",The Rolling Stones,464,795,-9,92,49,2,399,612,1,158
+rock,No Rain,Blind Melon,389,476,-9,31,619,0,255,566,9,148
+rock,Breaking the Law,Judas Priest,362,961,-5,85,24,0,159,491,2,164
+rock,Holy Diver,Dio,473,783,-10,86,12,475,268,124,10,91
+rock,Epic,Faith No More,358,893,-7,120,22,52,126,262,4,174
+rock,Alive,Pearl Jam,284,875,-6,42,7,0,402,595,11,75
+rock,Riders on the Storm,The Doors,550,722,-11,28,250,12,110,716,11,103
+rock,Get It On,T. Rex,728,878,-6,56,176,856,610,911,11,126
+rock,Lonely Boy,The Black Keys,356,872,-7,68,4,9,99,607,2,166
+rock,Joker And The Thief,Wolfmother,264,800,-2,53,19,7,406,465,0,155
+rock,Turn! Turn! Turn! (To Everything There Is a Season),The Byrds,452,818,-8,43,135,0,52,755,2,124
+rock,American Woman,The Guess Who,550,726,-8,51,146,6,428,370,2,92
+rock,Slow Ride,Foghat,493,586,-13,46,20,1,102,656,2,113
+rock,Layla,Derek & The Dominos,404,902,-3,66,577,297,287,497,1,115
+rock,Dust in the Wind,Kansas,475,322,-10,28,367,0,110,387,7,93
+rock,1979 - Remastered 2012,The Smashing Pumpkins,767,787,-9,33,16,583,51,964,3,126
+rock,Where Is My Mind? - Remastered,Pixies,519,441,-14,35,20,0,76,250,4,81
+rock,Reelin' In The Years,Steely Dan,523,758,-9,40,133,0,95,766,2,135
+rock,Our House,"Crosby, Stills, Nash & Young",593,205,-14,47,896,0,119,377,9,140
+rock,The Weight - Remastered,The Band,630,551,-9,54,373,0,103,518,9,143
+rock,Glycerine - Remastered,Bush,421,335,-11,32,34,2,94,88,5,114
+rock,Band On The Run - Remastered 2010,Wings,479,601,-8,31,83,1,110,669,7,124
+rock,Heart of Gold - 2009 Remaster,Neil Young,541,459,-10,29,189,27,99,803,4,171
+rock,Can't Fight This Feeling,REO Speedwagon,408,480,-11,26,155,0,87,190,9,156
+rock,Ace of Spades,MotÃ¶rhead,329,974,-8,135,0,0,90,234,3,140
+rock,Pale Blue Eyes,The Velvet Underground,637,107,-18,34,911,1,103,296,5,82
+rock,The Boys Of Summer,Don Henley,516,549,-13,37,501,5,184,907,6,176
+rock,Doctor Doctor - 2007 Remaster,UFO,298,799,-6,46,0,0,496,561,2,143
+rock,We're Not Gonna Take It,Twisted Sister,502,924,-6,50,12,0,162,922,4,149
+rock,Old Time Rock & Roll,Bob Seger,714,937,-2,39,206,0,73,964,6,124
+rock,Shine,Collective Soul,540,423,-8,28,294,88,152,353,6,150
+rock,Helplessly Hoping - 2005 Remaster,"Crosby, Stills & Nash",567,159,-13,33,914,0,111,436,7,146
+rock,Everlong,Foo Fighters,413,881,-5,36,0,0,80,364,11,158
+rock,The Power Of Love,Huey Lewis & The News,758,831,-5,32,85,0,101,958,5,118
+rock,Killing In The Name,Rage Against The Machine,466,833,-4,304,26,0,32,661,7,88

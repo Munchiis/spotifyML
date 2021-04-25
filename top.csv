@@ -1,0 +1,1001 @@
+,genre,name,artist,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,key,tempo
+0,classical,"Handel / Orch. Hale: Keyboard Suite in D Minor, HWV 437: III. Sarabande",George Frideric Handel,93,33,-24,60,927,830,95,51,2,67
+1,classical,"Goldberg Variations, BWV 988: Aria",Johann Sebastian Bach,454,13,-29,51,995,943,73,244,4,130
+2,classical,"Clair de Lune, L. 32",Claude Debussy,335,5,-31,37,994,912,62,39,1,65
+3,classical,"Sonata No. 14 ""Moonlight"" in C-Sharp Minor"", Op. 27 No. 2: I. Adagio sostenuto",Ludwig van Beethoven,184,5,-37,43,995,887,173,151,1,170
+4,classical,Miroirs: III. Une barque sur l'océan,Maurice Ravel,170,47,-27,43,981,906,79,30,2,75
+5,classical,"Nocturne No.2 In E Flat, Op.9 No.2",Frédéric Chopin,442,9,-32,47,984,936,87,92,3,79
+6,classical,"Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",Franz Joseph Haydn,85,65,-24,57,972,889,87,68,5,61
+7,classical,"Lyric Pieces, Book 5, Op. 54: Nocturne",Edvard Grieg,296,43,-29,41,987,857,78,30,0,72
+8,classical,"Piano Concerto No. 21 in C Major, K. 467 ""Elvira Madigan"": II. Andante",Wolfgang Amadeus Mozart,194,32,-28,38,982,961,91,59,5,144
+9,classical,"8 Humoresques, Op. 101, B. 187: No. 7, Poco lento e grazioso (Transcribed by Oscar Morawetz for Violin, Cello & Orchestra)",Antonín Dvořák,182,60,-25,45,852,411,145,141,6,98
+10,classical,"Sechs Klavierstücke, Op. 118: II. Intermezzo in A Major",Johannes Brahms,299,6,-30,47,994,901,82,63,9,69
+11,classical,"The Four Seasons - Violin Concerto in F Minor, Op. 8 No. 4, RV 297 ""Winter"": I. Allegro non molto",Antonio Vivaldi,480,163,-19,64,810,754,93,212,5,158
+12,classical,"Nabucco / Act 3: Va, pensiero, sull'ali dorate",Giuseppe Verdi,66,21,-24,39,984,685,99,132,1,73
+13,classical,"Die Walkure, Act III: Ride of the Valkyries",Richard Wagner,251,219,-16,32,929,933,82,96,7,89
+14,classical,"6 Impromptus, Op. 5: Impromptu VI",Jean Sibelius,448,5,-36,56,995,880,69,39,4,62
+15,classical,Pini di Roma (The Pines of Rome): III. I pini del Gianiclo,Ottorino Respighi,75,10,-35,46,901,106,81,33,4,81
+16,classical,"Violin Sonata in A major, FWV 8: IV. Allegretto poco mosso",César Franck,250,135,-18,48,958,34,47,179,9,94
+17,classical,"Minuet in A Major, D. 334",Franz Schubert,273,5,-39,49,994,913,85,174,9,91
+18,classical,"Gianni Schicchi: ""O mio Babbino caro""",Giacomo Puccini,112,196,-14,41,966,802,117,36,8,89
+19,classical,"An der schönen blauen Donau, Op.314",Johann Strauss II,233,25,-24,34,975,601,143,93,2,94
+20,classical,"Symphony No. 4 in E-Flat Major, WAB 104, ""Romantic"": I. Bewegt, nicht zu schnell - Live",Anton Bruckner,72,65,-19,40,947,866,109,36,3,70
+21,classical,"4 Lieder, Op. 27, TrV 170: IV. Morgen! (Arr. for Cello and Piano by Julian Riem)",Richard Strauss,138,12,-28,52,992,787,71,34,5,174
+22,classical,"Lieder ohne Worte (Songs without Words), Book 2, Op. 30: No. 7 in E-Flat Major, Op. 30, No. 1",Felix Mendelssohn,355,16,-28,39,995,926,98,92,3,67
+23,classical,"The Planets, Op. 32: IV. Jupiter, the Bringer of Jollity",Gustav Holst,290,130,-21,38,943,911,81,154,7,132
+24,classical,"Violin Concerto No.1 in G minor, Op.26: 1. Vorspiel (Allegro moderato)",Max Bruch,169,97,-21,42,864,632,87,52,3,170
+25,classical,The Lark Ascending,Ralph Vaughan Williams,81,12,-32,51,902,308,64,38,4,74
+26,classical,"Cello Concerto in E Minor, Op.85 (1997 - Remaster): I. Adagio - Moderato",Edward Elgar,124,97,-22,43,952,218,112,43,4,96
+27,classical,"Symphonie fantastique, Op. 14: Symphonie fantastique, Op. 14: IV. Marche au supplice",Hector Berlioz,356,207,-17,38,950,914,80,328,10,146
+28,classical,3 Small Tone Poems: No. 1. Summer Evening,Frederick Delius,102,44,-23,38,972,771,64,33,2,90
+29,classical,"Liebestraume, S541/R211 : No. 3: Nocturne in A-Flat Major",Franz Liszt,343,34,-25,40,991,920,100,37,8,60
+30,classical,"Carnival of the Animals, R. 125: The Swan",Camille Saint-Saëns,211,7,-33,45,994,890,73,39,7,118
+31,classical,Khachaturian: Spartacus (Highlights from the Ballet): Adagio of Spartacus and Phrygia,Aram Khachaturian,109,106,-21,39,820,816,102,33,8,88
+32,classical,Gymnopédie No. 1,Erik Satie,469,12,-36,119,994,937,94,354,7,72
+33,classical,"Fauré: Pavane in F-Sharp Minor, Op. 50",Gabriel Fauré,98,57,-24,45,984,904,122,39,6,70
+34,classical,Adagio in G Minor,Tomaso Albinoni,99,279,-12,34,743,903,114,46,7,89
+35,classical,Die Moldau,Bedřich Smetana,253,224,-12,32,937,880,116,107,7,76
+36,classical,Barcarolle,Jacques Offenbach,238,81,-22,45,983,0,279,41,2,128
+37,classical,Barber: Adagio for Strings,Samuel Barber,102,73,-24,48,974,859,280,30,10,73
+38,classical,Mahler: Symphony No. 5 in C-Sharp Minor: IV. Adagietto,Gustav Mahler,78,52,-23,47,896,945,80,32,5,82
+39,classical,"Cello Concerto in C Major, G. 477: II. Largo",Luigi Boccherini,95,7,-36,42,920,28,106,53,5,70
+40,classical,"Kinderszenen, Op. 15: No. 7 in F Major, Träumerei",Robert Schumann,500,12,-30,71,995,954,74,313,5,130
+41,classical,Overture Candide,Leonard Bernstein,285,428,-11,43,852,506,114,480,3,159
+42,classical,Jazz Suite No. 2: VI. Waltz 2,Dmitri Shostakovich,322,184,-18,33,984,902,81,356,0,107
+43,classical,"Dido and Aeneas, Z. 626 / Act 3: ""When I Am Laid In Earth"" Dido's Lamento (Arr. For Cello And Strings By Mathieu Herzog)",Henry Purcell,75,60,-23,48,957,902,88,34,7,76
+44,classical,"6 Violin Sonatas, Op. 10b No. 2 in G Major, J. 100: II. Adagio",Carl Maria von Weber,80,3,-38,45,972,112,141,197,0,81
+45,classical,"Carmen, Act I: No.5 Habanera : L'amour est un oiseau rebelle (Carmen/Cigarières/Jeunes gens/Dragons)",Georges Bizet,364,59,-21,57,978,0,82,185,2,123
+46,classical,Mascagni: Cavalleria rusticana: Intermezzo,Pietro Mascagni,101,115,-17,39,769,891,406,37,5,84
+47,classical,"Delibes: Lakmé, Act 1: ""Dôme épais, le jasmin"" (Lakmé, Mallika)",Léo Delibes,291,119,-20,43,972,510,296,57,11,125
+48,classical,Rodrigo: Concierto de Aranjuez: II. Adagio,Joaquín Rodrigo,253,98,-19,43,930,862,122,62,11,84
+49,classical,Rhapsody In Blue,George Gershwin,308,247,-15,44,975,769,96,113,9,74
+50,classical,Weint nicht um meinen Tod,Johann Bach,204,36,-25,57,948,120,118,97,0,74
+51,classical,Das Verlassene Mägdlein,Hugo Wolf,295,4,-33,49,991,82,97,35,9,69
+52,classical,The Rite of Spring: Part One: Adoration of the Earth: Introduction,Igor Stravinsky,101,24,-30,48,947,847,69,32,11,87
+53,classical,"Paganini: 24 Caprices, Op. 1: No. 24 in A Minor (Tema con variazioni. Quasi presto)",Niccolò Paganini,465,128,-17,51,978,271,42,428,9,111
+54,classical,Ave Maria,Charles Gounod,328,2,-33,39,995,747,72,361,0,73
+55,classical,Meditation: Méditation from Thaïs,Jules Massenet,114,70,-23,44,870,431,91,37,4,89
+56,classical,"Monteverdi: L'incoronazione di Poppea, SV 308, Act 3: ""Pur ti miro"" (Neron, Popea)",Claudio Monteverdi,259,62,-21,48,983,0,100,182,7,76
+57,classical,Pergolesi: Stabat Mater: I. Stabat Mater dolorosa,Giovanni Battista Pergolesi,172,36,-22,41,982,23,111,36,4,138
+58,classical,"Carmina Burana / 1. Primo vere: ""Veris leta facies""",Carl Orff,81,2,-39,42,920,305,134,71,9,54
+59,classical,Nocturne,Alexander Borodin,134,104,-26,61,986,927,331,98,9,81
+60,classical,"Radetzky March, Op. 228",Johann Strauss I,479,536,-12,33,643,315,293,499,9,104
+61,classical,"El amor brujo: Danza ritual del fuego, para ahuyentar los malos espíritus",Manuel de Falla,244,118,-19,42,926,912,77,69,7,141
+62,classical,"Serenade for Strings in C major, Op. 48: II. Walzer: Moderato, tempo di valse",Pyotr Ilyich Tchaikovsky,241,122,-22,49,925,660,126,187,7,66
+63,classical,Dance of the Hours,Amilcare Ponchielli,373,31,-26,39,955,185,189,166,4,76
+64,classical,"Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto",Sergei Rachmaninoff,194,54,-24,36,983,945,55,38,4,140
+65,classical,"Orfeo ed Euridice, Wq. 30 - Arranged Sgambati / Act 2: Melodie dell'Orfeo",Christoph Willibald Gluck,279,4,-36,43,989,982,63,39,2,69
+66,classical,Il barbiere di Siviglia: Overture (Sinfonia),Gioachino Rossini,347,264,-15,43,920,900,93,449,4,97
+67,classical,"Poème for Violin and Orchestra, Op. 25",Ernest Chausson,121,124,-22,41,824,560,107,35,10,91
+68,classical,Pride and Prejudice Suite: III. Elizabeth and Mr. Darcy,Carl Davis,209,125,-15,41,967,646,88,38,4,84
+69,classical,"Liturgie des Catéchumènes (Bénis le Seigneur, ô mon âme)",Sergei Rachmaninoff,102,24,-27,45,993,730,168,31,7,70
+70,classical,Copland: Appalachian Spring: VII. Doppio movimento (Variations on a Shaker Hymn - Simple Gifts),Aaron Copland,207,102,-17,38,974,542,104,303,1,82
+71,classical,Scheherazade: The Tale of the Kalendar Prince,Nikolai Rimsky-Korsakov,151,63,-24,43,962,603,466,79,11,61
+72,classical,"Sonata in A Minor, K.109: Adagio",Domenico Scarlatti,453,38,-28,39,995,908,79,155,9,97
+73,classical,Notturno for Strings and Harp,Arnold Schoenberg,97,80,-19,45,941,431,115,60,8,75
+74,classical,"War Requiem, Op. 66 / Libera me: 6c. Let Us Sleep Now...In Paradisum",Benjamin Britten,191,63,-26,42,981,533,117,32,9,100
+75,classical,Incises,Pierre Boulez,246,282,-23,52,983,883,109,219,0,172
+76,classical,"Concerto grosso in G minor, Op.6, No.8 ""fatto per la notte di Natale"": 3. Adagio - Allegro - Adagio",Arcangelo Corelli,197,91,-21,45,926,721,119,133,2,120
+77,classical,Romanza in F Major,Conrado del Campo,149,160,-17,44,991,823,100,78,5,71
+78,classical,"Erbarm dich mein, o Herre Gott, SWV 148",Heinrich Schütz,134,54,-26,57,984,0,111,47,0,74
+79,classical,Liebesleid (Love's Sorrow),Fritz Kreisler,331,169,-19,32,994,886,121,258,9,97
+80,classical,Kanon und Gigue,Johann Pachelbel,354,230,-18,43,800,3,85,520,2,152
+81,classical,"Music for Strings, Percussion and Celesta, Sz. 106: 3. Adagio",Béla Bartók,147,47,-29,38,571,350,98,43,10,84
+82,classical,"Keyboard Concerto in G Major, Wq. 44: II. Andantino",Carl Philipp Emanuel Bach,384,27,-26,33,975,623,230,196,4,86
+83,classical,"Prokofiev: Romeo and Juliet, Op. 64, Act 1: No. 13, Dance of the Knights (Complete Ballet)",Sergei Prokofiev,209,101,-19,40,927,900,77,153,0,85
+84,classical,Messe de Nostre Dame: Sanctus,Guillaume de Machaut,161,98,-22,37,991,0,76,48,9,132
+85,classical,"Piano Sonata No.17 in D minor, Op.31 No.2 ‘Tempest'",Lugwig van Beethoven,277,112,-20,35,988,890,94,143,7,75
+86,classical,Lontano,György Ligeti,73,36,-26,41,959,931,72,24,1,79
+87,classical,Hary Janos Suite: V. Kozjatek (Intermezzo),Zoltán Kodály,330,99,-20,34,909,852,201,193,2,110
+88,classical,Al dolce soun,Orlande de Lassus,113,113,-24,46,995,925,64,36,8,81
+89,classical,"Bellini: Norma, Act 1: ""Casta diva"" (Norma, Chorus)",Vincenzo Bellini,210,167,-17,40,977,0,96,57,5,93
+90,classical,"In ecclesiis (a 14), C78",Giovanni Gabrieli,245,106,-20,37,980,177,179,39,9,71
+91,classical,Missa Papae Marcelli: Kyrie,Giovanni Pierluigi da Palestrina,164,156,-20,42,995,445,91,39,9,136
+92,classical,Il barbiere di Siviglia: Overture (Sinfonia),Gioachino Rossini,322,140,-20,48,906,759,125,285,4,92
+93,classical,Ave maris stella,Guillaume Dufay,173,44,-28,49,987,1,99,62,9,70
+94,classical,"Suite for Violin, Clarinet and Piano, Op. 157b: II. Divertissement. Animé",Darius Milhaud,141,22,-30,43,985,275,86,240,5,83
+95,classical,"5 Preludes, W419: No. 5 in D Major",Heitor Villa-Lobos,449,104,-19,43,978,881,125,154,2,85
+96,classical,Cassadó: Toccata (in the Style of Frescobaldi),Gaspar Cassadó,231,121,-23,41,958,920,114,111,2,91
+97,classical,"Mozart, Leopold: Toy Symphony: I. Allegro",Leopold Mozart,593,194,-16,41,556,0,78,524,0,116
+98,classical,Tågen Letter,Carl Nielsen,293,81,-17,43,992,894,107,163,0,110
+99,classical,Spem in alium (The Forty-Part Motet),Thomas Tallis,174,228,-18,39,990,635,86,60,0,124
+100,country,Meet In the Middle,Diamond Rio,746,443,-11,35,663,0,223,554,4,91
+101,country,Amazed,Lonestar,561,543,-8,32,260,0,124,243,1,139
+102,country,She Won't Be Lonely Long,Clay Walker,635,758,-5,24,6,0,229,322,7,113
+103,country,She's In Love With The Boy - Single Version,Trisha Yearwood,783,698,-8,32,522,0,75,758,3,124
+104,country,Neon Moon,Brooks & Dunn,698,632,-6,24,554,0,118,458,9,102
+105,country,Bye-Bye,Jo Dee Messina,644,868,-3,46,183,0,322,642,10,134
+106,country,"Forever and Ever, Amen",Randy Travis,677,724,-8,24,143,0,158,697,2,90
+107,country,Sold (The Grundy County Auction Incident),John Michael Montgomery,771,848,-7,35,108,0,350,803,2,115
+108,country,Bubba Shot The Jukebox,Mark Chesnutt,544,648,-8,54,307,0,84,866,7,165
+109,country,It's A Great Day To Be Alive,Travis Tritt,595,653,-4,26,246,0,264,542,7,128
+110,country,John Deere Green,Joe Diffie,703,834,-5,27,110,0,66,722,7,130
+111,country,Watermelon Crawl,Tracy Byrd,759,723,-9,28,173,0,179,962,0,136
+112,country,Time Marches On,Tracy Lawrence,856,517,-9,29,563,0,144,479,6,118
+113,country,You're Gonna Miss This,Trace Adkins,507,665,-7,34,23,0,99,323,8,154
+114,country,"Love, Me",Collin Raye,600,242,-12,31,697,0,128,300,0,106
+115,country,She Don't Know She's Beautiful,Sammy Kershaw,764,646,-9,30,367,0,84,877,9,116
+116,country,Fancy,Reba McEntire,674,517,-11,72,226,0,69,482,11,94
+117,country,Killin' Time,Clint Black,711,491,-10,29,381,0,249,671,7,121
+118,country,Redneck Yacht Club,Craig Morgan,490,817,-5,35,455,0,88,808,8,168
+119,country,Your Man,Josh Turner,744,637,-4,24,337,0,69,785,6,100
+120,country,Independence Day,Martina McBride,712,630,-6,29,257,0,99,768,9,118
+121,country,Redneck Woman,Gretchen Wilson,499,825,-5,177,130,0,306,753,6,185
+122,country,Caught Up In The Country,Rodney Atkins,603,852,-5,46,13,0,513,655,7,124
+123,country,A Little Bit Stronger,Sara Evans,536,650,-5,33,282,0,87,288,2,147
+124,country,Better Things To Do,Terri Clark,569,782,-5,49,105,0,130,595,10,150
+125,country,Save a Horse (Ride a Cowboy),Big & Rich,700,896,-2,191,108,0,453,817,2,102
+126,country,Tequila Makes Her Clothes Fall Off,Joe Nichols,664,706,-7,27,129,0,85,681,2,93
+127,country,What Kinda Gone,Chris Cagle,494,861,-5,36,257,0,103,668,5,172
+128,country,Song of the South,Alabama,486,633,-8,36,176,0,312,669,9,162
+129,country,Undivided,Tim McGraw,583,814,-4,29,130,0,205,410,10,90
+130,country,Check Yes Or No,George Strait,708,524,-12,35,55,0,37,690,5,111
+131,country,Some Girls Do,Sawyer Brown,640,852,-6,28,90,0,151,903,2,139
+132,country,Good Directions,Billy Currington,716,720,-2,31,307,0,135,464,5,122
+133,country,Every Storm (Runs Out Of Rain),Gary Allan,525,693,-6,32,46,0,247,363,0,107
+134,country,Two Dozen Roses,Shenandoah,687,648,-9,27,314,0,289,600,4,121
+135,country,This Kiss,Faith Hill,398,804,-5,45,175,0,181,709,11,186
+136,country,Just Another Day In Paradise,Phil Vassar,596,706,-5,26,351,0,360,704,2,146
+137,country,19 Somethin' - Greatest Hits Version,Mark Wills,580,816,-5,72,132,0,77,814,4,89
+138,country,Life is a Highway,Rascal Flatts,582,952,-3,73,3,0,223,655,5,103
+139,country,Where I Come From,Montgomery Gentry,620,852,-4,30,10,0,279,479,1,90
+140,country,Whiskey Lullaby (feat. Alison Krauss),Brad Paisley,520,333,-11,30,816,0,188,198,2,74
+141,country,I Hope You Dance,Lee Ann Womack,385,443,-9,29,63,0,89,275,7,151
+142,country,Don't Let Our Love Start Slippin' Away,Vince Gill,736,719,-9,31,420,0,350,657,3,113
+143,country,Billy's Got His Beer Goggles On - Remastered Version,Neal McCoy,715,775,-6,43,354,0,144,803,0,106
+144,country,One Too Many,Keith Urban,697,535,-6,68,247,0,569,594,4,82
+145,country,You've Got to Stand for Something,Aaron Tippin,533,585,-9,33,199,0,110,472,4,83
+146,country,Straight Tequila Night,John Anderson,640,639,-10,33,134,0,178,593,9,109
+147,country,Grandpa (Tell Me 'Bout The Good Old Days),The Judds,560,239,-16,34,473,0,56,601,4,201
+148,country,"Wine, Beer, Whiskey",Little Big Town,727,914,-5,74,617,0,596,784,7,106
+149,country,Should've Been A Cowboy,Toby Keith,585,793,-3,32,351,0,300,732,7,133
+150,country,Maybe It Was Memphis,Pam Tillis,495,695,-6,31,437,0,73,496,9,73
+151,country,Gone,Dierks Bentley,521,746,-6,35,9,0,74,473,6,149
+152,country,American Kids,Kenny Chesney,733,589,-7,100,47,0,36,867,7,170
+153,country,God Blessed Texas,Little Texas,648,766,-8,32,232,0,121,971,9,128
+154,country,Livin' Our Love Song,Jason Michael Carroll,488,855,-3,39,287,0,132,799,7,148
+155,country,It's Five O'Clock Somewhere,Alan Jackson,713,768,-6,36,220,0,177,878,2,125
+156,country,God's Country,Blake Shelton,536,754,-5,39,59,0,118,212,10,139
+157,country,Settling Down,Miranda Lambert,643,756,-5,30,21,0,101,934,6,90
+158,country,Delta Dawn,Tanya Tucker,619,507,-7,33,710,0,258,694,5,77
+159,country,Have You Forgotten?,Darryl Worley,478,625,-5,34,51,0,116,343,7,160
+160,country,Dust On The Bottle,David Lee Murphy,736,614,-11,38,23,0,292,858,11,99
+161,country,Stuck Like Glue,Sugarland,702,795,-4,56,329,0,50,836,1,83
+162,country,Strawberry Wine,Deana Carter,572,449,-6,26,314,0,30,207,1,122
+163,country,Except for Monday,Lorrie Morgan,658,600,-11,32,81,0,63,886,7,170
+164,country,Goodbye Says It All,BlackHawk,646,479,-9,26,56,0,51,674,8,137
+165,country,How Country Feels,Randy Houser,678,839,-3,39,37,0,74,772,7,104
+166,country,Don't Close Your Eyes,Keith Whitley,605,228,-16,26,703,1,93,285,7,78
+167,country,Wagon Wheel,Darius Rucker,537,660,-7,29,455,0,135,574,9,148
+168,country,Too Much Fun,Daryle Singletary,681,888,-4,65,124,0,573,797,7,151
+169,country,This Cowboy's Hat,Chris LeDoux,493,297,-14,48,403,0,145,436,6,90
+170,country,Made For You,Jake Owen,581,441,-6,26,770,0,111,337,1,82
+171,country,Famous Friends,Chris Young,533,855,-2,35,55,0,335,640,6,102
+172,country,Need You Now,Lady A,581,717,-4,31,29,0,243,316,4,107
+173,country,I Try to Think About Elvis,Patty Loveless,620,697,-7,49,31,0,164,711,11,160
+174,country,Trashy Women - Remastered Version,Confederate Railroad,639,795,-6,34,45,0,121,864,9,142
+175,country,Pickin' Wildflowers,Keith Anderson,561,716,-3,29,35,0,122,667,8,152
+176,country,Hell Of A View,Eric Church,689,582,-6,23,119,4,101,883,5,99
+177,country,Why Didn't I Think Of That,Doug Stone,758,596,-7,28,440,0,132,859,2,121
+178,country,Just Got Paid,Emerson Drive,608,798,-5,51,85,0,79,672,10,172
+179,country,Keep It Between The Lines,Ricky Van Shelton,662,282,-11,24,651,0,94,377,5,89
+180,country,Louisiana Saturday Night,Mel McDaniel,686,622,-7,85,532,0,51,982,2,163
+181,country,All Over The Road,Easton Corbin,491,841,-3,42,47,0,88,721,5,199
+182,country,Holes In The Floor Of Heaven,Steve Wariner,660,340,-10,27,540,0,80,384,1,108
+183,country,Best Days of Your Life,Kellie Pickler,650,862,-5,56,23,0,72,541,9,127
+184,country,Outskirts of Heaven,Craig Campbell,497,434,-5,29,333,0,108,266,0,115
+185,country,Nothin' To Lose,Josh Gracin,607,876,-4,38,371,0,519,886,7,121
+186,country,Meet Me In Montana,Dan Seals,661,389,-12,30,393,0,90,515,10,124
+187,country,When She Cries,Restless Heart,666,521,-10,29,114,0,60,361,9,105
+188,country,Why We Drink,Justin Moore,624,903,-3,34,8,0,309,724,6,116
+189,country,If I Die Young,The Band Perry,606,497,-6,27,348,0,275,362,4,130
+190,country,You Won't Ever Be Lonely,Andy Griggs,471,617,-8,38,52,0,229,491,8,182
+191,country,Smoky Mountain Rain,Ronnie Milsap,554,577,-8,28,16,0,71,479,7,140
+192,country,What Mattered Most,Ty Herndon,529,509,-8,25,415,0,171,270,0,142
+193,country,In Color,Jamey Johnson,544,404,-8,35,391,0,157,251,3,129
+194,country,Holding Her and Loving You,Earl Thomas Conley,640,317,-14,30,605,0,118,300,7,125
+195,country,No One Else On Earth,Wynonna,775,861,-7,29,188,0,199,964,0,98
+196,country,You Make It Easy,Jason Aldean,375,574,-5,31,143,0,110,406,7,132
+197,country,Drink to That All Night,Jerrod Niemann,639,846,-6,43,32,0,116,475,9,115
+198,country,Pour Me,Trick Pony,484,905,-3,135,93,0,286,767,10,182
+199,country,One Wing In The Fire,Trent Tomlinson,613,526,-7,30,373,0,137,412,3,142
+200,edm,Midnight (feat. Liam Payne),Alesso,587,648,-6,43,56,0,115,281,11,144
+201,edm,Gotta Be You,NERVO,642,869,-5,45,252,28,70,376,6,123
+202,edm,Ten Feet Tall,Afrojack,523,861,-3,64,33,0,144,346,0,127
+203,edm,Nights With You,Nicky Romero,580,745,-4,48,383,0,250,612,8,150
+204,edm,Bad,Don Diablo,791,738,-5,73,406,8,159,666,0,123
+205,edm,Tinted Eyes (feat. blackbear & 24kGoldn),DVBBS,743,801,-4,34,5,0,178,381,5,121
+206,edm,Get Low,Dillon Francis,674,932,-4,85,28,710,684,728,11,101
+207,edm,Everything,3LAU,574,955,-4,38,8,16,230,148,10,120
+208,edm,Back To Life,DubVision,554,864,-4,88,1,0,119,305,2,126
+209,edm,Breathe (feat. kaspara),Syn Cole,753,749,-5,31,54,0,166,589,6,121
+210,edm,Leave,Borgeous,762,665,-6,47,169,0,103,961,11,115
+211,edm,I Found You,Cash Cash,646,761,-2,38,71,0,222,472,1,129
+212,edm,This Time (Never Be Alone Again),Dada Life,627,871,-6,61,45,5,462,222,7,128
+213,edm,She Wants Me Dead,CAZZETTE,703,837,-4,234,18,0,57,680,9,106
+214,edm,Flip Reset,Kaskade,780,916,-4,69,1,193,61,426,1,126
+215,edm,Kids (feat. MKLA),KSHMR,744,866,-4,106,10,53,528,302,9,128
+216,edm,Getaway - Koven Remix,Tritonal,488,914,-2,223,4,0,158,222,6,172
+217,edm,Flame,Sick Individuals,646,920,-3,46,23,0,296,413,11,128
+218,edm,Save Me Tonight,ARTY,550,899,-3,45,11,0,137,408,5,125
+219,edm,Reload - Radio Edit,Sebastian Ingrosso,485,724,-4,52,73,0,63,433,9,128
+220,edm,Never Letting Go - Edit,Audien,530,765,-3,35,91,1,225,113,1,127
+221,edm,Whistle (feat. Bertie Scott),Laidback Luke,832,922,-3,71,36,27,109,716,0,127
+222,edm,Switch Back,Quintino,639,925,-5,36,0,942,341,183,6,128
+223,edm,Bella Ciao - Mix Cut,Hardwell,614,900,-4,49,2,0,376,201,4,129
+224,edm,Spotlight,Sander van Doorn,595,934,-5,64,41,0,147,272,10,101
+225,edm,Astronomia,Vicetone,653,945,-2,96,5,915,439,325,5,126
+226,edm,Alive,Krewella,671,827,-2,53,3,2,350,564,9,127
+227,edm,New Vibe Who Dis (feat. Little League),Madison Mars,699,933,-3,175,160,0,196,646,10,123
+228,edm,Run Away,Bassjackers,678,908,-5,60,4,15,107,320,8,129
+229,edm,Get Up (Rattle) [feat. Far East Movement] - Vocal Edit,Bingo Players,801,985,-2,64,20,0,297,720,7,127
+230,edm,Five More Hours - Deorro x Chris Brown,Deorro,699,883,-3,219,28,0,817,499,5,127
+231,edm,Show Me Love (feat. Robin S.),Steve Angello,635,882,-4,60,484,0,107,549,5,129
+232,edm,Not So Bad (feat. Emie),Yves V,740,674,-4,47,9,238,154,231,11,126
+233,edm,The Longest Road - deadmau5 Remix Edit,Morgan Page,699,737,-6,36,3,0,39,543,1,124
+234,edm,Push It Right,MOTi,638,834,-5,36,9,20,323,438,7,124
+235,edm,I Found You (Neptune),EDX,822,916,-4,55,20,11,74,894,1,124
+236,edm,More Than You Know,Axwell /\ Ingrosso,646,741,-4,34,27,0,312,571,5,123
+237,edm,Gecko (Overdrive) - Radio Edit,Oliver Heldens,609,885,-5,64,5,0,336,760,0,124
+238,edm,Million Voices - Radio Edit,Otto Knows,582,894,-6,41,2,22,66,69,8,125
+239,edm,Wait Another Day,Mike Williams,727,912,-3,37,27,0,118,671,8,126
+240,edm,Bad Habit,Firebeatz,581,888,-6,38,1,0,98,291,2,124
+241,edm,Don't You Worry Child - Radio Edit,Swedish House Mafia,614,832,-3,52,110,0,185,429,11,129
+242,edm,No Lie,Michael Calfan,719,701,-9,41,66,121,97,136,1,122
+243,edm,Voices (feat. TZAR),Brooks,668,726,-4,53,35,0,232,684,9,127
+244,edm,Just Hold On,Steve Aoki,647,932,-3,82,3,0,57,374,11,114
+245,edm,Electric Elephants,Jay Hardway,588,927,-1,64,2,403,211,254,6,127
+246,edm,All Around The World (La La La),R3HAB,733,859,-5,33,479,64,105,520,9,124
+247,edm,Water (feat. ZOHARA),KREAM,567,738,-6,154,12,0,207,432,0,121
+248,edm,High Like This,Adventure Club,473,862,-4,80,79,0,111,233,8,150
+249,edm,Wildest Dream,Thomas Gold,545,839,-4,46,22,0,71,276,1,127
+250,edm,Narco,Blasterjaxx,764,943,-4,71,7,104,69,207,8,129
+251,edm,City Of Dreams - Radio Edit,Dirty South,478,818,-5,37,2,7,438,163,4,127
+252,edm,Rave Love,W&W,395,895,-4,49,2,0,150,185,6,160
+253,edm,No Diggity,Lucas & Steve,740,709,-5,67,53,0,110,690,6,121
+254,edm,The Middle,Zedd,753,657,-3,44,171,0,112,437,7,107
+255,edm,Nobody Else - A-Trak Remix,Axwell,872,687,-5,81,0,13,166,767,1,123
+256,edm,I Can't Stop,Flux Pavilion,524,601,-13,33,1,601,398,314,0,139
+257,edm,Rise Up (feat. Vamero),VINAI,648,927,-3,49,11,0,162,361,1,126
+258,edm,Put Your Hands Up For Detroit - Dub Mix,Fedde Le Grand,910,961,-5,166,3,880,40,167,7,128
+259,edm,Jumpin',CID,924,690,-5,66,3,4,329,592,11,125
+260,edm,Pum Pum,Showtek,852,791,-4,86,108,0,132,469,10,130
+261,edm,Coming Home,Dimitri Vangelis & Wyman,614,921,-4,62,20,0,119,427,2,127
+262,edm,Dandelion,Galantis,800,660,-4,158,158,20,140,634,0,117
+263,edm,No Promises (feat. Demi Lovato),Cheat Codes,741,667,-5,134,57,0,106,595,10,112
+264,edm,Body,Loud Luxury,759,774,-4,38,50,0,56,596,1,121
+265,edm,Goodbye To A World,Porter Robinson,444,350,-7,48,453,109,82,97,9,95
+266,edm,Let Me Be The One,Julian Jordan,589,876,-4,53,4,0,301,254,0,123
+267,edm,Wonderful Days,Ummet Ozcan,341,824,-6,36,5,548,84,175,10,106
+268,edm,Mine,Felix Cartal,591,839,-4,41,9,0,117,228,1,106
+269,edm,Take Me Away,Third Party,448,911,-3,40,21,0,59,255,1,127
+270,edm,Hold On (feat. Cheat Codes) - 2020 Edit,Moguai,622,802,-4,167,170,0,263,764,9,124
+271,edm,First Time (feat. Dylan Matthew),Seven Lions,422,677,-5,36,251,0,160,146,11,150
+272,edm,Intoxicated - Radio Edit,Martin Solveig,796,607,-6,40,5,2,71,566,0,125
+273,edm,Say My Name,Dimitri Vegas & Like Mike,729,788,-4,90,70,0,115,857,10,118
+274,edm,Solo Dance,Martin Jensen,746,846,-2,48,48,0,195,403,9,114
+275,edm,I Should Have Walked Away,KAAZE,434,668,-4,35,31,0,497,281,11,129
+276,edm,Let You Down,Dannic,749,882,-5,51,9,0,117,530,6,122
+277,edm,Don’t Tell Me,Matisse & Sadko,597,785,-3,40,113,0,336,575,4,126
+278,edm,Call on Me - Radio Mix,Eric Prydz,597,837,-6,375,4,1,839,447,10,126
+279,edm,Raven,John Dahlbäck,569,896,-3,48,3,958,63,118,1,128
+280,edm,Ghosts 'n' Stuff,deadmau5,617,617,-6,122,0,59,253,517,8,127
+281,edm,Oceans & Galaxies,Jauz,532,625,-7,50,120,0,103,297,1,145
+282,edm,Scrub The Ground (feat. DJ Funk),Chocolate Puma,786,887,-3,51,26,812,338,682,11,126
+283,edm,Know You Better,Stadiumx,588,830,-5,42,68,0,116,225,2,122
+284,edm,Old Thing Back (feat. Ja Rule and Ralph Tresvant),Matoma,805,858,-3,105,194,0,256,523,0,97
+285,edm,Lonely,Tujamo,667,823,-3,67,60,0,77,350,7,127
+286,edm,Neck And Neck - DNMO Remix,Zeds Dead,601,591,-7,33,18,76,126,370,5,150
+287,edm,Battlestations,Wolfgang Gartner,554,665,-7,59,2,499,220,128,4,129
+288,edm,All My Friends,Madeon,668,764,-4,48,25,0,314,685,8,106
+289,edm,DJ Turn It Up,Yellow Claw,827,696,-5,47,0,199,111,374,1,102
+290,edm,Praise (feat. Gunna),Tchami,737,681,-10,53,40,1,310,799,10,124
+291,edm,Post Malone (feat. RANI),Sam Feldt,590,642,-3,122,77,0,105,651,7,107
+292,edm,Tragic (feat. Amber Van Day),The Him,741,715,-5,63,32,0,77,332,0,123
+293,edm,Love Is All I Got,Feed Me,613,771,-6,46,0,0,590,410,0,130
+294,edm,Unfamiliar,Seeb,590,677,-5,57,8,0,157,304,0,184
+295,edm,The Ocean (feat. Shy Martin),Mike Perry,632,575,-6,29,22,0,104,188,5,90
+296,edm,Turn off the Lights,Chris Lake,824,745,-5,75,46,0,198,888,11,125
+297,edm,Pressure (feat. Tove Lo),Martin Garrix,859,558,-8,90,659,324,124,357,7,114
+298,edm,Breathe,Mako,387,571,-6,40,493,0,106,555,7,152
+299,edm,The Business,Tiësto,798,620,-7,232,414,19,112,235,8,120
+300,jazz,When Sunny Gets Blue,McCoy Tyner,427,114,-22,50,843,863,96,114,2,60
+301,jazz,Infant Eyes - Remastered1998/Rudy Van Gelder Edition,Wayne Shorter,340,83,-12,42,985,761,94,119,3,138
+302,jazz,Blue Bossa - Remastered,Joe Henderson,531,366,-11,49,911,880,91,785,5,81
+303,jazz,Mirrors - Remastered 2004,Freddie Hubbard,406,208,-13,41,962,929,181,291,1,102
+304,jazz,The Shadow of Your Smile,Dexter Gordon,556,35,-20,41,942,167,82,196,7,110
+305,jazz,St. Thomas,Sonny Rollins,541,607,-8,43,727,442,99,754,0,104
+306,jazz,My Foolish Heart,Bill Evans Trio,395,121,-23,32,935,397,697,139,9,114
+307,jazz,Sandu,Clifford Brown,562,447,-9,63,633,125,88,471,8,68
+308,jazz,Poinciana,Ahmad Jamal,553,90,-21,43,984,910,100,289,2,89
+309,jazz,Polka Dots And Moonbeams - Remastered,Bud Powell,558,89,-17,64,946,924,96,130,2,100
+310,jazz,"Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)",Joshua Redman,576,542,-10,34,683,827,51,565,6,124
+311,jazz,"Mercy, Mercy, Mercy",Cannonball Adderley,568,261,-16,29,730,182,977,405,10,84
+312,jazz,Song For My Father,Horace Silver,742,671,-8,40,794,4,122,591,5,127
+313,jazz,Moanin' - Remastered,Art Blakey & The Jazz Messengers,602,283,-16,50,790,148,136,462,5,130
+314,jazz,Stolen Moments,Oliver Nelson,575,187,-13,51,927,876,166,342,0,107
+315,jazz,It Never Entered My Mind,Miles Davis Quintet,476,217,-10,30,892,0,96,121,8,116
+316,jazz,I Remember Clifford - Rudy Van Gelder Edition; 2007 Digital Remaster,Lee Morgan,376,278,-8,41,912,886,72,199,0,62
+317,jazz,'Round Midnight,Thelonious Monk,542,320,-9,38,907,649,60,206,8,116
+318,jazz,On The Sunny Side Of The Street,Dizzy Gillespie,671,352,-11,55,532,0,110,396,0,120
+319,jazz,Remember - Remastered,Hank Mobley,539,403,-9,53,794,0,278,699,8,165
+320,jazz,Summertime,Charlie Parker,339,342,-7,31,962,319,162,393,7,132
+321,jazz,Softly As In A Morning Sunrise,The Modern Jazz Quartet,634,327,-9,55,709,13,158,498,0,80
+322,jazz,Blue Skies - 2000 Remastered Version,Art Tatum,548,151,-15,50,991,888,103,608,1,87
+323,jazz,Alone Together - Rudy Van Gelder Remaster,Kenny Dorham,336,61,-20,36,985,891,110,197,5,60
+324,jazz,I Remember You,Lee Konitz,564,305,-14,63,794,98,152,571,10,115
+325,jazz,Bye Bye Blackbird,Ron Carter,557,236,-18,36,531,783,86,328,7,139
+326,jazz,Strasbourg / St. Denis,Roy Hargrove,701,445,-10,83,149,590,96,405,1,103
+327,jazz,There Will Never Be Another You,Lester Young,588,38,-17,60,978,823,116,342,0,83
+328,jazz,I Got It Bad And That Ain't Good,Oscar Peterson Trio,488,52,-27,47,971,911,88,193,5,49
+329,jazz,Dolphin Dance,Ahmad Jamal Trio,378,232,-18,30,870,948,100,155,0,148
+330,jazz,Goodbye Pork Pie Hat,Charles Mingus,356,93,-16,35,957,96,209,278,8,86
+331,jazz,Say It (Over And Over Again),John Coltrane Quartet,488,124,-13,40,963,333,246,205,3,66
+332,jazz,Almost Like Being In Love,Red Garland,561,346,-12,40,873,399,104,697,0,93
+333,jazz,Where or When,Wynton Marsalis,331,49,-17,40,990,905,334,331,4,124
+334,jazz,A Day In The Life,Wes Montgomery,483,364,-10,26,564,299,54,349,9,98
+335,jazz,Skating In Central Park,Bill Evans,478,29,-25,45,993,948,105,148,0,124
+336,jazz,When Your Lover Has Gone - Instrumental,Art Farmer,488,87,-14,40,975,634,92,181,7,106
+337,jazz,Au Privave,Sonny Stitt,490,476,-13,36,696,9,148,778,7,134
+338,jazz,"No Problem - Pt. 1 / BOF ""Les liaisons dangereuses""",Art Blakey,376,660,-9,55,719,35,210,575,5,186
+339,jazz,Misty - Remastered 2020,Erroll Garner,327,145,-20,39,945,884,91,136,5,178
+340,jazz,Southbound,Chris Potter,408,430,-10,64,232,431,74,259,2,82
+341,jazz,Cocktails For Two,Coleman Hawkins,591,125,-14,46,917,344,95,403,0,83
+342,jazz,Angel Eyes - Studio,Tommy Flanagan,487,145,-18,52,876,822,149,142,5,110
+343,jazz,Cool Struttin',Sonny Clark,580,480,-7,33,837,4,171,480,7,108
+344,jazz,Sunday,Ben Webster,645,309,-16,41,686,0,243,824,0,104
+345,jazz,Stella By Starlight,Joe Lovano,581,163,-16,54,926,861,116,448,0,88
+346,jazz,You Go to My Head - 2007 Remastered Version,Art Pepper,585,149,-13,69,921,80,93,195,3,67
+347,jazz,Take Five,The Dave Brubeck Quartet,454,260,-13,40,539,0,67,598,8,174
+348,jazz,Maybe Tomorrow,Grant Green,520,165,-15,42,958,904,226,115,6,113
+349,jazz,Chitlins Con Carne,Kenny Burrell,803,335,-13,45,579,12,84,786,8,132
+350,jazz,Stormy Weather,Oscar Peterson,600,177,-16,56,989,869,149,560,7,120
+351,jazz,Bags' Groove,Milt Jackson,500,251,-12,47,885,1,248,697,0,174
+352,jazz,Blame It on My Youth,Brad Mehldau,420,98,-19,33,910,657,85,206,5,102
+353,jazz,Work Song - Remastered,The Cannonball Adderley Quintet,502,312,-12,122,724,4,83,544,1,169
+354,jazz,A Taste of Honey - Live,Paul Desmond,492,151,-18,42,918,3,110,215,5,124
+355,jazz,My One And Only Love,John Coltrane,466,71,-17,37,984,0,107,196,0,121
+356,jazz,Stardust,Gerry Mulligan,540,67,-18,39,966,779,101,316,1,84
+357,jazz,Before It's Time to Say Goodbye,Kenny Garrett,364,114,-16,33,857,635,83,57,1,117
+358,jazz,"Monk's Mood - Live At Carnegie Hall, New York/1957",Thelonious Monk Quartet,334,162,-17,43,981,686,422,104,5,68
+359,jazz,Stardust,Bobby Hutcherson,349,33,-22,35,967,693,272,230,3,64
+360,jazz,My Romance - Rudy Van Gelder Remaster,Gene Ammons,464,5,-22,60,945,904,139,297,1,95
+361,jazz,Lonely Woman,Ornette Coleman,474,376,-10,28,315,0,147,253,9,81
+362,jazz,Splanky,Count Basie,583,376,-10,43,725,251,64,614,6,120
+363,jazz,Midnight Special - Rudy Van Gelder Digital Remaster/2007,Jimmy Smith,704,277,-11,35,814,756,84,322,0,90
+364,jazz,You've Changed,Kurt Rosenwinkel,486,125,-19,35,988,804,115,207,0,112
+365,jazz,Yams,Jackie McLean,571,293,-11,38,828,179,112,230,0,82
+366,jazz,Sister Rosa,Christian McBride,446,468,-11,34,759,86,130,392,3,126
+367,jazz,Young One for Debra,Jim Hall,338,13,-28,49,996,953,110,144,2,79
+368,jazz,The People In Nassau,Blue Mitchell,688,552,-9,35,689,194,85,892,7,110
+369,jazz,Going Home,Charlie Haden,406,22,-28,46,958,923,105,196,0,90
+370,jazz,How Can I Tell You - Live,Charles Lloyd,385,300,-12,36,975,374,769,253,3,90
+371,jazz,Someday My Prince Will Come,Wynton Kelly,558,327,-17,39,562,0,83,252,10,114
+372,jazz,Love Theme From Spartacus - Remastered,Yusef Lateef,522,379,-14,28,635,925,114,454,4,133
+373,jazz,From Dream to Dream,Benny Golson,300,97,-20,39,967,969,116,138,7,169
+374,jazz,Eleanor,Hank Jones,450,43,-29,37,971,880,94,98,10,63
+375,jazz,Journey Into The Melody,Stanley Turrentine,432,29,-20,41,971,265,167,190,5,98
+376,jazz,Lonesome Lover,Max Roach,360,429,-13,39,472,0,137,429,9,113
+377,jazz,Crystal Silence,Chick Corea,203,18,-24,40,985,377,72,48,9,76
+378,jazz,Seymour Reads the Constitution,Brad Mehldau Trio,586,284,-15,36,760,783,102,391,6,93
+379,jazz,Cantaloupe Island - Remastered,Herbie Hancock,515,583,-8,28,749,0,123,414,0,116
+380,jazz,Hat And Beard,Eric Dolphy,465,644,-7,106,496,179,176,355,8,81
+381,jazz,Oriental Flower,Elvin Jones,475,272,-16,41,690,63,115,171,7,127
+382,jazz,In A Sentimental Mood,Duke Ellington,464,305,-12,31,936,84,208,282,3,108
+383,jazz,Passion Flower - Instrumental,Kenny Barron,451,231,-18,42,856,907,367,76,8,103
+384,jazz,Senor Mouse,Gary Burton,456,205,-19,45,952,889,101,310,11,111
+385,jazz,You've Changed,Keith Jarrett Trio,421,129,-26,46,886,852,132,185,8,107
+386,jazz,Blue Haze,Miles Davis Quartet,596,230,-15,46,447,0,83,249,0,71
+387,jazz,Blue in Green (feat. John Coltrane & Bill Evans),Miles Davis,421,16,-25,38,808,2,97,154,2,110
+388,jazz,Senor Blues - Alternate 45 Take/Rudy Van Gelder Edition/2000 Digital Remaster/24-Bit Mastering,Horace Silver Quintet,516,374,-10,34,915,803,111,769,10,145
+389,jazz,I Fall In Love Too Easily - Vocal Version,Chet Baker,532,65,-19,40,940,4,94,292,0,128
+390,jazz,The Nearness Of You,Michael Brecker,517,152,-15,30,925,1,82,173,10,98
+391,jazz,Besame Mucho,Dave Brubeck,637,257,-17,54,881,706,975,304,10,126
+392,jazz,Crazy Rhythm,Benny Carter,632,647,-8,55,278,165,122,835,7,118
+393,jazz,Donna,Miles Davis Sextet,584,440,-9,32,713,0,141,737,5,81
+394,jazz,Sunset,McCoy Tyner Trio,413,84,-23,36,967,815,108,87,2,131
+395,jazz,Cristo Redentor - Remastered,Donald Byrd,260,203,-12,35,990,944,134,64,7,173
+396,jazz,Over The Rainbow,Lou Donaldson,371,82,-20,35,963,490,83,78,3,106
+397,jazz,Evening In Paris,Zoot Sims,564,162,-12,33,984,358,125,570,6,62
+398,jazz,Goin' home,Archie Shepp,491,36,-16,44,971,804,200,235,3,114
+399,jazz,What Is This Thing Called Love,J.J. Johnson,517,458,-13,40,727,44,752,709,5,119
+400,lo-fi,Flight,Axian,594,411,-10,70,206,925,99,312,11,84
+401,lo-fi,Sundown,Arbour,654,534,-12,37,568,886,115,187,10,156
+402,lo-fi,Cascade,Knowmadic,235,444,-14,66,848,961,113,37,9,50
+403,lo-fi,Blue and Green,Harris Cole,638,38,-17,115,897,849,73,480,1,79
+404,lo-fi,Mirage,leaf beach,740,329,-7,46,109,888,139,511,11,172
+405,lo-fi,Redux,Smoke Trees,713,190,-15,62,896,923,96,290,7,78
+406,lo-fi,sand castles,Fujitsu,784,312,-14,51,576,851,128,630,4,129
+407,lo-fi,Troubadix,Plusma,590,342,-9,272,423,896,128,227,0,77
+408,lo-fi,It's Raining,Masked Man,511,371,-10,57,701,810,51,422,4,81
+409,lo-fi,Every Second,aimless,693,164,-11,94,838,872,89,164,9,74
+410,lo-fi,thinking of you,mommy,798,84,-12,209,487,800,239,506,11,160
+411,lo-fi,Sweet Moments,.ihaveaface,850,277,-17,62,73,886,90,955,5,156
+412,lo-fi,Dream Sequence,Kendall Miles,375,439,-11,64,800,812,473,464,6,121
+413,lo-fi,Good Night,Oatmello,533,165,-14,39,929,937,105,189,2,122
+414,lo-fi,Endless Ether,fantompower,673,377,-17,42,844,890,112,135,10,126
+415,lo-fi,Got Ur Money,Dweeb,685,270,-10,37,783,812,84,379,9,118
+416,lo-fi,Jakarta,.Sinh,659,176,-17,354,933,883,102,184,10,76
+417,lo-fi,fyrsta,Flughand,753,281,-11,65,730,901,90,546,2,83
+418,lo-fi,Levitating,invention_,403,294,-14,69,612,916,429,385,0,65
+419,lo-fi,All I Ever Wanted,Misc.Inc,569,342,-18,47,771,907,78,37,9,158
+420,lo-fi,Floating,Smuv,721,266,-13,242,127,949,117,795,9,85
+421,lo-fi,Effervescent,Toonorth,811,143,-11,137,567,919,113,442,0,167
+422,lo-fi,send me a song,Smeyeul.,750,161,-15,151,885,894,108,510,10,139
+423,lo-fi,Law,Sleepdealer,606,554,-8,58,863,738,94,537,11,79
+424,lo-fi,Shangri-La,SPEECHLESS,748,650,-7,69,884,877,73,610,4,160
+425,lo-fi,Purpose,H E R B,500,264,-14,33,930,925,372,356,2,75
+426,lo-fi,sekao,Delayde,616,375,-16,40,905,896,332,333,5,159
+427,lo-fi,Hands Free,Kuranes,741,75,-12,166,243,868,105,308,4,148
+428,lo-fi,Stay With Me,jrd.,437,86,-22,149,940,949,122,373,0,70
+429,lo-fi,Joan of Arc.,Barnes Blvd.,429,272,-16,31,745,870,103,53,7,90
+430,lo-fi,Up,Sebastian Kamae,622,288,-11,41,877,948,82,398,2,79
+431,lo-fi,With U,SwuM,469,309,-11,34,863,809,92,185,1,90
+432,lo-fi,Blue Lounge,ØDYSSEE,800,307,-10,56,481,837,110,196,5,80
+433,lo-fi,Divine,Blvk,690,555,-7,56,2,717,911,802,1,91
+434,lo-fi,Proud of You,A L E X,820,281,-15,80,869,961,92,620,8,104
+435,lo-fi,Homecoming,Lost Son,691,369,-12,62,820,941,88,278,4,77
+436,lo-fi,feather light melodies,santpoort,735,456,-12,52,949,878,118,708,3,147
+437,lo-fi,sheets,jhfly,750,540,-8,99,496,890,158,313,3,77
+438,lo-fi,Magnolia,Hazy Year,666,350,-14,72,842,946,81,113,5,79
+439,lo-fi,Compassion,steezy prime,595,190,-11,40,725,901,124,36,11,144
+440,lo-fi,Almost Home,Sugi.wa,586,68,-19,51,873,921,80,353,4,85
+441,lo-fi,coffee on the beach.,halberd,857,403,-11,43,866,944,115,225,8,137
+442,lo-fi,Calcium,Bertholet,866,236,-10,66,782,935,144,552,2,80
+443,lo-fi,Violet,Kavv,757,265,-14,369,822,803,358,534,1,71
+444,lo-fi,quilted hills,ocha,816,241,-7,107,866,933,154,759,6,148
+445,lo-fi,"sincerely, yours",Nohidea,605,396,-11,50,800,872,141,622,5,80
+446,lo-fi,just you,Ameba,554,185,-14,64,951,913,114,340,1,172
+447,lo-fi,please do,mt. fujitive,794,185,-10,62,912,916,128,609,8,80
+448,lo-fi,More Life,Nokiaa,707,258,-10,55,692,775,131,257,11,90
+449,lo-fi,Flightmode On,Made in M,889,405,-13,152,425,796,117,187,6,115
+450,lo-fi,Cascada,Juan Rios,937,391,-14,178,831,915,144,808,7,140
+451,lo-fi,by my side,Flavors,638,48,-12,173,486,892,88,419,9,81
+452,lo-fi,Serenity,eevee,577,363,-10,39,798,927,92,282,8,77
+453,lo-fi,Squid x jhfly,Chill Children,747,59,-13,61,947,890,132,150,8,80
+454,lo-fi,felt,Joe Nora,785,354,-10,88,851,712,105,243,10,85
+455,lo-fi,Hittin' Switches - Instrumental,emune,681,345,-11,382,528,718,121,498,4,143
+456,lo-fi,Lost Samurai,Caleb Belkin,758,430,-9,48,80,872,139,651,6,89
+457,lo-fi,NoMo,[ocean jams],668,631,-6,90,29,908,95,231,10,170
+458,lo-fi,Ghost in My Mind,j'san,714,357,-9,60,805,914,112,86,4,134
+459,lo-fi,Go!,DRWN.,683,115,-10,94,642,844,93,279,0,82
+460,lo-fi,Clouds,Ajmw,661,169,-13,77,957,898,68,260,0,62
+461,lo-fi,ikigai,Idealism,381,392,-17,58,755,856,140,294,8,67
+462,lo-fi,Monday Morning 5/1/2017,charlie toØ human,636,347,-13,84,898,830,106,628,9,89
+463,lo-fi,we'll stay inside when it rains,Rook1e,700,134,-17,77,592,845,107,435,9,160
+464,lo-fi,You Don't Know,Psalm Trees,834,289,-8,47,673,849,143,821,2,88
+465,lo-fi,Poems,twuan,561,332,-11,39,366,907,92,374,5,159
+466,lo-fi,this girl,Elijah Who,790,133,-9,91,875,808,111,422,8,69
+467,lo-fi,Timeless,H.1,454,214,-12,72,748,925,105,87,9,85
+468,lo-fi,5:32pm,The Deli,691,186,-13,48,686,934,76,548,10,86
+469,lo-fi,Escapism.,Keem the Cipher,735,621,-9,85,7,819,518,481,0,80
+470,lo-fi,Driftwood,Leavv,519,130,-13,67,828,919,120,405,4,88
+471,lo-fi,Pen Anubis,B-Side,686,355,-9,64,559,750,79,322,6,77
+472,lo-fi,in my love,BROCKBEATS,802,545,-13,257,926,943,112,826,7,172
+473,lo-fi,Sunsets,Aso,652,265,-17,295,925,943,114,425,9,82
+474,lo-fi,A World at Peace,Ibrahim,438,131,-13,108,930,970,87,47,1,80
+475,lo-fi,Green Stamps,Tesk,831,230,-9,40,8,810,330,688,3,86
+476,lo-fi,Lie,"quickly, quickly",423,375,-12,63,887,837,106,157,11,129
+477,lo-fi,The Girl I Haven't Met,Kudasaibeats,785,222,-21,41,860,840,106,327,8,139
+478,lo-fi,Sweev,Brenky,813,238,-18,53,461,888,74,624,9,107
+479,lo-fi,Maple Leaf,Philanthrope,675,83,-14,74,727,948,120,339,3,170
+480,lo-fi,Jovial,Limes,764,185,-14,48,918,926,118,378,7,69
+481,lo-fi,yellowish,oofoe,520,483,-8,52,909,923,114,631,6,164
+482,lo-fi,Wildflower,Joe Corfield,671,132,-11,70,926,946,94,685,1,91
+483,lo-fi,hoodie weather,[bsd.u],616,313,-17,346,897,791,183,807,10,166
+484,lo-fi,Along the Yarra,Stan Forebee,717,339,-9,103,637,890,107,488,1,87
+485,lo-fi,Egyptian Pools,Jinsang,665,597,-9,274,845,919,110,810,5,78
+486,lo-fi,Chromatic,Kazam,714,331,-11,58,861,776,110,238,11,79
+487,lo-fi,i promise that i care much more than i show,furino,746,451,-8,133,845,890,732,447,5,164
+488,lo-fi,Midnight Snacks,Omaure,770,477,-8,63,16,887,263,306,3,83
+489,lo-fi,At Peace,soho,809,304,-12,218,963,898,108,527,4,79
+490,lo-fi,In Passing,stream_error,549,257,-16,50,776,906,117,86,5,151
+491,lo-fi,nothing but love,Bassti,559,341,-13,41,95,952,114,579,6,163
+492,lo-fi,Withy Nights,Konteks,688,181,-13,93,745,702,112,715,11,75
+493,lo-fi,woodwork,eery,462,549,-11,182,882,801,385,636,7,89
+494,lo-fi,Well Known Place,Flitz&Suppe,757,173,-14,78,460,939,82,248,7,82
+495,lo-fi,doing laundry,weird inside,718,375,-10,143,622,902,510,394,1,85
+496,lo-fi,Wish You Were Mine,Sarcastic Sounds,816,468,-8,60,672,843,244,199,1,158
+497,lo-fi,lovesick,potsu,804,577,-14,140,922,939,113,181,10,79
+498,lo-fi,neff,chief.,504,61,-12,66,801,779,42,334,7,157
+499,lo-fi,Dreammybeat,Tomppabeats,775,194,-8,132,196,808,104,792,4,75
+500,metal,Abigail - Reissue,King Diamond,317,937,-5,65,1,723,352,559,9,146
+501,metal,Elimination,Overkill,302,805,-11,96,0,0,151,578,6,112
+502,metal,Evil,Mercyful Fate,282,905,-9,114,0,375,89,554,0,133
+503,metal,Watching over Me - Remixed & Remastered,Iced Earth,508,852,-7,71,1,0,363,184,6,129
+504,metal,Alison Hell,Annihilator,365,978,-6,69,0,2,206,108,9,101
+505,metal,Black Metal,Venom,291,758,-12,55,0,0,291,446,1,80
+506,metal,666 - World Divided,Kreator,445,959,-5,61,0,6,178,365,7,97
+507,metal,Breaking the Law,Judas Priest,362,961,-5,85,24,0,159,491,2,164
+508,metal,Return to Serenity,Testament,294,613,-10,38,235,0,139,228,1,112
+509,metal,Blacklist,Exodus,534,969,-3,53,0,564,269,598,3,75
+510,metal,Metal Church,Metal Church,428,947,-8,75,0,56,262,223,10,102
+511,metal,Balls to the Wall,Accept,544,739,-7,51,3,0,168,328,9,118
+512,metal,Holy Diver,Dio,473,783,-10,86,12,475,268,124,10,91
+513,metal,Solitude,Candlemass,229,704,-4,34,0,0,150,179,9,74
+514,metal,Princess of the Night - 2009 Remastered Version,Saxon,362,797,-8,42,3,0,66,753,3,107
+515,metal,Agent Orange,Sodom,262,988,-4,117,0,733,210,259,4,113
+516,metal,Under Jolly Roger,Running Wild,240,958,-10,100,0,35,769,71,11,161
+517,metal,Hall of the Mountain King,Savatage,355,922,-7,103,136,13,265,276,0,126
+518,metal,I Want Out,Helloween,477,859,-8,38,0,0,265,629,0,91
+519,metal,Madhouse,Anthrax,329,885,-10,90,24,4,735,481,9,163
+520,metal,Till the Day I Die,Halford,520,724,-8,36,19,163,137,421,1,90
+521,metal,Am I Evil?,Diamond Head,242,973,-4,148,0,820,121,369,8,148
+522,metal,Tears of the Dragon - 2001 Remastered Version,Bruce Dickinson,496,620,-7,26,3,0,114,279,4,140
+523,metal,The Moth,Death Angel,175,969,-4,87,0,85,88,295,1,192
+524,metal,Believe in Nothing,Nevermore,437,891,-4,32,0,0,53,444,8,133
+525,metal,Symphony Of Destruction,Megadeth,610,891,-5,58,0,92,65,510,4,139
+526,metal,Bible Black,Heaven & Hell,340,783,-6,39,4,0,81,312,1,81
+527,metal,Kings of Metal,Manowar,575,881,-13,35,0,0,147,699,9,132
+528,metal,Thrash Till Death,Destruction,145,988,-3,83,0,7,293,215,1,187
+529,metal,Ace of Spades,Motörhead,329,974,-8,135,0,0,90,234,3,140
+530,metal,Mexican Radio,Celtic Frost,245,933,-8,86,0,182,43,456,4,178
+531,metal,Left Hand Path,Entombed,166,927,-8,73,0,651,344,219,7,131
+532,metal,I Wanna Be Somebody,W.A.S.P.,285,825,-7,46,0,0,268,516,1,164
+533,metal,End of the Attention Span,Armored Saint,360,990,-4,170,0,0,172,151,8,191
+534,metal,Heartwork,Carcass,196,995,-4,104,0,49,266,177,4,91
+535,metal,Redneck Stomp,Obituary,245,861,-8,41,0,871,216,483,2,91
+536,metal,Voice of the Soul,Death,158,572,-6,34,0,893,144,347,7,79
+537,metal,Silent Lucidity - Remastered 2003,Queensrÿche,462,628,-5,27,53,0,120,98,7,140
+538,metal,The Trooper - 2015 Remaster,Iron Maiden,285,908,-4,70,31,9,311,669,4,159
+539,metal,Immortal Rites,Morbid Angel,190,934,-7,56,0,107,363,360,1,98
+540,metal,Astronomy Domine,Voivod,342,888,-11,46,0,460,139,195,2,126
+541,metal,Metal On Metal,Anvil,459,923,-6,70,0,0,454,548,10,119
+542,metal,Rebellion (The Clans Are Marching) - Remastered Version,Grave Digger,483,893,-3,65,18,0,162,200,4,131
+543,metal,Raining Blood,Slayer,294,995,-4,168,0,331,128,37,1,88
+544,metal,A Fine Day to Die,Bathory,232,931,-8,80,4,756,92,37,9,122
+545,metal,Paranoid,Black Sabbath,429,631,-11,76,0,4,175,376,4,162
+546,metal,Mother,Danzig,365,763,-9,59,7,0,86,342,11,148
+547,metal,The Temple Of The King,Rainbow,486,487,-11,34,445,0,64,373,9,81
+548,metal,Hammerhead,Flotsam & Jetsam,189,950,-9,95,3,0,54,124,11,155
+549,metal,Mirror Mirror - Remastered 2007,Blind Guardian,314,964,-4,93,1,0,289,238,0,177
+550,metal,Future Tense,Sanctuary,374,728,-11,57,0,5,113,348,1,105
+551,metal,Man and Machine,U.D.O.,571,905,-7,51,8,1,109,457,4,88
+552,metal,Rising Force,Yngwie Malmsteen,321,958,-10,87,103,0,99,106,8,117
+553,metal,Master Of Confusion,Gamma Ray,487,989,-3,79,1,0,344,270,5,98
+554,metal,In the Minds of Evil,Deicide,535,889,-5,53,0,410,329,327,10,97
+555,metal,Darkness Descends,Dark Angel,288,997,-5,241,0,439,196,39,1,122
+556,metal,Are You Dead Yet,Children Of Bodom,461,961,-3,47,0,140,308,416,8,96
+557,metal,The American Way,Sacred Reich,557,978,-7,57,2,7,158,551,0,148
+558,metal,I Will Be Gone,Primal Fear,285,411,-7,32,272,0,226,184,5,134
+559,metal,Critical Mass,Nuclear Assault,230,996,-4,87,108,927,129,33,8,100
+560,metal,Semtex Revolution,Coroner,427,790,-12,51,0,510,344,443,10,111
+561,metal,Stillborn,Black Label Society,585,881,-4,36,0,0,376,425,5,107
+562,metal,A Perfect Day to Die,Onslaught,424,971,-7,130,0,30,214,322,10,146
+563,metal,Angel Witch,Angel Witch,238,759,-12,62,0,2,608,732,0,193
+564,metal,Interdimensional Summit,Dimmu Borgir,454,969,-4,74,0,171,70,386,1,140
+565,metal,Queen of the Masquerade,Crimson Glory,244,943,-4,156,0,0,157,544,3,174
+566,metal,The Exorcist,Possessed,118,982,-5,231,0,253,220,34,10,96
+567,metal,Triumph of Death,Vader,555,959,-4,66,0,543,96,299,1,102
+568,metal,Hearts on Fire,HammerFall,577,901,-5,49,0,0,672,337,1,90
+569,metal,What Else Is There - Bonus Version,Enslaved,460,889,-6,58,0,656,67,219,1,114
+570,metal,All We Are,Warlock,495,835,-13,52,3,0,240,153,10,131
+571,metal,Mind Over Metal,Raven,332,965,-9,173,7,907,369,227,9,94
+572,metal,Inhumane Harvest,Cannibal Corpse,130,947,-5,95,0,368,45,334,8,60
+573,metal,(Empty) Tankard,Tankard,325,996,-2,96,0,38,186,354,5,120
+574,metal,We're Not Gonna Take It,Twisted Sister,502,924,-6,50,12,0,162,922,4,149
+575,metal,Fiddler on the Green - Remaster 2019,Demons & Wizards,321,556,-8,32,5,90,125,167,8,180
+576,metal,Slaughter Of The Soul,At The Gates,131,975,-7,118,0,914,86,393,7,79
+577,metal,Twilight Of The Thunder God,Amon Amarth,374,920,-4,50,0,26,80,278,6,191
+578,metal,Maha-Kali,Dissection,566,844,-4,31,0,91,87,682,1,109
+579,metal,The Killchain,Bolt Thrower,402,860,-7,39,0,895,103,427,8,108
+580,metal,Withstand The Fall Of Time,Immortal,159,964,-4,87,0,302,81,56,4,133
+581,metal,Roots Bloody Roots,Sepultura,428,874,-6,128,0,41,311,261,4,119
+582,metal,Small Town Boy,Paradise Lost,568,905,-6,33,0,841,96,413,5,126
+583,metal,See You In Hell,Grim Reaper,155,947,-5,98,2,2,235,270,0,185
+584,metal,"Man On The Silver Mountain - feat. Doug Aldrich, Vinny Appice, Jeff Pilson, Scott Warren",Rob Halford,484,915,-5,68,2,3,234,260,0,110
+585,metal,Eraser,Hypocrisy,429,951,-4,58,0,468,116,183,7,100
+586,metal,Heavy Metal Maniac,Exciter,219,919,-5,83,0,2,164,399,8,119
+587,metal,One,Fates Warning,528,879,-5,54,1,0,209,553,9,90
+588,metal,I Am The Black Wizards,Emperor,146,947,-5,83,0,905,185,89,0,104
+589,metal,Hypertension,Razor,270,996,-4,153,0,737,191,117,6,113
+590,metal,Straight To Hell,Rage,548,858,-5,74,0,1,95,374,8,104
+591,metal,Poison,Alice Cooper,280,908,-5,109,32,0,180,260,2,118
+592,metal,Agents of Steel,Agent Steel,123,991,-2,182,0,5,234,114,7,191
+593,metal,Transilvanian Hunger - Studio,Darkthrone,267,1000,-4,135,16,447,450,21,4,138
+594,metal,War Eternal,Arch Enemy,445,980,-4,73,0,163,129,285,5,155
+595,metal,K.I.N.G.,Satyricon,534,957,-6,57,0,443,43,425,9,129
+596,metal,Screaming in the Night,Krokus,475,576,-13,31,21,22,391,524,9,96
+597,metal,Walk,Pantera,430,704,-8,80,0,2,93,703,1,118
+598,metal,Empire of the Blind,Heathen,474,974,-3,68,0,17,499,227,7,105
+599,metal,War Within Me,Blaze Bayley,473,957,-4,56,0,16,153,410,4,99
+600,pop,Baila Conmigo (with Rauw Alejandro),Selena Gomez,823,544,-7,71,21,3,96,664,5,149
+601,pop,Met Him Last Night (feat. Ariana Grande),Demi Lovato,538,512,-4,26,220,0,101,120,4,144
+602,pop,Scars To Your Beautiful,Alessia Cara,573,739,-5,129,28,0,111,451,0,97
+603,pop,Dusk Till Dawn (feat. Sia) - Radio Edit,ZAYN,259,437,-6,38,102,0,106,95,11,180
+604,pop,Havana (feat. Young Thug),Camila Cabello,765,523,-4,30,184,0,132,394,2,104
+605,pop,"Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,664,708,-4,47,33,0,84,742,8,103
+606,pop,Work from Home (feat. Ty Dolla $ign),Fifth Harmony,803,585,-5,43,103,0,64,593,8,105
+607,pop,Issues,Julia Michaels,728,415,-6,63,401,0,61,455,8,114
+608,pop,"Love Me Like You Do - From ""Fifty Shades Of Grey""",Ellie Goulding,262,606,-6,48,247,0,125,275,8,189
+609,pop,Without Me,Halsey,752,488,-7,70,297,0,93,533,6,136
+610,pop,Lush Life,Zara Larsson,694,712,-3,46,133,0,211,799,7,98
+611,pop,Big (feat. Gunna),Rita Ora,781,843,-3,34,67,0,63,616,7,111
+612,pop,Sucker,Jonas Brothers,842,734,-5,58,42,0,106,952,1,137
+613,pop,Meant to Be (feat. Florida Georgia Line),Bebe Rexha,642,772,-6,84,47,0,64,589,10,153
+614,pop,Strawberries & Cigarettes,Troye Sivan,578,537,-8,83,162,0,76,250,9,83
+615,pop,Spaceman,Nick Jonas,548,601,-7,235,324,0,107,358,5,155
+616,pop,Selfish,Madison Beer,375,461,-6,27,627,0,386,233,9,75
+617,pop,hate u love u,Olivia O'Brien,407,416,-8,174,656,0,98,246,6,176
+618,pop,feel something,Bea Miller,740,415,-8,70,242,0,319,156,0,136
+619,pop,Bang Bang,Jessie J,706,783,-3,100,315,0,373,739,0,150
+620,pop,Somebody To You,The Vamps,526,818,-5,35,58,0,333,896,3,171
+621,pop,Cake By The Ocean,DNCE,774,753,-5,51,152,0,37,896,4,119
+622,pop,Habits (Stay High),Tove Lo,729,650,-3,31,70,0,82,347,5,110
+623,pop,2002,Anne-Marie,697,683,-2,117,37,0,137,603,1,96
+624,pop,Sweet Melody,Little Mix,448,824,-4,57,73,0,113,419,5,119
+625,pop,Teeth,5 Seconds of Summer,749,461,-2,41,51,0,73,420,10,139
+626,pop,Black And White,Niall Horan,443,582,-6,48,30,0,127,239,2,147
+627,pop,The Middle,Zedd,753,657,-3,44,171,0,112,437,7,107
+628,pop,Love You Like A Love Song,Selena Gomez & The Scene,858,678,-3,46,76,0,74,922,1,117
+629,pop,July,Noah Cyrus,708,186,-8,42,868,0,77,322,9,72
+630,pop,Like I'm Gonna Lose You (feat. John Legend),Meghan Trainor,630,530,-7,43,400,0,177,417,0,108
+631,pop,I.F.L.Y.,Bazzi,812,519,-4,38,379,0,130,554,2,104
+632,pop,TiK ToK,Kesha,755,837,-2,142,99,0,289,714,2,120
+633,pop,Prisoner (feat. Dua Lipa),Miley Cyrus,781,670,-3,45,10,0,76,595,3,127
+634,pop,Skin,Sabrina Carpenter,557,457,-5,33,428,0,56,328,7,105
+635,pop,I Like Me Better,Lauv,752,505,-7,253,535,0,104,419,9,91
+636,pop,Strip That Down (feat. Quavo),Liam Payne,873,495,-5,51,199,0,80,546,6,106
+637,pop,you broke me first,Tate McRae,667,373,-9,50,785,0,90,82,4,124
+638,pop,Tick Tock (feat. 24kGoldn),Clean Bandit,779,705,-3,34,369,0,124,946,0,101
+639,pop,Señorita,Shawn Mendes,759,548,-6,29,39,0,82,749,9,116
+640,pop,Bitter,FLETCHER,724,594,-7,102,393,1,88,413,6,136
+641,pop,We Don't Talk Anymore (feat. Selena Gomez),Charlie Puth,728,563,-8,134,621,0,179,352,1,100
+642,pop,Hurts So Good,Astrid S,672,625,-5,46,77,0,93,423,7,120
+643,pop,Painkiller,Ruel,683,420,-6,54,87,0,225,469,5,128
+644,pop,Fallin’ (Adrenaline),Why Don't We,606,900,-4,119,10,0,75,233,0,133
+645,pop,Dancing With Your Ghost,Sasha Sloan,629,327,-8,29,761,0,103,381,11,74
+646,pop,Don't Call Me Up,Mabel,674,881,-2,147,296,0,79,234,9,98
+647,pop,Because of You,Kelly Clarkson,587,583,-5,31,248,0,124,150,5,139
+648,pop,Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album,Lennon Stella,696,686,-6,30,262,0,174,700,5,115
+649,pop,Last Friday Night (T.G.I.F.),Katy Perry,652,812,-3,40,1,0,667,720,3,126
+650,pop,If the World Was Ending - feat. Julia Michaels,JP Saxe,464,473,-10,129,866,0,109,604,1,75
+651,pop,Call Me Maybe,Carly Rae Jepsen,783,580,-6,40,11,0,108,660,7,120
+652,pop,Fancy,Iggy Azalea,912,716,-4,69,90,0,49,377,10,94
+653,pop,Phases,PRETTYMUCH,770,636,-6,131,169,0,67,492,11,105
+654,pop,No Promises (feat. Demi Lovato),Cheat Codes,741,667,-5,134,57,0,106,595,10,112
+655,pop,Royals,Lorde,674,428,-9,122,121,0,132,337,7,84
+656,pop,Joke's On You,Charlotte Lawrence,476,652,-4,104,230,0,136,470,2,190
+657,pop,"Sit Still, Look Pretty",Daya,655,787,-3,264,122,0,178,554,2,181
+658,pop,Big Girls Don't Cry (Personal),Fergie,708,641,-4,33,205,0,94,253,7,113
+659,pop,Slow Dance,AJ Mitchell,692,443,-5,38,214,0,60,363,1,127
+660,pop,Diamonds,Sam Smith,637,666,-6,49,161,0,108,529,10,104
+661,pop,Blueberry Eyes (feat. SUGA of BTS),MAX,746,611,-7,101,454,0,133,411,0,149
+662,pop,A Thousand Years,Christina Perri,421,407,-7,26,309,0,110,161,10,139
+663,pop,Say You Won't Let Go,James Arthur,358,557,-7,59,695,0,90,494,10,85
+664,pop,Perfect Strangers,Jonas Blue,730,861,-4,45,390,0,213,704,1,117
+665,pop,Classic,MKTO,720,791,-4,124,38,0,157,756,1,102
+666,pop,I'll Be There,Jess Glynne,627,858,-3,39,28,0,199,399,7,100
+667,pop,Levitating (feat. DaBaby),Dua Lipa,702,825,-3,60,8,0,67,915,6,102
+668,pop,I Don't Know Why,NOTD,499,898,-4,124,124,0,83,618,8,120
+669,pop,Counting Stars,OneRepublic,664,705,-4,38,65,0,118,477,1,122
+670,pop,Be Alright,Dean Lewis,551,537,-7,34,705,0,80,493,11,126
+671,pop,you were good to me,Jeremy Zucker,561,84,-15,40,913,0,112,206,2,102
+672,pop,IDK You Yet,Alexander 23,648,308,-11,40,886,77,124,198,1,76
+673,pop,Dandelions,Ruth B.,609,692,-2,25,15,0,86,454,1,116
+674,pop,Unlock it (feat. Kim Petras and Jay Park),Charli XCX,504,711,-5,45,58,0,382,500,9,134
+675,pop,King,Years & Years,560,857,-4,38,59,0,381,432,4,119
+676,pop,Do It Again,Pia Mia,712,564,-6,47,26,0,87,411,8,95
+677,pop,I'll Always Remember You,Hannah Montana,418,721,-2,38,48,0,98,233,8,144
+678,pop,Ready or Not,Bridgit Mendler,715,872,-3,50,3,0,107,748,2,93
+679,pop,2 On (feat. ScHoolboy Q),Tinashe,742,595,-7,107,150,0,111,431,9,101
+680,pop,Watermelon Sugar,Harry Styles,548,816,-4,46,122,0,335,557,0,95
+681,pop,Troublemaker (feat. Flo Rida),Olly Murs,762,863,-3,56,15,0,125,965,0,106
+682,pop,I Was Made For Loving You,Tori Kelly,374,344,-11,30,355,0,96,216,2,106
+683,pop,What Makes You Beautiful,One Direction,726,787,-2,73,9,0,59,888,4,124
+684,pop,Closer,The Chainsmokers,748,524,-5,33,414,0,111,661,8,95
+685,pop,drivers license,Olivia Rodrigo,585,436,-8,60,721,0,105,132,10,143
+686,pop,Starships,Nicki Minaj,747,716,-2,75,135,0,251,751,11,125
+687,pop,Nights Like This (feat. Ty Dolla $ign),Kehlani,610,725,-5,150,367,0,154,291,8,146
+688,pop,When You Love Someone,James TW,681,453,-6,27,263,0,54,348,7,125
+689,pop,Don't Cha,The Pussycat Dolls,877,637,-3,101,5,0,95,569,1,119
+690,pop,Bubblegum Bitch,MARINA,495,856,-5,31,0,0,103,609,0,158
+691,pop,Eastside (with Halsey & Khalid),benny blanco,632,686,-7,243,549,0,200,329,6,89
+692,pop,Too Little Too Late - 2018,JoJo,394,821,-4,40,3,19,186,509,6,82
+693,pop,Let's Fall in Love for the Night,FINNEAS,737,408,-7,104,802,0,171,374,5,127
+694,pop,Let It Go,James Bay,546,311,-10,28,818,0,107,246,1,147
+695,pop,Take You Dancing,Jason Derulo,789,711,-4,41,33,0,87,753,2,112
+696,pop,No Air (feat. Chris Brown),Jordin Sparks,466,759,-4,199,52,0,58,328,8,160
+697,pop,"Lady Marmalade - From ""Moulin Rouge"" Soundtrack",Christina Aguilera,756,809,-3,54,17,0,660,640,5,109
+698,pop,Umbrella,Rihanna,583,829,-4,134,8,0,42,575,1,174
+699,pop,Your Shirt,Chelsea Cutler,426,476,-6,74,185,0,327,169,2,179
+700,r&b,Love,Keyshia Cole,688,519,-4,28,64,0,100,318,5,116
+701,r&b,When I See U,Fantasia,569,596,-6,172,452,0,205,754,8,93
+702,r&b,So Gone,Monica,618,552,-6,98,176,0,252,586,8,81
+703,r&b,The Boy Is Mine,Brandy,704,707,-6,39,539,1,318,761,1,93
+704,r&b,Officially Missing You,Tamia,476,407,-9,36,247,0,144,226,4,178
+705,r&b,Weak,SWV,693,533,-10,40,107,0,69,568,2,127
+706,r&b,"U Know What's Up (feat. Lisa ""Left Eye"" Lopes)",Donell Jones,854,543,-6,84,40,0,41,868,8,103
+707,r&b,Pick Up Your Feelings,Jazmine Sullivan,758,413,-6,46,321,0,117,599,2,85
+708,r&b,Love Like This,Faith Evans,767,551,-7,61,3,0,45,796,0,100
+709,r&b,Pony,Ginuwine,728,537,-10,103,0,5,296,966,8,142
+710,r&b,They Don't Know,Jon B.,699,388,-10,53,588,0,65,566,6,125
+711,r&b,How You Gonna Act Like That,Tyrese,733,521,-3,45,107,0,69,525,3,112
+712,r&b,Case Of The Ex (Whatcha Gonna Do),Mýa,772,688,-4,40,54,0,72,348,1,98
+713,r&b,In My Bed - So So Def Mix,Dru Hill,873,590,-10,151,37,0,66,809,1,95
+714,r&b,Just Kickin' It,Xscape,692,353,-12,61,57,0,579,730,1,80
+715,r&b,Faded Pictures,Case,705,511,-7,202,125,0,153,581,6,82
+716,r&b,Love and War,Tamar Braxton,270,580,-5,39,469,0,343,242,8,179
+717,r&b,Where the Party At (feat. Nelly),Jagged Edge,596,661,-6,226,310,0,84,860,5,129
+718,r&b,1 Thing,Amerie,612,961,-3,333,107,0,41,867,10,129
+719,r&b,Put That Woman First,Jaheim,649,536,-8,132,492,0,184,513,5,78
+720,r&b,Tired,Kelly Price,406,600,-8,51,2,0,701,165,5,121
+721,r&b,Come and Talk to Me - Remix,Jodeci,720,657,-6,295,26,0,209,657,11,172
+722,r&b,Read Your Mind,Avant,755,381,-6,71,291,0,97,695,8,73
+723,r&b,It Won't Stop (feat. Chris Brown) - EP Version,Sevyn Streeter,657,574,-9,40,16,0,172,211,1,119
+724,r&b,Where My Girls At,702,705,725,-7,50,35,14,194,760,4,92
+725,r&b,Ascension (Don't Ever Wonder) - Remastered 2021,Maxwell,762,459,-10,37,111,21,147,749,0,96
+726,r&b,Don't Come Easy,Raheem DeVaughn,680,381,-10,225,862,0,98,215,11,71
+727,r&b,Can't Raise a Man,K. Michelle,623,677,-5,63,23,0,72,182,5,151
+728,r&b,Must Be Nice,Lyfe Jennings,447,401,-11,378,657,0,127,644,3,82
+729,r&b,Un-Break My Heart - Classic Radio Mix,Toni Braxton,764,966,-6,50,105,0,120,353,0,122
+730,r&b,Are You That Somebody?,Aaliyah,854,658,-6,170,154,9,102,855,9,137
+731,r&b,I Wish,Carl Thomas,736,666,-4,33,59,0,107,224,1,89
+732,r&b,Far Away,Marsha Ambrosius,433,668,-6,211,221,0,126,351,9,70
+733,r&b,I Wanna Know,Joe,725,487,-5,36,260,0,431,599,8,136
+734,r&b,Freak Me,Silk,697,608,-10,46,29,0,276,725,4,133
+735,r&b,Let's Get Down,Tony! Toni! Toné!,907,645,-4,97,43,0,180,562,7,103
+736,r&b,A Couple Of Forevers,Chrisette Michele,494,452,-6,30,193,0,89,173,10,116
+737,r&b,Best of Me,Anthony Hamilton,742,728,-6,31,9,0,134,697,10,96
+738,r&b,Oops (Oh My) [feat. Missy Elliott],Tweet,660,536,-8,290,233,6,111,775,10,159
+739,r&b,Motivation,Kelly Rowland,744,672,-5,41,187,0,105,266,9,140
+740,r&b,Just Friends (Sunny),Musiq Soulchild,754,376,-7,204,404,0,358,554,0,95
+741,r&b,Blurred Lines,Robin Thicke,853,599,-4,41,3,0,75,843,7,119
+742,r&b,Breakin' My Heart (Pretty Brown Eyes),Mint Condition,672,520,-9,40,98,0,36,551,7,137
+743,r&b,Can't You See (feat. The Notorious B.I.G.),Total,744,574,-9,65,165,0,295,805,8,86
+744,r&b,Gonna Love Me,Teyana Taylor,514,506,-7,280,402,0,191,312,10,88
+745,r&b,Family Affair,Mary J. Blige,911,551,-3,44,132,0,86,969,8,92
+746,r&b,Nothing In This World,KeKe Wyatt,700,630,-3,44,195,0,34,399,6,131
+747,r&b,Knockin' da Boots,H-Town,726,501,-13,154,155,0,89,582,1,128
+748,r&b,Get Right Back To My Baby,Vivian Green,700,742,-4,59,22,0,65,766,11,103
+749,r&b,Say Yes,Floetry,747,398,-12,74,211,0,113,428,5,117
+750,r&b,Come Over,Changing Faces,743,473,-9,56,425,0,183,560,5,109
+751,r&b,Too Close,Next,847,402,-9,64,11,0,283,752,7,99
+752,r&b,I Like It,Sammie,826,656,-8,61,10,0,27,852,9,129
+753,r&b,There Goes My Baby,Charlie Wilson,596,827,-4,54,84,0,382,662,5,81
+754,r&b,Freak Like Me,Adina Howard,655,837,-6,72,26,0,45,660,11,91
+755,r&b,Bed,J. Holiday,684,606,-7,50,170,0,58,723,5,127
+756,r&b,Lay It Down,Lloyd,527,796,-5,62,17,0,79,534,1,155
+757,r&b,Don't Mess With My Man (feat. Brian Casey & Brandon Casey),Nivea,879,730,-4,164,114,0,241,885,11,99
+758,r&b,Monday Morning,Melanie Fiona,692,680,-6,156,5,0,327,936,3,90
+759,r&b,Let Me Love You,Mario,686,588,-8,55,178,0,95,617,7,94
+760,r&b,No Diggity,Blackstreet,867,646,-4,288,303,0,279,670,1,88
+761,r&b,Can We Talk,Tevin Campbell,660,646,-9,42,31,0,33,621,2,172
+762,r&b,Knock You Down,Keri Hilson,588,877,-4,160,9,0,171,645,8,155
+763,r&b,Peaches & Cream,112,677,520,-6,334,2,0,53,768,4,203
+764,r&b,Twisted,Keith Sweat,615,514,-9,46,393,0,248,822,11,175
+765,r&b,Georgy Porgy (feat. Faith Evans),Eric Benét,728,636,-7,171,6,0,296,821,11,96
+766,r&b,Straight Up,Chanté Moore,864,869,-3,129,255,0,46,930,1,100
+767,r&b,Anything For You,Ledisi,541,407,-7,150,633,0,111,347,7,133
+768,r&b,"Slow Down - 12"" Version",Bobby V.,568,732,-4,103,179,0,401,626,11,186
+769,r&b,Since You've Been Gone,DAY26,516,690,-6,43,165,0,126,398,6,129
+770,r&b,All My Life,K-Ci & JoJo,629,511,-8,32,114,0,58,181,1,128
+771,r&b,This Is How We Do It,Montell Jordan,799,623,-9,81,14,0,430,773,0,103
+772,r&b,One Woman Man,Dave Hollister,627,647,-6,29,45,0,65,521,11,91
+773,r&b,Nobody's Supposed to Be Here,Deborah Cox,662,531,-5,36,202,0,595,399,8,119
+774,r&b,Golden,Jill Scott,769,558,-6,82,275,0,75,593,10,100
+775,r&b,Naked,Marques Houston,750,511,-6,209,86,0,93,395,9,60
+776,r&b,Love Calls,Kem,812,526,-9,62,480,2,124,516,6,143
+777,r&b,Foolish,Ashanti,665,695,-5,53,347,0,106,707,0,90
+778,r&b,Grind With Me,Pretty Ricky,700,538,-5,45,0,0,105,189,1,136
+779,r&b,"My, My, My",Johnny Gill,580,596,-10,62,93,0,109,653,0,74
+780,r&b,Blame It,Jamie Foxx,673,614,-5,103,78,0,139,362,7,176
+781,r&b,Every Time I Close My Eyes (with Kenny G),Babyface,654,417,-7,25,62,0,96,279,5,143
+782,r&b,Here We Go (feat. Kelly Rowland),Trina,814,494,-7,84,624,0,88,607,8,128
+783,r&b,Never Too Busy,Kenny Lattimore,761,413,-10,68,113,1,90,733,4,167
+784,r&b,Hey Mr. D.J.,Zhané,865,560,-7,56,23,1,83,875,2,101
+785,r&b,Be Your Girl (Kaytranada Edition),Teedra Moses,864,682,-6,386,208,0,100,268,6,115
+786,r&b,If I Ever Fall In Love,Shai,402,205,-11,38,758,0,147,420,6,143
+787,r&b,Boyfriend #2,Pleasure P,648,767,-5,60,21,0,190,796,8,141
+788,r&b,Can You Stand The Rain,New Edition,614,369,-15,35,678,2,143,733,8,143
+789,r&b,Candy Rain,Soul For Real,590,699,-7,79,3,0,57,630,11,188
+790,r&b,Back At One,Brian McKnight,661,346,-9,30,452,0,131,256,11,129
+791,r&b,Thong Song,Sisqo,706,888,-6,65,119,0,70,714,2,121
+792,r&b,End Of The Road,Boyz II Men,640,427,-9,24,66,0,57,529,5,149
+793,r&b,She's Playing Hard To Get,Hi-Five,518,807,-6,57,7,0,271,781,1,199
+794,r&b,Post to Be (feat. Chris Brown & Jhene Aiko),Omarion,733,676,-5,43,69,0,208,701,10,97
+795,r&b,Ready Or Not,After 7,733,566,-12,39,96,0,74,775,8,141
+796,r&b,Bottoms Up (feat. Nicki Minaj),Trey Songz,844,601,-5,157,20,0,385,331,1,73
+797,r&b,Let's Chill,Guy,604,417,-12,38,68,0,42,558,10,74
+798,r&b,Tonight I'm Gonna Let Go,Syleena Johnson,719,520,-4,257,9,0,79,748,6,99
+799,r&b,EX,Kiana Ledé,763,537,-7,246,231,0,109,426,9,73
+800,rap,Unforgettable,French Montana,726,769,-5,123,29,10,104,733,6,97
+801,rap,Going Bad (feat. Drake),Meek Mill,889,496,-6,90,259,0,252,544,4,86
+802,rap,Wake Up in the Sky,Gucci Mane,800,578,-5,48,3,0,367,367,4,143
+803,rap,It's A Vibe,2 Chainz,822,502,-7,148,31,0,114,525,7,73
+804,rap,POPSTAR (feat. Drake),DJ Khaled,800,560,-4,261,57,0,134,450,5,163
+805,rap,Wolves (feat. Post Malone),Big Sean,724,675,-5,86,97,0,351,325,2,160
+806,rap,Plain Jane,A$AP Ferg,797,844,-5,275,65,0,87,520,11,170
+807,rap,See You Again (feat. Charlie Puth),Wiz Khalifa,689,481,-7,81,369,0,64,283,10,80
+808,rap,"Go Loko (feat. Tyga, Jon Z)",YG,880,670,-5,46,325,0,66,131,2,101
+809,rap,Aston Martin Music,Rick Ross,570,580,-5,210,12,0,49,404,1,171
+810,rap,No Hands (feat. Roscoe Dash & Wale),Waka Flocka Flame,760,595,-6,39,5,0,241,361,1,131
+811,rap,Trophies,Young Money,746,687,-7,382,155,0,137,283,1,143
+812,rap,"King's Dead (with Kendrick Lamar, Future & James Blake)",Jay Rock,645,705,-5,299,0,0,128,376,1,137
+813,rap,Lotus Flower Bomb (feat. Miguel),Wale,512,598,-4,115,611,0,88,345,9,70
+814,rap,"Shell Shocked (feat. Kill The Noise & Madsonik) - From ""Teenage Mutant Ninja Turtles""",Juicy J,596,815,-5,75,11,0,174,459,6,165
+815,rap,Into You (feat. Tamia) - Main Mix,Fabolous,681,529,-7,34,201,0,184,568,7,91
+816,rap,Collard Greens,ScHoolboy Q,825,575,-4,63,25,0,205,650,11,153
+817,rap,Ballin' (with Roddy Ricch),Mustard,809,545,-6,73,392,0,151,244,7,97
+818,rap,Praise The Lord (Da Shine) (feat. Skepta),A$AP Rocky,854,569,-8,106,60,81,100,294,5,80
+819,rap,Rake It Up (feat. Nicki Minaj),Yo Gotti,910,444,-8,344,22,0,137,530,1,149
+820,rap,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",Lil Wayne,502,786,-4,317,255,0,650,739,9,169
+821,rap,Live Your Life,T.I.,375,862,-3,255,71,0,211,478,11,159
+822,rap,23,Mike WiLL Made-It,859,599,-5,61,0,0,130,319,9,140
+823,rap,Hate It Or Love It,The Game,802,785,-4,207,140,0,123,435,9,99
+824,rap,The London (feat. J. Cole & Travis Scott),Young Thug,784,517,-8,209,24,0,155,206,4,97
+825,rap,The Count (feat. Wiz Khalifa),Curren$y,385,757,-5,167,709,0,235,469,0,82
+826,rap,Put On,Jeezy,654,770,-6,35,3,0,88,272,9,137
+827,rap,Baby (Lil Baby feat. DaBaby),Quality Control,970,463,-7,366,95,0,151,460,10,108
+828,rap,Trouble On My Mind,Pusha T,645,785,-6,365,70,0,380,673,6,172
+829,rap,Space Cadet (feat. Gunna),Metro Boomin,901,464,-9,64,368,0,238,638,5,109
+830,rap,Ric Flair Drip (& Metro Boomin),Offset,880,428,-8,206,149,0,114,333,9,100
+831,rap,Yamborghini High (feat. Juicy J),A$AP Mob,838,765,-6,280,28,0,77,635,7,137
+832,rap,Bad and Boujee (feat. Lil Uzi Vert),Migos,927,665,-5,244,61,0,123,175,11,127
+833,rap,Come Get Her,Rae Sremmurd,689,564,-6,136,187,0,72,123,2,185
+834,rap,No Role Modelz,J. Cole,692,521,-8,330,301,0,56,463,10,100
+835,rap,FLIP THE SWITCH (feat. Drake),Quavo,853,637,-5,331,129,0,267,496,3,86
+836,rap,Love Sosa,Chief Keef,772,413,-8,89,36,0,111,211,0,131
+837,rap,What's Luv? (feat. Ja-Rule & Ashanti),Fat Joe,835,707,-5,59,21,0,108,919,8,93
+838,rap,Grinding All My Life,Nipsey Hussle,600,716,-5,384,49,0,109,246,3,180
+839,rap,Taste (feat. Offset),Tyga,866,613,-6,151,29,0,104,359,0,98
+840,rap,Drankin N Smokin,Future,752,658,-6,342,42,0,92,387,0,151
+841,rap,Love Is Only a Feeling,Joey Bada$$,629,676,-7,191,530,0,701,497,1,90
+842,rap,Broke In A Minute,Tory Lanez,929,700,-5,90,144,0,349,802,0,120
+843,rap,Stuntin' Like My Daddy - Street,Birdman,710,881,-6,39,9,0,162,809,5,160
+844,rap,We Ball,Ace Hood,752,525,-9,248,252,0,115,151,10,154
+845,rap,Chucky Cheese,MadeinTYO,890,542,-4,314,523,0,123,565,10,78
+846,rap,Show Me (feat. Chris Brown),Kid Ink,711,508,-7,49,35,0,141,665,7,98
+847,rap,Saint,Huncho Jack,866,648,-3,54,9,0,96,79,1,150
+848,rap,Plug Walk,Rich The Kid,876,519,-6,143,202,0,108,158,11,94
+849,rap,HUMBLE.,Kendrick Lamar,908,621,-6,102,0,0,95,421,1,150
+850,rap,Lottery (Renegade) - Bonus Track,K CAMP,919,547,-8,207,22,0,73,607,1,148
+851,rap,ZEZE (feat. Travis Scott & Offset),Kodak Black,861,603,-5,176,52,0,92,504,8,98
+852,rap,"Flex (Ooh, Ooh, Ooh)",Rich Homie Quan,726,607,-7,49,38,0,190,891,2,81
+853,rap,Oprah's Bank Account (Lil Yachty & DaBaby feat. Drake),Lil Yachty,830,625,-3,57,226,0,302,884,5,138
+854,rap,Country Sh*t (Remix),Big K.R.I.T.,732,572,-6,38,1,0,378,239,0,128
+855,rap,From The D To The A (feat. Lil Yachty),Tee Grizzley,851,625,-5,303,195,0,266,668,10,99
+856,rap,PICK IT UP (feat. A$AP Rocky),Famous Dex,921,467,-8,119,14,0,334,287,1,135
+857,rap,Hypnotized (feat. Akon),Plies,840,571,-7,79,160,0,406,617,10,116
+858,rap,"My Moment (feat. 2 Chainz, Meek Mill and Jeremih)",DJ Drama,456,760,-3,98,33,0,228,189,1,148
+859,rap,The Show Goes On,Lupe Fiasco,591,889,-3,115,18,0,155,650,7,143
+860,rap,Turks (with Gunna & ft. Travis Scott),NAV,894,618,-4,129,80,0,558,379,7,119
+861,rap,My Chick Bad,Ludacris,624,723,-6,378,172,0,483,757,1,84
+862,rap,"Beamer, Benz, Or Bentley",Lloyd Banks,652,671,-5,315,4,0,598,518,4,159
+863,rap,Solid (feat. Drake),Young Stoner Life,887,485,-9,200,39,0,141,328,11,125
+864,rap,CoCo,O.T. Genasis,886,628,-5,131,2,0,310,178,8,119
+865,rap,Gifted (feat. Roddy Ricch),Cordae,653,603,-5,171,175,0,180,551,5,151
+866,rap,Case Closed,Young Dolph,886,722,-5,198,18,0,82,510,6,144
+867,rap,Hey Ma,Cam’ron,764,669,-5,363,28,0,337,934,8,89
+868,rap,Cocoa Butter Kisses,Chance the Rapper,679,645,-7,222,51,0,145,203,6,125
+869,rap,Back That Azz Up,JUVENILE,874,714,-6,129,15,0,96,541,7,95
+870,rap,Under The Sun (with J. Cole & Lute feat. DaBaby),Dreamville,691,640,-6,369,511,0,409,163,0,138
+871,rap,Let's Go (feat. Big D & Twista),Trick Daddy,748,767,-7,172,26,0,334,519,11,133
+872,rap,Gang Signs (feat. ScHoolboy Q),Freddie Gibbs,626,615,-6,346,265,0,81,611,1,52
+873,rap,Buy U a Drank (Shawty Snappin') (feat. Yung Joc),T-Pain,693,549,-8,119,10,0,67,605,1,80
+874,rap,Casper,Takeoff,921,607,-7,209,525,0,123,753,1,140
+875,rap,Overnight Celebrity,Twista,828,792,-5,179,182,0,281,777,10,134
+876,rap,Selfish,PnB Rock,638,600,-5,43,114,0,187,39,1,101
+877,rap,Tribe (with J. Cole),Bas,755,594,-5,216,241,0,107,237,7,178
+878,rap,ORANGE SODA,Baby Keem,830,564,-7,235,177,0,128,107,1,85
+879,rap,BELIEVE IT,PARTYNEXTDOOR,430,700,-5,264,90,0,216,731,6,158
+880,rap,Reborn,KIDS SEE GHOSTS,585,597,-7,37,339,40,195,227,0,100
+881,rap,We Gonna Make It,Jadakiss,514,961,-3,347,178,0,146,686,2,87
+882,rap,Reverse (feat. G-Eazy),VIC MENSA,836,703,-4,106,31,0,124,211,0,144
+883,rap,Tiimmy Turner,Desiigner,603,725,-3,39,174,0,78,304,6,122
+884,rap,Addicted to the Game,Jim Jones,609,656,-8,325,104,0,223,329,7,148
+885,rap,I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster,Diddy,833,619,-5,53,111,0,159,901,7,109
+886,rap,Kiss Me Thru The Phone,Soulja Boy,758,712,-3,112,18,0,67,795,7,149
+887,rap,DOLLAZ ON MY HEAD (feat. Young Thug),Gunna,825,458,-7,57,114,0,102,161,0,145
+888,rap,Shorty Wanna Ride,Young Buck,582,621,-6,283,3,0,111,331,11,179
+889,rap,Airplanes (feat. Hayley Williams of Paramore),B.o.B,660,867,-4,116,110,0,36,377,6,93
+890,rap,Day 'N' Nite (Nightmare),Kid Cudi,880,443,-6,65,462,0,122,803,11,138
+891,rap,Poppin' Them Thangs,G-Unit,769,818,-1,192,263,0,78,918,6,88
+892,rap,Ni**as In Paris,JAY-Z,789,858,-5,311,127,0,349,775,1,140
+893,rap,Doin' It,LL Cool J,801,550,-11,209,365,23,117,609,10,94
+894,rap,Pretty Little Fears (feat. J. Cole),6LACK,610,458,-11,360,696,0,85,246,9,192
+895,rap,Handsome,Dave East,852,613,-8,348,9,0,88,547,0,133
+896,rap,Ayy Ladies (feat. Tyga),Travis Porter,905,782,-3,164,96,0,62,798,10,96
+897,rap,Trap Queen,Fetty Wap,746,873,-3,128,24,0,354,817,7,148
+898,rap,Hip Hop Hooray,Naughty By Nature,862,642,-13,101,102,0,272,765,6,99
+899,rap,When I Come Around,Dom Kennedy,814,568,-7,308,25,0,575,560,1,97
+900,rock,Baba O'Riley,The Who,489,724,-8,35,313,185,287,150,5,117
+901,rock,Jump - 2015 Remaster,Van Halen,572,835,-6,31,171,0,70,795,0,129
+902,rock,Sweet Home Alabama,Lynyrd Skynyrd,596,605,-12,25,181,0,86,886,7,97
+903,rock,More Than a Feeling,Boston,377,682,-8,29,0,2,50,288,7,108
+904,rock,American Girl,Tom Petty and the Heartbreakers,550,824,-5,33,448,0,366,777,2,114
+905,rock,The Joker,Steve Miller Band,596,448,-9,39,365,0,206,796,5,83
+906,rock,Sunshine Of Your Love,Cream,684,481,-12,38,475,0,118,784,2,115
+907,rock,Drive - 2017 Remaster,The Cars,261,703,-7,41,115,0,102,405,6,83
+908,rock,Stairway to Heaven - Remaster,Led Zeppelin,338,340,-12,33,580,3,116,197,9,82
+909,rock,I Want You to Want Me,Cheap Trick,806,462,-12,29,780,13,150,736,2,92
+910,rock,Hard To Handle,The Black Crowes,599,790,-3,43,2,1,312,961,4,103
+911,rock,La Grange - 2005 Remaster,ZZ Top,545,640,-9,224,2,30,196,606,4,80
+912,rock,(Don't Fear) The Reaper,Blue Öyster Cult,333,927,-8,73,2,0,297,385,9,141
+913,rock,Poison,Alice Cooper,280,908,-5,109,32,0,180,260,2,118
+914,rock,Smoke On The Water - Remastered 2012,Deep Purple,598,676,-9,27,130,225,112,805,0,114
+915,rock,The Boys Are Back In Town,Thin Lizzy,445,706,-9,46,234,0,205,768,8,80
+916,rock,She Sells Sanctuary,The Cult,550,765,-8,28,0,873,132,419,7,139
+917,rock,Barracuda,Heart,547,691,-13,36,15,105,144,667,4,137
+918,rock,All Along the Watchtower,Jimi Hendrix,438,805,-6,62,2,0,84,564,8,113
+919,rock,Black Hole Sun,Soundgarden,361,728,-8,36,0,0,70,155,6,105
+920,rock,Seven Nation Army,The White Stripes,726,463,-7,79,8,447,255,321,0,123
+921,rock,Crazy Train,Ozzy Osbourne,454,913,-4,107,408,0,248,521,9,137
+922,rock,Feel like Makin' Love - 2015 Remaster,Bad Company,543,529,-9,30,326,2,709,746,7,85
+923,rock,Free Fallin',Tom Petty,623,449,-13,25,212,0,61,572,5,84
+924,rock,Paranoid,Black Sabbath,429,631,-11,76,0,4,175,376,4,162
+925,rock,Tom Sawyer,Rush,536,901,-7,37,1,18,60,666,9,87
+926,rock,Interstate Love Song - 2019 Remaster,Stone Temple Pilots,215,927,-7,45,0,6,126,490,9,170
+927,rock,Stranglehold,Ted Nugent,484,711,-7,33,18,173,94,490,2,148
+928,rock,Life's Been Good,Joe Walsh,505,476,-12,71,250,9,113,542,2,99
+929,rock,You Ain't Seen Nothing Yet,Bachman-Turner Overdrive,475,439,-15,42,0,0,223,760,11,118
+930,rock,You Really Got Me - Mono Mix,The Kinks,573,939,-6,80,493,0,99,963,8,137
+931,rock,Song 2 - 2012 Remaster,Blur,674,789,-6,67,1,7,75,918,8,129
+932,rock,Listen to the Music,The Doobie Brothers,645,598,-13,33,221,0,72,913,1,105
+933,rock,"Steady, as She Goes",The Raconteurs,530,603,-4,115,12,19,83,549,9,123
+934,rock,No One Knows,Queens of the Stone Age,509,584,-4,57,36,0,384,685,0,170
+935,rock,Losing My Religion,R.E.M.,666,855,-5,29,179,0,98,803,9,125
+936,rock,"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",Aerosmith,390,649,-5,34,172,0,216,144,2,121
+937,rock,Rebel Yell,Billy Idol,530,864,-4,61,0,0,354,484,4,166
+938,rock,Since You Been Gone,Rainbow,733,726,-6,37,379,0,471,915,7,120
+939,rock,Midnight Rider,Allman Brothers Band,585,532,-9,26,209,7,227,680,7,94
+940,rock,I Want to Know What Love Is - 1999 Remaster,Foreigner,477,471,-10,27,193,0,131,423,6,81
+941,rock,Jack & Diane,John Mellencamp,811,410,-8,39,36,0,79,626,9,103
+942,rock,Here I Go Again - 2018 Remaster,Whitesnake,292,823,-6,40,11,0,155,244,7,89
+943,rock,The Stroke - Remastered,Billy Squier,670,591,-6,64,620,0,373,800,7,91
+944,rock,Every Breath You Take,The Police,820,452,-9,34,543,2,71,740,1,117
+945,rock,Some Kind Of Wonderful - Remastered 1999,Grand Funk Railroad,855,691,-6,51,144,0,360,647,2,121
+946,rock,Slither,Velvet Revolver,478,974,-3,102,0,98,73,268,7,141
+947,rock,Centerfold,The J. Geils Band,653,677,-12,39,249,0,403,888,0,114
+948,rock,My Sweet Lord - Remastered 2014,George Harrison,537,701,-8,33,97,0,83,583,1,120
+949,rock,Ooh La La,Faces,601,574,-8,30,579,0,216,800,2,147
+950,rock,Like a Stone,Audioslave,614,568,-5,27,7,0,99,516,7,107
+951,rock,Big Log - 2006 Remaster,Robert Plant,554,639,-7,27,359,2,205,644,9,180
+952,rock,Bad To The Bone,George Thorogood & The Destroyers,459,727,-11,30,6,65,384,955,0,149
+953,rock,I'll Stand by You,Pretenders,438,606,-6,30,300,0,75,266,7,133
+954,rock,Born To Be Wild,Steppenwolf,438,710,-12,91,262,537,221,530,2,145
+955,rock,Should I Stay or Should I Go - Remastered,The Clash,743,836,-6,116,80,0,384,820,2,113
+956,rock,Show Me The Way,Peter Frampton,700,726,-7,32,434,0,96,641,2,130
+957,rock,Heavy Metal,Sammy Hagar,276,639,-11,47,17,0,292,643,2,186
+958,rock,Renegade,Styx,492,552,-12,34,15,0,72,655,7,105
+959,rock,Man in the Box,Alice In Chains,355,791,-7,45,0,0,96,758,8,106
+960,rock,Cum on Feel the Noize,Quiet Riot,409,920,-5,120,7,1,82,370,11,145
+961,rock,18 and Life,Skid Row,466,648,-11,28,2,0,112,305,1,90
+962,rock,Jane Says,Jane's Addiction,402,597,-9,32,38,0,109,496,2,81
+963,rock,I Was Made For Lovin' You,KISS,768,852,-6,38,214,0,72,867,4,128
+964,rock,Take Me Home Tonight,Eddie Money,608,768,-9,36,101,0,94,748,1,132
+965,rock,"Paint It, Black",The Rolling Stones,464,795,-9,92,49,2,399,612,1,158
+966,rock,No Rain,Blind Melon,389,476,-9,31,619,0,255,566,9,148
+967,rock,Breaking the Law,Judas Priest,362,961,-5,85,24,0,159,491,2,164
+968,rock,Holy Diver,Dio,473,783,-10,86,12,475,268,124,10,91
+969,rock,Epic,Faith No More,358,893,-7,120,22,52,126,262,4,174
+970,rock,Alive,Pearl Jam,284,875,-6,42,7,0,402,595,11,75
+971,rock,Riders on the Storm,The Doors,550,722,-11,28,250,12,110,716,11,103
+972,rock,Get It On,T. Rex,728,878,-6,56,176,856,610,911,11,126
+973,rock,Lonely Boy,The Black Keys,356,872,-7,68,4,9,99,607,2,166
+974,rock,Joker And The Thief,Wolfmother,264,800,-2,53,19,7,406,465,0,155
+975,rock,Turn! Turn! Turn! (To Everything There Is a Season),The Byrds,452,818,-8,43,135,0,52,755,2,124
+976,rock,American Woman,The Guess Who,550,726,-8,51,146,6,428,370,2,92
+977,rock,Slow Ride,Foghat,493,586,-13,46,20,1,102,656,2,113
+978,rock,Layla,Derek & The Dominos,404,902,-3,66,577,297,287,497,1,115
+979,rock,Dust in the Wind,Kansas,475,322,-10,28,367,0,110,387,7,93
+980,rock,1979 - Remastered 2012,The Smashing Pumpkins,767,787,-9,33,16,583,51,964,3,126
+981,rock,Where Is My Mind? - Remastered,Pixies,519,441,-14,35,20,0,76,250,4,81
+982,rock,Reelin' In The Years,Steely Dan,523,758,-9,40,133,0,95,766,2,135
+983,rock,Our House,"Crosby, Stills, Nash & Young",593,205,-14,47,896,0,119,377,9,140
+984,rock,The Weight - Remastered,The Band,630,551,-9,54,373,0,103,518,9,143
+985,rock,Glycerine - Remastered,Bush,421,335,-11,32,34,2,94,88,5,114
+986,rock,Band On The Run - Remastered 2010,Wings,479,601,-8,31,83,1,110,669,7,124
+987,rock,Heart of Gold - 2009 Remaster,Neil Young,541,459,-10,29,189,27,99,803,4,171
+988,rock,Can't Fight This Feeling,REO Speedwagon,408,480,-11,26,155,0,87,190,9,156
+989,rock,Ace of Spades,Motörhead,329,974,-8,135,0,0,90,234,3,140
+990,rock,Pale Blue Eyes,The Velvet Underground,637,107,-18,34,911,1,103,296,5,82
+991,rock,The Boys Of Summer,Don Henley,516,549,-13,37,501,5,184,907,6,176
+992,rock,Doctor Doctor - 2007 Remaster,UFO,298,799,-6,46,0,0,496,561,2,143
+993,rock,We're Not Gonna Take It,Twisted Sister,502,924,-6,50,12,0,162,922,4,149
+994,rock,Old Time Rock & Roll,Bob Seger,714,937,-2,39,206,0,73,964,6,124
+995,rock,Shine,Collective Soul,540,423,-8,28,294,88,152,353,6,150
+996,rock,Helplessly Hoping - 2005 Remaster,"Crosby, Stills & Nash",567,159,-13,33,914,0,111,436,7,146
+997,rock,Everlong,Foo Fighters,413,881,-5,36,0,0,80,364,11,158
+998,rock,The Power Of Love,Huey Lewis & The News,758,831,-5,32,85,0,101,958,5,118
+999,rock,Killing In The Name,Rage Against The Machine,466,833,-4,304,26,0,32,661,7,88

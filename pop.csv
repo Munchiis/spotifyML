@@ -1,51 +1,101 @@
-genre,name,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,key,tempo
-pop,Baila Conmigo (with Rauw Alejandro),0.823,0.544,-7.132,0.0715,0.0215,0.00315,0.0966,0.664,5,149.903
-pop,Met Him Last Night (feat. Ariana Grande),0.538,0.512,-4.548,0.0262,0.22,0,0.101,0.12,4,144.978
-pop,Scars To Your Beautiful,0.573,0.739,-5.74,0.129,0.0285,0,0.111,0.451,0,97.085
-pop,Dusk Till Dawn (feat. Sia) - Radio Edit,0.259,0.437,-6.589,0.0386,0.102,1.32e-06,0.106,0.0951,11,180.042
-pop,Havana (feat. Young Thug),0.765,0.523,-4.333,0.03,0.184,3.56e-05,0.132,0.394,2,104.988
-pop,"Let Me Go (with Alesso, Florida Georgia Line & watt)",0.664,0.708,-4.154,0.0474,0.0337,0,0.0841,0.742,8,103.07
-pop,Work from Home (feat. Ty Dolla $ign),0.803,0.585,-5.861,0.0432,0.103,3.94e-06,0.0644,0.593,8,105.017
-pop,Issues,0.728,0.415,-6.852,0.0639,0.401,0,0.0616,0.455,8,114.145
-pop,"Love Me Like You Do - From ""Fifty Shades Of Grey""",0.262,0.606,-6.646,0.0484,0.247,0,0.125,0.275,8,189.857
-pop,Without Me,0.752,0.488,-7.05,0.0705,0.297,9.11e-06,0.0936,0.533,6,136.041
-pop,Lush Life,0.694,0.712,-3.923,0.046,0.133,0,0.211,0.799,7,98.022
-pop,Big (feat. Gunna),0.781,0.843,-3.445,0.0349,0.0672,1.27e-06,0.0637,0.616,7,111.992
-pop,Sucker,0.842,0.734,-5.065,0.0588,0.0427,0,0.106,0.952,1,137.958
-pop,Meant to Be (feat. Florida Georgia Line),0.642,0.772,-6.61,0.0848,0.0476,0,0.0646,0.589,10,153.995
-pop,Strawberries & Cigarettes,0.578,0.537,-8.676,0.0832,0.162,0,0.076,0.25,9,83.909
-pop,Spaceman,0.548,0.601,-7.366,0.235,0.324,0,0.107,0.358,5,155.554
-pop,Selfish,0.375,0.461,-6.202,0.0279,0.627,0,0.386,0.233,9,75.217
-pop,hate u love u,0.407,0.416,-8.915,0.174,0.656,0,0.0981,0.246,6,176.947
-pop,feel something,0.74,0.415,-8.914,0.0707,0.242,0.000156,0.319,0.156,0,136.029
-pop,Bang Bang,0.706,0.783,-3.441,0.1,0.315,0,0.373,0.739,0,150.045
-pop,Somebody To You,0.526,0.818,-5.952,0.0358,0.0587,0,0.333,0.896,3,171.96
-pop,Cake By The Ocean,0.774,0.753,-5.446,0.0517,0.152,0,0.0371,0.896,4,119.002
-pop,Habits (Stay High),0.729,0.65,-3.539,0.0313,0.0702,6.69e-05,0.0829,0.347,5,110.02
-pop,2002,0.697,0.683,-2.881,0.117,0.0372,0,0.137,0.603,1,96.133
-pop,Sweet Melody,0.448,0.824,-4.249,0.057,0.0739,0,0.113,0.419,5,119.965
-pop,Teeth,0.749,0.461,-2.961,0.0416,0.0516,6.24e-06,0.0738,0.42,10,139.02
-pop,Black And White,0.443,0.582,-6.02,0.0482,0.0301,0,0.127,0.239,2,147.589
-pop,The Middle,0.753,0.657,-3.061,0.0449,0.171,0,0.112,0.437,7,107.01
-pop,Love You Like A Love Song,0.858,0.678,-3.87,0.0469,0.0761,0,0.0741,0.922,1,117.009
-pop,July,0.708,0.186,-8.953,0.042,0.868,0,0.0779,0.322,9,72.541
-pop,Like I'm Gonna Lose You (feat. John Legend),0.63,0.53,-7.259,0.0434,0.4,0,0.177,0.417,0,108.038
-pop,I.F.L.Y.,0.812,0.519,-4.823,0.0385,0.379,0,0.13,0.554,2,104.954
-pop,TiK ToK,0.755,0.837,-2.718,0.142,0.0991,0,0.289,0.714,2,120.028
-pop,Prisoner (feat. Dua Lipa),0.781,0.67,-3.912,0.0452,0.0103,0,0.0761,0.595,3,127.99
-pop,Skin,0.557,0.457,-5.372,0.0335,0.428,0,0.0567,0.328,7,105.918
-pop,I Like Me Better,0.752,0.505,-7.621,0.253,0.535,2.55e-06,0.104,0.419,9,91.97
-pop,Strip That Down (feat. Quavo),0.873,0.495,-5.446,0.0518,0.199,0,0.0805,0.546,6,106.033
-pop,you broke me first,0.667,0.373,-9.389,0.05,0.785,0,0.0906,0.0823,4,124.148
-pop,Tick Tock (feat. 24kGoldn),0.779,0.705,-3.895,0.0344,0.369,7.91e-06,0.124,0.946,0,101.022
-pop,Señorita,0.759,0.548,-6.049,0.029,0.0392,0,0.0828,0.749,9,116.967
-pop,Bitter,0.724,0.594,-7.126,0.102,0.393,0.00116,0.0889,0.413,6,136.002
-pop,We Don't Talk Anymore (feat. Selena Gomez),0.728,0.563,-8.053,0.134,0.621,0,0.179,0.352,1,100.017
-pop,Hurts So Good,0.672,0.625,-5.068,0.0468,0.0774,0,0.0934,0.423,7,120.038
-pop,Painkiller,0.683,0.42,-6.51,0.0542,0.0875,0,0.225,0.469,5,128.621
-pop,Fallin’ (Adrenaline),0.606,0.9,-4.504,0.119,0.0101,0,0.075,0.233,0,133.963
-pop,Dancing With Your Ghost,0.629,0.327,-8.285,0.029,0.761,2.96e-05,0.103,0.381,11,74.953
-pop,Don't Call Me Up,0.674,0.881,-2.853,0.147,0.296,3.01e-06,0.0793,0.234,9,98.994
-pop,Because of You,0.587,0.583,-5.284,0.0313,0.248,0,0.124,0.15,5,139.92
-pop,Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album,0.696,0.686,-6.113,0.0309,0.262,0,0.174,0.7,5,115.982
-pop,Last Friday Night (T.G.I.F.),0.652,0.812,-3.797,0.0409,0.00125,3.01e-05,0.667,0.72,3,126.023
+genre,name,artist,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,key,tempo
+pop,Baila Conmigo (with Rauw Alejandro),Selena Gomez,823,544,-7,71,21,3,96,664,5,149
+pop,Met Him Last Night (feat. Ariana Grande),Demi Lovato,538,512,-4,26,220,0,101,120,4,144
+pop,Scars To Your Beautiful,Alessia Cara,573,739,-5,129,28,0,111,451,0,97
+pop,Dusk Till Dawn (feat. Sia) - Radio Edit,ZAYN,259,437,-6,38,102,0,106,95,11,180
+pop,Havana (feat. Young Thug),Camila Cabello,765,523,-4,30,184,0,132,394,2,104
+pop,"Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,664,708,-4,47,33,0,84,742,8,103
+pop,Work from Home (feat. Ty Dolla $ign),Fifth Harmony,803,585,-5,43,103,0,64,593,8,105
+pop,Issues,Julia Michaels,728,415,-6,63,401,0,61,455,8,114
+pop,"Love Me Like You Do - From ""Fifty Shades Of Grey""",Ellie Goulding,262,606,-6,48,247,0,125,275,8,189
+pop,Without Me,Halsey,752,488,-7,70,297,0,93,533,6,136
+pop,Lush Life,Zara Larsson,694,712,-3,46,133,0,211,799,7,98
+pop,Big (feat. Gunna),Rita Ora,781,843,-3,34,67,0,63,616,7,111
+pop,Sucker,Jonas Brothers,842,734,-5,58,42,0,106,952,1,137
+pop,Meant to Be (feat. Florida Georgia Line),Bebe Rexha,642,772,-6,84,47,0,64,589,10,153
+pop,Strawberries & Cigarettes,Troye Sivan,578,537,-8,83,162,0,76,250,9,83
+pop,Spaceman,Nick Jonas,548,601,-7,235,324,0,107,358,5,155
+pop,Selfish,Madison Beer,375,461,-6,27,627,0,386,233,9,75
+pop,hate u love u,Olivia O'Brien,407,416,-8,174,656,0,98,246,6,176
+pop,feel something,Bea Miller,740,415,-8,70,242,0,319,156,0,136
+pop,Bang Bang,Jessie J,706,783,-3,100,315,0,373,739,0,150
+pop,Somebody To You,The Vamps,526,818,-5,35,58,0,333,896,3,171
+pop,Cake By The Ocean,DNCE,774,753,-5,51,152,0,37,896,4,119
+pop,Habits (Stay High),Tove Lo,729,650,-3,31,70,0,82,347,5,110
+pop,2002,Anne-Marie,697,683,-2,117,37,0,137,603,1,96
+pop,Sweet Melody,Little Mix,448,824,-4,57,73,0,113,419,5,119
+pop,Teeth,5 Seconds of Summer,749,461,-2,41,51,0,73,420,10,139
+pop,Black And White,Niall Horan,443,582,-6,48,30,0,127,239,2,147
+pop,The Middle,Zedd,753,657,-3,44,171,0,112,437,7,107
+pop,Love You Like A Love Song,Selena Gomez & The Scene,858,678,-3,46,76,0,74,922,1,117
+pop,July,Noah Cyrus,708,186,-8,42,868,0,77,322,9,72
+pop,Like I'm Gonna Lose You (feat. John Legend),Meghan Trainor,630,530,-7,43,400,0,177,417,0,108
+pop,I.F.L.Y.,Bazzi,812,519,-4,38,379,0,130,554,2,104
+pop,TiK ToK,Kesha,755,837,-2,142,99,0,289,714,2,120
+pop,Prisoner (feat. Dua Lipa),Miley Cyrus,781,670,-3,45,10,0,76,595,3,127
+pop,Skin,Sabrina Carpenter,557,457,-5,33,428,0,56,328,7,105
+pop,I Like Me Better,Lauv,752,505,-7,253,535,0,104,419,9,91
+pop,Strip That Down (feat. Quavo),Liam Payne,873,495,-5,51,199,0,80,546,6,106
+pop,you broke me first,Tate McRae,667,373,-9,50,785,0,90,82,4,124
+pop,Tick Tock (feat. 24kGoldn),Clean Bandit,779,705,-3,34,369,0,124,946,0,101
+pop,SeÃ±orita,Shawn Mendes,759,548,-6,29,39,0,82,749,9,116
+pop,Bitter,FLETCHER,724,594,-7,102,393,1,88,413,6,136
+pop,We Don't Talk Anymore (feat. Selena Gomez),Charlie Puth,728,563,-8,134,621,0,179,352,1,100
+pop,Hurts So Good,Astrid S,672,625,-5,46,77,0,93,423,7,120
+pop,Painkiller,Ruel,683,420,-6,54,87,0,225,469,5,128
+pop,Fallinâ€™ (Adrenaline),Why Don't We,606,900,-4,119,10,0,75,233,0,133
+pop,Dancing With Your Ghost,Sasha Sloan,629,327,-8,29,761,0,103,381,11,74
+pop,Don't Call Me Up,Mabel,674,881,-2,147,296,0,79,234,9,98
+pop,Because of You,Kelly Clarkson,587,583,-5,31,248,0,124,150,5,139
+pop,Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album,Lennon Stella,696,686,-6,30,262,0,174,700,5,115
+pop,Last Friday Night (T.G.I.F.),Katy Perry,652,812,-3,40,1,0,667,720,3,126
+pop,If the World Was Ending - feat. Julia Michaels,JP Saxe,464,473,-10,129,866,0,109,604,1,75
+pop,Call Me Maybe,Carly Rae Jepsen,783,580,-6,40,11,0,108,660,7,120
+pop,Fancy,Iggy Azalea,912,716,-4,69,90,0,49,377,10,94
+pop,Phases,PRETTYMUCH,770,636,-6,131,169,0,67,492,11,105
+pop,No Promises (feat. Demi Lovato),Cheat Codes,741,667,-5,134,57,0,106,595,10,112
+pop,Royals,Lorde,674,428,-9,122,121,0,132,337,7,84
+pop,Joke's On You,Charlotte Lawrence,476,652,-4,104,230,0,136,470,2,190
+pop,"Sit Still, Look Pretty",Daya,655,787,-3,264,122,0,178,554,2,181
+pop,Big Girls Don't Cry (Personal),Fergie,708,641,-4,33,205,0,94,253,7,113
+pop,Slow Dance,AJ Mitchell,692,443,-5,38,214,0,60,363,1,127
+pop,Diamonds,Sam Smith,637,666,-6,49,161,0,108,529,10,104
+pop,Blueberry Eyes (feat. SUGA of BTS),MAX,746,611,-7,101,454,0,133,411,0,149
+pop,A Thousand Years,Christina Perri,421,407,-7,26,309,0,110,161,10,139
+pop,Say You Won't Let Go,James Arthur,358,557,-7,59,695,0,90,494,10,85
+pop,Perfect Strangers,Jonas Blue,730,861,-4,45,390,0,213,704,1,117
+pop,Classic,MKTO,720,791,-4,124,38,0,157,756,1,102
+pop,I'll Be There,Jess Glynne,627,858,-3,39,28,0,199,399,7,100
+pop,Levitating (feat. DaBaby),Dua Lipa,702,825,-3,60,8,0,67,915,6,102
+pop,I Don't Know Why,NOTD,499,898,-4,124,124,0,83,618,8,120
+pop,Counting Stars,OneRepublic,664,705,-4,38,65,0,118,477,1,122
+pop,Be Alright,Dean Lewis,551,537,-7,34,705,0,80,493,11,126
+pop,you were good to me,Jeremy Zucker,561,84,-15,40,913,0,112,206,2,102
+pop,IDK You Yet,Alexander 23,648,308,-11,40,886,77,124,198,1,76
+pop,Dandelions,Ruth B.,609,692,-2,25,15,0,86,454,1,116
+pop,Unlock it (feat. Kim Petras and Jay Park),Charli XCX,504,711,-5,45,58,0,382,500,9,134
+pop,King,Years & Years,560,857,-4,38,59,0,381,432,4,119
+pop,Do It Again,Pia Mia,712,564,-6,47,26,0,87,411,8,95
+pop,I'll Always Remember You,Hannah Montana,418,721,-2,38,48,0,98,233,8,144
+pop,Ready or Not,Bridgit Mendler,715,872,-3,50,3,0,107,748,2,93
+pop,2 On (feat. ScHoolboy Q),Tinashe,742,595,-7,107,150,0,111,431,9,101
+pop,Watermelon Sugar,Harry Styles,548,816,-4,46,122,0,335,557,0,95
+pop,Troublemaker (feat. Flo Rida),Olly Murs,762,863,-3,56,15,0,125,965,0,106
+pop,I Was Made For Loving You,Tori Kelly,374,344,-11,30,355,0,96,216,2,106
+pop,What Makes You Beautiful,One Direction,726,787,-2,73,9,0,59,888,4,124
+pop,Closer,The Chainsmokers,748,524,-5,33,414,0,111,661,8,95
+pop,drivers license,Olivia Rodrigo,585,436,-8,60,721,0,105,132,10,143
+pop,Starships,Nicki Minaj,747,716,-2,75,135,0,251,751,11,125
+pop,Nights Like This (feat. Ty Dolla $ign),Kehlani,610,725,-5,150,367,0,154,291,8,146
+pop,When You Love Someone,James TW,681,453,-6,27,263,0,54,348,7,125
+pop,Don't Cha,The Pussycat Dolls,877,637,-3,101,5,0,95,569,1,119
+pop,Bubblegum Bitch,MARINA,495,856,-5,31,0,0,103,609,0,158
+pop,Eastside (with Halsey & Khalid),benny blanco,632,686,-7,243,549,0,200,329,6,89
+pop,Too Little Too Late - 2018,JoJo,394,821,-4,40,3,19,186,509,6,82
+pop,Let's Fall in Love for the Night,FINNEAS,737,408,-7,104,802,0,171,374,5,127
+pop,Let It Go,James Bay,546,311,-10,28,818,0,107,246,1,147
+pop,Take You Dancing,Jason Derulo,789,711,-4,41,33,0,87,753,2,112
+pop,No Air (feat. Chris Brown),Jordin Sparks,466,759,-4,199,52,0,58,328,8,160
+pop,"Lady Marmalade - From ""Moulin Rouge"" Soundtrack",Christina Aguilera,756,809,-3,54,17,0,660,640,5,109
+pop,Umbrella,Rihanna,583,829,-4,134,8,0,42,575,1,174
+pop,Your Shirt,Chelsea Cutler,426,476,-6,74,185,0,327,169,2,179

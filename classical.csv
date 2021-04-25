@@ -1,51 +1,101 @@
-genre,name,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,key,tempo
-classical,"Handel / Orch. Hale: Keyboard Suite in D Minor, HWV 437: III. Sarabande",0.0939,0.0336,-24.041,0.0606,0.927,0.83,0.0954,0.0516,2,67.359
-classical,"Goldberg Variations, BWV 988: Aria",0.454,0.0139,-29.966,0.0514,0.995,0.943,0.0736,0.244,4,130.253
-classical,"Clair de Lune, L. 32",0.335,0.00532,-31.646,0.0376,0.994,0.912,0.0621,0.0397,1,65.832
-classical,"Sonata No. 14 ""Moonlight"" in C-Sharp Minor"", Op. 27 No. 2: I. Adagio sostenuto",0.184,0.00527,-37.264,0.0432,0.995,0.887,0.173,0.151,1,170.612
-classical,Miroirs: III. Une barque sur l'oc�an,0.17,0.0479,-27.021,0.0438,0.981,0.906,0.0795,0.0304,2,75.664
-classical,"Nocturne No.2 In E Flat, Op.9 No.2",0.442,0.00919,-32.452,0.047,0.984,0.936,0.0873,0.0929,3,79.314
-classical,"Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",0.0859,0.0653,-24.541,0.0572,0.972,0.889,0.0876,0.068,5,61.538
-classical,"Lyric Pieces, Book 5, Op. 54: Nocturne",0.296,0.0435,-29.73,0.0411,0.987,0.857,0.0786,0.0302,0,72.282
-classical,"Piano Concerto No. 21 in C Major, K. 467 ""Elvira Madigan"": II. Andante",0.194,0.0324,-28.215,0.0382,0.982,0.961,0.0916,0.0596,5,144.13
-classical,"8 Humoresques, Op. 101, B. 187: No. 7, Poco lento e grazioso (Transcribed by Oscar Morawetz for Violin, Cello & Orchestra)",0.182,0.0603,-25.046,0.0459,0.852,0.411,0.145,0.141,6,98.799
-classical,"Sechs Klavierst�cke, Op. 118: II. Intermezzo in A Major",0.299,0.00626,-30.923,0.0478,0.994,0.901,0.0823,0.0634,9,69.043
-classical,"The Four Seasons - Violin Concerto in F Minor, Op. 8 No. 4, RV 297 ""Winter"": I. Allegro non molto",0.48,0.163,-19.117,0.0645,0.81,0.754,0.093,0.212,5,158.366
-classical,"Nabucco / Act 3: Va, pensiero, sull'ali dorate",0.0666,0.0211,-24.057,0.0398,0.984,0.685,0.0999,0.132,1,73.377
-classical,"Die Walkure, Act III: Ride of the Valkyries",0.251,0.219,-16.781,0.0323,0.929,0.933,0.0824,0.0965,7,89.997
-classical,"6 Impromptus, Op. 5: Impromptu VI",0.448,0.0052,-36.512,0.0564,0.995,0.88,0.0698,0.0398,4,62.171
-classical,Pini di Roma (The Pines of Rome): III. I pini del Gianiclo,0.0754,0.0102,-35.69,0.0464,0.901,0.106,0.0817,0.0331,4,81.324
-classical,"Violin Sonata in A major, FWV 8: IV. Allegretto poco mosso",0.25,0.135,-18.615,0.0488,0.958,0.0349,0.0477,0.179,9,94.404
-classical,"Minuet in A Major, D. 334",0.273,0.00573,-39.245,0.0493,0.994,0.913,0.0857,0.174,9,91.621
-classical,"Gianni Schicchi: ""O mio Babbino caro""",0.112,0.196,-14.767,0.0418,0.966,0.802,0.117,0.0363,8,89.321
-classical,"An der sch�nen blauen Donau, Op.314",0.233,0.0252,-24.824,0.0346,0.975,0.601,0.143,0.0936,2,94.736
-classical,"Symphony No. 4 in E-Flat Major, WAB 104, ""Romantic"": I. Bewegt, nicht zu schnell - Live",0.0724,0.0659,-19.545,0.0408,0.947,0.866,0.109,0.0366,3,70.285
-classical,"4 Lieder, Op. 27, TrV 170: IV. Morgen! (Arr. for Cello and Piano by Julian Riem)",0.138,0.0126,-28.316,0.0521,0.992,0.787,0.0713,0.0343,5,174.084
-classical,"Lieder ohne Worte (Songs without Words), Book 2, Op. 30: No. 7 in E-Flat Major, Op. 30, No. 1",0.355,0.0164,-28.659,0.0396,0.995,0.926,0.0986,0.0922,3,67.946
-classical,"The Planets, Op. 32: IV. Jupiter, the Bringer of Jollity",0.29,0.13,-21.544,0.0386,0.943,0.911,0.0811,0.154,7,132.869
-classical,"Violin Concerto No.1 in G minor, Op.26: 1. Vorspiel (Allegro moderato)",0.169,0.0974,-21.414,0.042,0.864,0.632,0.087,0.0524,3,170.379
-classical,The Lark Ascending,0.0811,0.0122,-32.654,0.0511,0.902,0.308,0.0648,0.0384,4,74.554
-classical,"Cello Concerto in E Minor, Op.85 (1997 - Remaster): I. Adagio - Moderato",0.124,0.0978,-22.849,0.0432,0.952,0.218,0.112,0.0433,4,96.309
-classical,"Symphonie fantastique, Op. 14: Symphonie fantastique, Op. 14: IV. Marche au supplice",0.356,0.207,-17.76,0.0388,0.95,0.914,0.0802,0.328,10,146.755
-classical,3 Small Tone Poems: No. 1. Summer Evening,0.102,0.0449,-23.95,0.0388,0.972,0.771,0.0646,0.0334,2,90.459
-classical,"Liebestraume, S541/R211 : No. 3: Nocturne in A-Flat Major",0.343,0.0342,-25.591,0.0406,0.991,0.92,0.1,0.0378,8,60.228
-classical,"Carnival of the Animals, R. 125: The Swan",0.211,0.00756,-33.123,0.0455,0.994,0.89,0.0734,0.0391,7,118.247
-classical,Khachaturian: Spartacus (Highlights from the Ballet): Adagio of Spartacus and Phrygia,0.109,0.106,-21.555,0.0392,0.82,0.816,0.102,0.0334,8,88.285
-classical,Gymnop�die No. 1,0.469,0.0128,-36.856,0.119,0.994,0.937,0.0941,0.354,7,72.765
-classical,"Faur�: Pavane in F-Sharp Minor, Op. 50",0.0982,0.0575,-24.448,0.0454,0.984,0.904,0.122,0.0392,6,70.041
-classical,Adagio in G Minor,0.099,0.279,-12.939,0.0346,0.743,0.903,0.114,0.0464,7,89.755
-classical,Die Moldau,0.253,0.224,-12.908,0.0321,0.937,0.88,0.116,0.107,7,76.652
-classical,Barcarolle,0.238,0.0815,-22.5,0.045,0.983,4.01e-05,0.279,0.0414,2,128.52
-classical,Barber: Adagio for Strings,0.102,0.0733,-24.133,0.0488,0.974,0.859,0.28,0.0308,10,73.954
-classical,Mahler: Symphony No. 5 in C-Sharp Minor: IV. Adagietto,0.0783,0.0523,-23.247,0.0471,0.896,0.945,0.0806,0.0327,5,82.015
-classical,"Cello Concerto in C Major, G. 477: II. Largo",0.0959,0.00714,-36.544,0.0427,0.92,0.0281,0.106,0.0532,5,70.474
-classical,"Kinderszenen, Op. 15: No. 7 in F Major, Tr�umerei",0.5,0.0123,-30.17,0.0712,0.995,0.954,0.0748,0.313,5,130.128
-classical,Overture Candide,0.285,0.428,-11.916,0.0436,0.852,0.506,0.114,0.48,3,159.082
-classical,Jazz Suite No. 2: VI. Waltz 2,0.322,0.184,-18.312,0.0338,0.984,0.902,0.0813,0.356,0,107.847
-classical,"Dido and Aeneas, Z. 626 / Act 3: ""When I Am Laid In Earth"" Dido's Lamento (Arr. For Cello And Strings By Mathieu Herzog)",0.0752,0.0604,-23.96,0.0485,0.957,0.902,0.0889,0.034,7,76.509
-classical,"6 Violin Sonatas, Op. 10b No. 2 in G Major, J. 100: II. Adagio",0.0808,0.00344,-38.037,0.0458,0.972,0.112,0.141,0.197,0,81.353
-classical,"Carmen, Act I: No.5 Habanera : L'amour est un oiseau rebelle (Carmen/Cigari�res/Jeunes gens/Dragons)",0.364,0.0592,-21.757,0.057,0.978,0,0.0823,0.185,2,123.789
-classical,Mascagni: Cavalleria rusticana: Intermezzo,0.101,0.115,-17.553,0.0392,0.769,0.891,0.406,0.0374,5,84.976
-classical,"Delibes: Lakm�, Act 1: ""D�me �pais, le jasmin"" (Lakm�, Mallika)",0.291,0.119,-20.493,0.0439,0.972,0.51,0.296,0.0571,11,125.103
-classical,Rodrigo: Concierto de Aranjuez: II. Adagio,0.253,0.098,-19.878,0.0437,0.93,0.862,0.122,0.062,11,84.865
-classical,Rhapsody In Blue,0.308,0.247,-15.862,0.0441,0.975,0.769,0.0968,0.113,9,74.147
+genre,name,artist,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,key,tempo
+classical,"Handel / Orch. Hale: Keyboard Suite in D Minor, HWV 437: III. Sarabande",George Frideric Handel,93,33,-24,60,927,830,95,51,2,67
+classical,"Goldberg Variations, BWV 988: Aria",Johann Sebastian Bach,454,13,-29,51,995,943,73,244,4,130
+classical,"Clair de Lune, L. 32",Claude Debussy,335,5,-31,37,994,912,62,39,1,65
+classical,"Sonata No. 14 ""Moonlight"" in C-Sharp Minor"", Op. 27 No. 2: I. Adagio sostenuto",Ludwig van Beethoven,184,5,-37,43,995,887,173,151,1,170
+classical,Miroirs: III. Une barque sur l'océan,Maurice Ravel,170,47,-27,43,981,906,79,30,2,75
+classical,"Nocturne No.2 In E Flat, Op.9 No.2",Frédéric Chopin,442,9,-32,47,984,936,87,92,3,79
+classical,"Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",Franz Joseph Haydn,85,65,-24,57,972,889,87,68,5,61
+classical,"Lyric Pieces, Book 5, Op. 54: Nocturne",Edvard Grieg,296,43,-29,41,987,857,78,30,0,72
+classical,"Piano Concerto No. 21 in C Major, K. 467 ""Elvira Madigan"": II. Andante",Wolfgang Amadeus Mozart,194,32,-28,38,982,961,91,59,5,144
+classical,"8 Humoresques, Op. 101, B. 187: No. 7, Poco lento e grazioso (Transcribed by Oscar Morawetz for Violin, Cello & Orchestra)",Antonín Dvořák,182,60,-25,45,852,411,145,141,6,98
+classical,"Sechs Klavierstücke, Op. 118: II. Intermezzo in A Major",Johannes Brahms,299,6,-30,47,994,901,82,63,9,69
+classical,"The Four Seasons - Violin Concerto in F Minor, Op. 8 No. 4, RV 297 ""Winter"": I. Allegro non molto",Antonio Vivaldi,480,163,-19,64,810,754,93,212,5,158
+classical,"Nabucco / Act 3: Va, pensiero, sull'ali dorate",Giuseppe Verdi,66,21,-24,39,984,685,99,132,1,73
+classical,"Die Walkure, Act III: Ride of the Valkyries",Richard Wagner,251,219,-16,32,929,933,82,96,7,89
+classical,"6 Impromptus, Op. 5: Impromptu VI",Jean Sibelius,448,5,-36,56,995,880,69,39,4,62
+classical,Pini di Roma (The Pines of Rome): III. I pini del Gianiclo,Ottorino Respighi,75,10,-35,46,901,106,81,33,4,81
+classical,"Violin Sonata in A major, FWV 8: IV. Allegretto poco mosso",César Franck,250,135,-18,48,958,34,47,179,9,94
+classical,"Minuet in A Major, D. 334",Franz Schubert,273,5,-39,49,994,913,85,174,9,91
+classical,"Gianni Schicchi: ""O mio Babbino caro""",Giacomo Puccini,112,196,-14,41,966,802,117,36,8,89
+classical,"An der schönen blauen Donau, Op.314",Johann Strauss II,233,25,-24,34,975,601,143,93,2,94
+classical,"Symphony No. 4 in E-Flat Major, WAB 104, ""Romantic"": I. Bewegt, nicht zu schnell - Live",Anton Bruckner,72,65,-19,40,947,866,109,36,3,70
+classical,"4 Lieder, Op. 27, TrV 170: IV. Morgen! (Arr. for Cello and Piano by Julian Riem)",Richard Strauss,138,12,-28,52,992,787,71,34,5,174
+classical,"Lieder ohne Worte (Songs without Words), Book 2, Op. 30: No. 7 in E-Flat Major, Op. 30, No. 1",Felix Mendelssohn,355,16,-28,39,995,926,98,92,3,67
+classical,"The Planets, Op. 32: IV. Jupiter, the Bringer of Jollity",Gustav Holst,290,130,-21,38,943,911,81,154,7,132
+classical,"Violin Concerto No.1 in G minor, Op.26: 1. Vorspiel (Allegro moderato)",Max Bruch,169,97,-21,42,864,632,87,52,3,170
+classical,The Lark Ascending,Ralph Vaughan Williams,81,12,-32,51,902,308,64,38,4,74
+classical,"Cello Concerto in E Minor, Op.85 (1997 - Remaster): I. Adagio - Moderato",Edward Elgar,124,97,-22,43,952,218,112,43,4,96
+classical,"Symphonie fantastique, Op. 14: Symphonie fantastique, Op. 14: IV. Marche au supplice",Hector Berlioz,356,207,-17,38,950,914,80,328,10,146
+classical,3 Small Tone Poems: No. 1. Summer Evening,Frederick Delius,102,44,-23,38,972,771,64,33,2,90
+classical,"Liebestraume, S541/R211 : No. 3: Nocturne in A-Flat Major",Franz Liszt,343,34,-25,40,991,920,100,37,8,60
+classical,"Carnival of the Animals, R. 125: The Swan",Camille Saint-Saëns,211,7,-33,45,994,890,73,39,7,118
+classical,Khachaturian: Spartacus (Highlights from the Ballet): Adagio of Spartacus and Phrygia,Aram Khachaturian,109,106,-21,39,820,816,102,33,8,88
+classical,Gymnopédie No. 1,Erik Satie,469,12,-36,119,994,937,94,354,7,72
+classical,"Fauré: Pavane in F-Sharp Minor, Op. 50",Gabriel Fauré,98,57,-24,45,984,904,122,39,6,70
+classical,Adagio in G Minor,Tomaso Albinoni,99,279,-12,34,743,903,114,46,7,89
+classical,Die Moldau,Bedřich Smetana,253,224,-12,32,937,880,116,107,7,76
+classical,Barcarolle,Jacques Offenbach,238,81,-22,45,983,0,279,41,2,128
+classical,Barber: Adagio for Strings,Samuel Barber,102,73,-24,48,974,859,280,30,10,73
+classical,Mahler: Symphony No. 5 in C-Sharp Minor: IV. Adagietto,Gustav Mahler,78,52,-23,47,896,945,80,32,5,82
+classical,"Cello Concerto in C Major, G. 477: II. Largo",Luigi Boccherini,95,7,-36,42,920,28,106,53,5,70
+classical,"Kinderszenen, Op. 15: No. 7 in F Major, Träumerei",Robert Schumann,500,12,-30,71,995,954,74,313,5,130
+classical,Overture Candide,Leonard Bernstein,285,428,-11,43,852,506,114,480,3,159
+classical,Jazz Suite No. 2: VI. Waltz 2,Dmitri Shostakovich,322,184,-18,33,984,902,81,356,0,107
+classical,"Dido and Aeneas, Z. 626 / Act 3: ""When I Am Laid In Earth"" Dido's Lamento (Arr. For Cello And Strings By Mathieu Herzog)",Henry Purcell,75,60,-23,48,957,902,88,34,7,76
+classical,"6 Violin Sonatas, Op. 10b No. 2 in G Major, J. 100: II. Adagio",Carl Maria von Weber,80,3,-38,45,972,112,141,197,0,81
+classical,"Carmen, Act I: No.5 Habanera : L'amour est un oiseau rebelle (Carmen/Cigarières/Jeunes gens/Dragons)",Georges Bizet,364,59,-21,57,978,0,82,185,2,123
+classical,Mascagni: Cavalleria rusticana: Intermezzo,Pietro Mascagni,101,115,-17,39,769,891,406,37,5,84
+classical,"Delibes: Lakmé, Act 1: ""Dôme épais, le jasmin"" (Lakmé, Mallika)",Léo Delibes,291,119,-20,43,972,510,296,57,11,125
+classical,Rodrigo: Concierto de Aranjuez: II. Adagio,Joaquín Rodrigo,253,98,-19,43,930,862,122,62,11,84
+classical,Rhapsody In Blue,George Gershwin,308,247,-15,44,975,769,96,113,9,74
+classical,Weint nicht um meinen Tod,Johann Bach,204,36,-25,57,948,120,118,97,0,74
+classical,Das Verlassene Mägdlein,Hugo Wolf,295,4,-33,49,991,82,97,35,9,69
+classical,The Rite of Spring: Part One: Adoration of the Earth: Introduction,Igor Stravinsky,101,24,-30,48,947,847,69,32,11,87
+classical,"Paganini: 24 Caprices, Op. 1: No. 24 in A Minor (Tema con variazioni. Quasi presto)",Niccolò Paganini,465,128,-17,51,978,271,42,428,9,111
+classical,Ave Maria,Charles Gounod,328,2,-33,39,995,747,72,361,0,73
+classical,Meditation: Méditation from Thaïs,Jules Massenet,114,70,-23,44,870,431,91,37,4,89
+classical,"Monteverdi: L'incoronazione di Poppea, SV 308, Act 3: ""Pur ti miro"" (Neron, Popea)",Claudio Monteverdi,259,62,-21,48,983,0,100,182,7,76
+classical,Pergolesi: Stabat Mater: I. Stabat Mater dolorosa,Giovanni Battista Pergolesi,172,36,-22,41,982,23,111,36,4,138
+classical,"Carmina Burana / 1. Primo vere: ""Veris leta facies""",Carl Orff,81,2,-39,42,920,305,134,71,9,54
+classical,Nocturne,Alexander Borodin,134,104,-26,61,986,927,331,98,9,81
+classical,"Radetzky March, Op. 228",Johann Strauss I,479,536,-12,33,643,315,293,499,9,104
+classical,"El amor brujo: Danza ritual del fuego, para ahuyentar los malos espíritus",Manuel de Falla,244,118,-19,42,926,912,77,69,7,141
+classical,"Serenade for Strings in C major, Op. 48: II. Walzer: Moderato, tempo di valse",Pyotr Ilyich Tchaikovsky,241,122,-22,49,925,660,126,187,7,66
+classical,Dance of the Hours,Amilcare Ponchielli,373,31,-26,39,955,185,189,166,4,76
+classical,"Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto",Sergei Rachmaninoff,194,54,-24,36,983,945,55,38,4,140
+classical,"Orfeo ed Euridice, Wq. 30 - Arranged Sgambati / Act 2: Melodie dell'Orfeo",Christoph Willibald Gluck,279,4,-36,43,989,982,63,39,2,69
+classical,Il barbiere di Siviglia: Overture (Sinfonia),Gioachino Rossini,347,264,-15,43,920,900,93,449,4,97
+classical,"Poème for Violin and Orchestra, Op. 25",Ernest Chausson,121,124,-22,41,824,560,107,35,10,91
+classical,Pride and Prejudice Suite: III. Elizabeth and Mr. Darcy,Carl Davis,209,125,-15,41,967,646,88,38,4,84
+classical,"Liturgie des Catéchumènes (Bénis le Seigneur, ô mon âme)",Sergei Rachmaninoff,102,24,-27,45,993,730,168,31,7,70
+classical,Copland: Appalachian Spring: VII. Doppio movimento (Variations on a Shaker Hymn - Simple Gifts),Aaron Copland,207,102,-17,38,974,542,104,303,1,82
+classical,Scheherazade: The Tale of the Kalendar Prince,Nikolai Rimsky-Korsakov,151,63,-24,43,962,603,466,79,11,61
+classical,"Sonata in A Minor, K.109: Adagio",Domenico Scarlatti,453,38,-28,39,995,908,79,155,9,97
+classical,Notturno for Strings and Harp,Arnold Schoenberg,97,80,-19,45,941,431,115,60,8,75
+classical,"War Requiem, Op. 66 / Libera me: 6c. Let Us Sleep Now...In Paradisum",Benjamin Britten,191,63,-26,42,981,533,117,32,9,100
+classical,Incises,Pierre Boulez,246,282,-23,52,983,883,109,219,0,172
+classical,"Concerto grosso in G minor, Op.6, No.8 ""fatto per la notte di Natale"": 3. Adagio - Allegro - Adagio",Arcangelo Corelli,197,91,-21,45,926,721,119,133,2,120
+classical,Romanza in F Major,Conrado del Campo,149,160,-17,44,991,823,100,78,5,71
+classical,"Erbarm dich mein, o Herre Gott, SWV 148",Heinrich Schütz,134,54,-26,57,984,0,111,47,0,74
+classical,Liebesleid (Love's Sorrow),Fritz Kreisler,331,169,-19,32,994,886,121,258,9,97
+classical,Kanon und Gigue,Johann Pachelbel,354,230,-18,43,800,3,85,520,2,152
+classical,"Music for Strings, Percussion and Celesta, Sz. 106: 3. Adagio",Béla Bartók,147,47,-29,38,571,350,98,43,10,84
+classical,"Keyboard Concerto in G Major, Wq. 44: II. Andantino",Carl Philipp Emanuel Bach,384,27,-26,33,975,623,230,196,4,86
+classical,"Prokofiev: Romeo and Juliet, Op. 64, Act 1: No. 13, Dance of the Knights (Complete Ballet)",Sergei Prokofiev,209,101,-19,40,927,900,77,153,0,85
+classical,Messe de Nostre Dame: Sanctus,Guillaume de Machaut,161,98,-22,37,991,0,76,48,9,132
+classical,"Piano Sonata No.17 in D minor, Op.31 No.2 ‘Tempest'",Lugwig van Beethoven,277,112,-20,35,988,890,94,143,7,75
+classical,Lontano,György Ligeti,73,36,-26,41,959,931,72,24,1,79
+classical,Hary Janos Suite: V. Kozjatek (Intermezzo),Zoltán Kodály,330,99,-20,34,909,852,201,193,2,110
+classical,Al dolce soun,Orlande de Lassus,113,113,-24,46,995,925,64,36,8,81
+classical,"Bellini: Norma, Act 1: ""Casta diva"" (Norma, Chorus)",Vincenzo Bellini,210,167,-17,40,977,0,96,57,5,93
+classical,"In ecclesiis (a 14), C78",Giovanni Gabrieli,245,106,-20,37,980,177,179,39,9,71
+classical,Missa Papae Marcelli: Kyrie,Giovanni Pierluigi da Palestrina,164,156,-20,42,995,445,91,39,9,136
+classical,Il barbiere di Siviglia: Overture (Sinfonia),Gioachino Rossini,322,140,-20,48,906,759,125,285,4,92
+classical,Ave maris stella,Guillaume Dufay,173,44,-28,49,987,1,99,62,9,70
+classical,"Suite for Violin, Clarinet and Piano, Op. 157b: II. Divertissement. Animé",Darius Milhaud,141,22,-30,43,985,275,86,240,5,83
+classical,"5 Preludes, W419: No. 5 in D Major",Heitor Villa-Lobos,449,104,-19,43,978,881,125,154,2,85
+classical,Cassadó: Toccata (in the Style of Frescobaldi),Gaspar Cassadó,231,121,-23,41,958,920,114,111,2,91
+classical,"Mozart, Leopold: Toy Symphony: I. Allegro",Leopold Mozart,593,194,-16,41,556,0,78,524,0,116
+classical,Tågen Letter,Carl Nielsen,293,81,-17,43,992,894,107,163,0,110
+classical,Spem in alium (The Forty-Part Motet),Thomas Tallis,174,228,-18,39,990,635,86,60,0,124
